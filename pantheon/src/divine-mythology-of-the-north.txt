@@ -1,0 +1,1743 @@
+﻿The Project Gutenberg EBook of The Edda, Vol. 1, by Winifred Faraday
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Edda, Vol. 1
+       The Divine Mythology of the North, Popular Studies in Mythology,
+       Romance, and Folklore, No. 12
+       
+
+Author: Winifred Faraday
+
+Release Date: July 23, 2004 [EBook #13007]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE EDDA, VOL. 1 ***
+
+
+
+
+Produced by Jeroen Hellingman and the Distributed Proofreaders Team.
+
+
+
+
+
+Popular Studies in Mythology, Romance, and Folklore, No. 12
+
+
+
+The Edda
+
+I
+
+The Divine Mythology of the North
+
+
+By
+
+Winifred Faraday, M.A.
+
+
+
+Published by David Nutt, at the Sign of the Phoenix, Long Acre, London
+1902
+
+
+
+
+Author's Note
+
+Some explanation is needed of the form of spelling I have adopted
+in transcribing Norse proper names. The spirants thorn and eth
+are represented by _th_ and _d_, as being more familiar to readers
+unacquainted with the  original. Marks of vowel-length are in all cases
+omitted. The inflexional _-r_ of the nominative singular masculine
+is also omitted, whether it appears as _-r_ or is assimilated to a
+preceding consonant (as in Odinn, Eysteinn, Heindall, Egill) in the
+Norse form, with the single exception of the name Tyr, where I use
+the form which has become conventional in English.
+
+Manchester,
+December 1901.
+
+
+
+
+The Edda: I. The Divine Mythology of the North
+
+
+The Icelandic Eddas are the only vernacular record of Germanic
+heathendom as it developed during the four centuries which in England
+saw the destruction of nearly all traces of the heathen system. The
+so-called Elder Edda is a collection of some thirty poems, mythic and
+heroic in substance, interspersed with short pieces of prose, which
+survives in a thirteenth-century MS., known as the Codex Regius,
+discovered in Iceland in 1642; to these are added other poems of
+similar character from other sources. The Younger Edda is a prose
+paraphrase of, and commentary on, these poems and others which are
+lost, together with a treatise on metre, written by the historian
+Snorri Sturluson about 1220.
+
+This use of the word Edda is incorrect and unhistorical, though
+convenient and sanctioned by the use of several centuries. It was early
+used as a general term for the rules and materials for versemaking,
+and applied in this sense to Snorri's work. When the poems on which
+his paraphrase is founded were discovered, Icelandic scholars by a
+misunderstanding applied the name to them also; and as they attributed
+the collection quite arbitrarily to the historian Saemund (1056-1133),
+it was long known as Saemundar Edda, a name now generally discarded in
+favour of the less misleading titles of Elder or Poetic Edda. From its
+application to this collection, the word derives a more extended use,
+(1) as a general term for Norse mythology; (2) as a convenient name
+to distinguish the simpler style of these anonymous narrative poems
+from the elaborate formality of the Skalds.
+
+The poems of the Edda are certainly older than the MS., although
+the old opinion as to their high antiquity is untenable. The majority
+probably date from the tenth century in their present form; this dating
+does not necessitate the ascription of the shape in which the legends
+are presented, still less of their substance, to that period. With
+regard to the place of their composition opinions vary widely,
+Norway, the British Isles and Greenland having all found champions;
+but the evidence is rather questionable, and I incline to leave
+them to the country which has preserved them. They are possibly of
+popular origin; this, together with their epic or narrative character,
+would account for the striking absence from them of some of the chief
+characteristics of Skaldic poetry: the obscuring of the sense by the
+elaborate interlacing of sentences and the extensive use of kennings
+or mythological synonyms, and the complication of the metre by such
+expedients as the conjunction of end-rhyme with alliteration. Eddie
+verse is governed solely by the latter, and the strophic arrangement
+is simple, only two forms occurring: (1) couplets of alliterative
+short lines; (2) six-line strophes, consisting of a couplet followed
+by a single short line, the whole repeated.
+
+Roughly speaking, the first two-fifths of the MS. is mythological,
+the rest heroic. I propose to observe this distinction, and to
+deal in this study with the stories of the Gods. In this connexion,
+Snorri's Edda and the mythical Ynglinga Saga may also be considered,
+but as both were compiled a couple of centuries or more after the
+introduction of Christianity into Iceland, it is uncertain how much in
+them is literary explanation of tradition whose meaning was forgotten;
+some also, especially in Snorri, is probably pure invention, fairy
+tale rather than myth.
+
+Many attempts have been made to prove that the material of the Edda
+is largely borrowed. The strength and distinction of Icelandic poetry
+rest rather on the fact that it is original and national and, like
+that of Greece, owes little to foreign sources; and that it began in
+the heathen age, before Christian or Romantic influences had touched
+Iceland. Valuable as the early Christian poetry of England is, we look
+in vain there for the humour, the large-minded simplicity of motive,
+the suggestive character-drawing, the swift dramatic action, which
+are as conspicuous in many poems in the Edda as in many of the Sagas.
+
+Omitting the heroic poems, there are in Codex Regius the following: (1)
+Of a more or less comprehensive character, _Völuspa, Vafthrudnismal,
+Grimnismal, Lokasenna, Harbardsljod_; (2) dealing with episodes,
+_Hymiskvida, Thrymskvida, Skirnisför. Havamal_ is a collection
+of proverbs, but contains two interpolations from mythical
+poems; _Alvissmal_, which, in the form of a dialogue between
+Thor and a dwarf Alviss, gives a list of synonyms, is a kind of
+mythologico-poetical glossary. Several of these poems are found
+in another thirteenth-century vellum fragment, with an additional
+one, variously styled _Vegtamskvida_ or _Baldr's Dreams_; the great
+fourteenth-century codex Flateybook contains _Hyndluljod_, partly
+genealogical, partly an imitation of _Völuspa_; and one of the MSS. of
+Snorri's Edda gives us _Rigsthula_.
+
+_Völuspa_, though not one of the earliest poems, forms an appropriate
+opening. Metrical considerations forbid an earlier date than the
+first quarter of the eleventh century, and the last few lines are
+still later. The material is, however, older: the poem is an outline,
+in allusions often obscure to us, of traditions and beliefs familiar to
+its first hearers. The very bareness of the outline is sufficient proof
+that the material is not new. The framework is apparently imitated from
+that of the poem known as _Baldr's Dreams_, some lines from which are
+inserted in _Völuspa_. This older poem describes Odin's visit to the
+Sibyl in hell-gates to inquire into the future. He rides down to her
+tomb at the eastern door of Nifl-hell and chants spells, until she
+awakes and asks: "What man unknown to me is that, who has troubled me
+with this weary journey? Snow has snowed on me, rain has beaten me,
+dew has drenched me, I have long been dead." He gives the name Wegtam,
+or Way-wise, and then follow question and answer until she discovers
+his identity and will say no more. In _Völuspa_ there is no descriptive
+introduction, and no dialogue; the whole is spoken by the Sibyl,
+who plunges at once into her story, with only the explanatory words:
+"Thou, Valfather, wouldst have me tell the ancient histories of men as
+far as I remember." She describes the creation of the world and sky
+by Bor's sons; the building by the Gods of a citadel in Ida-plain,
+and their age of innocence till three giant-maids brought greed of
+gold; the creation of the dwarfs; the creation of the first man and
+woman out of two trees by Odin, Hoeni and Lodur; the world-ash and
+the spring beside it where dwell the three Norns who order the fates
+of men. Then follows an allusion to the war between the Aesir and the
+Vanir, the battle with the giants who had got possession of the goddess
+Freyja, and the breaking of bargains; an obscure reference to Mimi's
+spring where Odin left his eye as a pledge; and an enumeration of his
+war-maids or Valkyries. Turning to the future, the Sibyl prophesies
+the death of Baldr, the vengeance on his slayer, and the chaining of
+Loki, the doom of the Gods and the destruction of the world at the
+coming of the fire-giants and the release of Loki's children from
+captivity. The rest of the poem seems to be later; it tells how the
+earth shall rise again from the deep, and the Aesir dwell once more
+in Odin's halls, and there is a suggestion of Christian influence in
+it which is absent from the earlier part.
+
+Of the other general poems, the next four were probably composed before
+950; in each the setting is different. _Vafthrudnismal_, a riddle-poem,
+shows Odin in a favourite position, seeking in disguise for knowledge
+of the future. Under the name of Gangrad (Wanderer), he visits the
+wise giant Vafthrudni, and the two agree to test their wisdom: the one
+who fails to answer a question is to forfeit his head. In each case
+the questions deal first with the past. Vafthrudni asks about Day and
+Night, and the river which divides the Giants from the Gods, matters of
+common knowledge; and then puts a question as to the future: "What is
+the plain where Surt and the blessed Gods shall meet in battle?" Odin
+replies, and proceeds to question in his turn; first about the creation
+of Earth and Sky, the origin of Sun and Moon, Winter and Summer, the
+Giants and the Winds; the coming of Njörd the Wane to the Aesir as
+a hostage; the Einherjar, or chosen warriors of Valhalla. Then come
+prophetic questions on the destruction of the Sun by the wolf Fenri,
+the Gods who shall rule in the new world after Ragnarök, the end of
+Odin. The poem is brought to a close by Odin's putting the question
+which only himself can answer: "What did Odin say in his son's ear
+before he mounted the pyre?" and the giant's head is forfeit.
+
+In the third poem of this class, _Grimnismal_, a prose introduction
+relates that Odin and Frigg quarrelled over the merits of their
+respective foster-children. To settle the question, Odin goes
+disguised as Grimni, "the Hooded One," to visit his foster-son Geirröd;
+but Frigg, to justify her charge of inhospitality against Geirröd,
+sends her maiden Fulla to warn him against the coming stranger. Odin
+therefore meets with a harsh reception, and is bound between two fires
+in the hall. Geirröd's young son, Agnar, protests against this rude
+treatment, and gives wine to the guest, who then begins to instruct
+him in matters concerning the Gods. He names the halls of the Aesir,
+describes Valhalla and the ash Yggdrasil, the Valkyries, the creation
+of the world (two stanzas in common with _Vafthrudnismal_), and
+enumerates his own names. The poem ends with impressive abruptness
+by his turning to Geirröd:
+
+"Thou art drunk, Geirröd, thou hast drunk too deep; thou art bereft
+of much since thou hast lost my favour, the favour of Odin and all
+the Einherjar. I have told thee much, but thou hast minded little. Thy
+friends betray thee: I see my friend's sword lie drenched in blood. Now
+shall Odin have the sword-weary slain; I know thy life is ended,
+the Fates are ungracious. Now thou canst see Odin: come near me,
+if thou canst."
+
+[Prose.] "King Geirröd sat with his sword on his knee, half drawn. When
+he heard that Odin was there, he stood up and would have led Odin
+from the fires. The sword slipt from his hand; the hilt turned
+downwards. The king caught his foot and fell forwards, the sword
+standing towards him, and so he met his death. Then Odin went away,
+and Agnar was king there long afterwards."
+
+_Harbardsljod_ is a dialogue, and humorous. Thor on his return from
+the east comes to a channel, at the farther side of which stands Odin,
+disguised as a ferryman, Greybeard. He refuses to ferry Thor across,
+and they question each other as to their past feats, with occasional
+threats from Thor and taunts from Odin, until the former goes off
+vowing vengeance on the ferryman:
+
+_Thor_. "Thy skill in words would serve thee ill if I waded across
+the water; I think thou wouldst cry louder than the wolf, if thou
+shouldst get a blow from the hammer."
+
+_Odin_. "Sif has a lover at home, thou shouldst seek him. That is a
+task for thee to try, it is more proper for thee."
+
+_Thor_. "Thou speakest what thou knowest most displeasing to me;
+thou cowardly fellow, I think that thou liest."
+
+_Odin_. "I think I speak true; thou art slow on the road. Thou wouldst
+have got far, if thou hadst started at dawn."
+
+_Thor_. "Harbard, scoundrel, it is rather thou who hast delayed me."
+
+_Odin_. "I never thought a shepherd could so delay Asa-Thor's journey."
+
+_Thor_. "I will counsel thee: row thy boat hither. Let us cease
+quarrelling; come and meet Magni's father."
+
+_Odin_. "Leave thou the river; crossing shall be refused thee."
+
+_Thor_. "Show me the way, since thou wilt not ferry me."
+
+_Odin_. "That is a small thing to refuse. It is a long way to go: a
+while to the stock, and another to the stone, then keep to the left
+hand till thou reach Verland. There will Fjörgyn meet her son Thor,
+and she will tell him the highway to Odin's land."
+
+_Thor_. "Shall I get there to-day?"
+
+_Odin_. "With toil and trouble thou wilt get there about sunrise,
+as I think."
+
+_Thor_. "Our talk shall be short, since thou answerest with mockery. I
+will reward thee for refusing passage, if we two meet again."
+
+_Odin_. "Go thy way, where all the fiends may take thee."
+
+_Lokasenna_ also is in dialogue form. A prose introduction tells
+how the giant Oegi, or Gymi, gave a feast to the Aesir. Loki was
+turned out for killing a servant, but presently returned and began to
+revile the Gods and Goddesses, each one in turn trying to interfere,
+only to provoke a taunt from Loki. At last Thor, who had been absent
+on a journey, came in and threatened the slanderer with his hammer,
+whereupon Loki said, "I spoke to the Aesir and the sons of the Aesir
+what my mind told me; but for thee alone I will go away, for I know
+thou wilt strike." Some of the poem is rather pointless abuse, but
+much touches points already suggested in the other poems.
+
+_Hyndluljod_ is much later than the others, probably  not before
+1200. The style is late, and the form imitated from _Völuspa_. It
+describes a visit paid by Freyja to the Sibyl to learn the genealogy of
+her favourite Ottar. The larger part deals with heroic genealogies, but
+there are scanty allusions to Baldr, Frey, Heimdal, Loki's children,
+and Thor, and a Christian reference to a God who shall come after
+Ragnarök "when Odin shall meet the wolf." It tells nothing new.
+
+We have here then, omitting _Hyndluljod_, five poems (four of them
+belonging to the first half of the tenth century) which suggest a
+general outline of Norse mythology: there is a hierarchy of Gods, the
+Aesir, who live together in a citadel, Odin being the chief. Among
+them are several who are not Aesir by origin: Njörd and his son and
+daughter, Frey and Freyja, are Vanir; Loki is really an enemy and
+an agent in their fall; and there are one or two Goddesses of giant
+race. The giants are rivals and enemies to the Gods; the dwarfs are
+also antagonistic, but in bondage. The meeting-place of the Gods is
+by the World-Ash, Yggdrasil, on whose well-being the fate of Gods
+and men depends; at its root lies the World-Snake. The Gods have
+foreknowledge of their own doom, Ragnarök, the great fight when they
+shall meet Loki's children, the Wolf and the Snake; both sides will
+fall and the world be destroyed. An episode in the story is the death
+of Baldr. This we may assume to be the religion of the Viking age
+(800-1000 A.D.), a compound of the beliefs of various ages and tribes.
+
+_The Aesir._--The number of the Aesir is not fixed. _Hyndluljod_
+says there were twelve ("there were eleven Aesir when Baldr went
+down into the howe"). Snorri gives a list of fourteen Aesir or Gods
+(Odin, Thor, Baldr, Njörd, Frey, Tyr, Bragi, Heimdal, Höd, Vidar, Vali,
+Ullr, Forseti, Loki), and adds Hoeni in another list, all the fifteen
+occurring in the poems; and sixteen Goddesses (Asynjor), the majority
+of whom are merely personified epithets, occurring nowhere else. Of
+the sixteen, Frigg, Gefion, Freyja and Saga (really an epithet only)
+are Goddesses in the poems, and Fulla is Frigg's handmaid. In another
+chapter, Snorri adds Idunn, Gerd, Sigyn and Nanna, of whom the latter
+does not appear in the Elder Edda, where Idunn, Gerd (a giantess)
+and Sigyn are the wives of Bragi, Frey and Loki; and two others,
+the giantess Skadi and Sif, are the wives of Njörd and Thor.
+
+A striking difference from classical mythology is that neither Tyr
+(who should etymologically be the Sky-god), nor Thor (the Thunder-god),
+takes the highest place. Tyr is the hero of one important episode,
+the chaining of the Wolf, through which he loses his right hand. This
+is told in full by Snorri and alluded to in _Lokasenna_, both in the
+prose preface ("Tyr also was there, with only one hand; the Fenris-wolf
+had bitten off the other, when he was bound") and in the poem itself:
+
+_Loki_. "I must remember that right hand which Fenri bit off thee."
+
+_Tyr_. "I am short of a hand, but thou of the famous wolf; to each
+the loss is ill-luck. Nor is the wolf in better plight, for he must
+wait in bonds till Ragnarök."
+
+Otherwise, he only appears in connexion with two more popular Gods:
+he speaks in Frey's defence in _Lokasenna_, and in _Hymiskvida_ he
+is Thor's companion in the search for a cauldron; the latter poem
+represents him as a giant's son.
+
+Thor, on the other hand, is second only to his father Odin; he is
+the strongest of the Gods and their champion against the giants,
+and his antagonist at Ragnarök is to be the World-Snake. Like Odin,
+he travels much, but while the chief God generally goes craftily and
+in disguise, to gain knowledge or test his wisdom, Thor's errands are
+warlike; in _Lokasenna_ he is absent on a journey, in _Harbardsljod_
+and _Alvissmal_ he is returning from one. His journeys are always
+to the east; so in _Harbardsljod_: "I was in the east, fighting
+the malevolent giant-brides.... I was in the east and guarding the
+river, when Svarang's sons attacked me." The Giants live in the
+east (_Hymiskvida_ 5); Thor threatened Loki: "I will fling thee up
+into the east, and no one shall see thee more" (_Lokasenna_ 59);
+the fire-giants at Ragnarök are to come from the east: "Hrym comes
+driving from the east, he lifts his shield before him.... A ship
+comes from the east, Muspell's sons will come sailing over the
+sea, and Loki steers" (_Völuspa_ 50, 51). It would not, perhaps,
+be overstraining the point to suggest that this is a reminiscence of
+early warfare between the Scandinavians and eastern nations, either
+Lapps and Finns or Slavonic tribes.
+
+Thor is the God of natural force, the son of Earth. Two of the
+episodical poems deal with his contests with the giants. _Thrymskvida_,
+the story of how Thor won back his hammer, Mjöllni, from the giant
+Thrym, is the finest and one of the oldest of the mythological poems;
+a translation is given in the appendix, as an example of Eddic poetry
+at its best. Loki appears as the willing helper of the Gods, and Thor's
+companion. The Thunderer's journey with Tyr in quest of a cauldron
+is related with much humour in _Hymiskvida_: Hymi's beautiful wife,
+who helps her guests to outwit her husband, is a figure familiar in
+fairy-tales as the Ogre's wife.
+
+The chief God of the Scandinavians is, it must be confessed, an
+unsympathetic character. He is the head of the Valhalla system;
+he is Val-father (Father of the Slain), and the Valkyries are his
+"Wishmaidens," as the Einherjar are his "Wishsons." He naturally takes
+a special interest in mortal heroes, from whom come the chosen hosts
+of Valhalla. But, in spite of the splendour of his surroundings, he
+is wanting in dignity. The chief of the Gods has neither the might and
+unthinking valour of Thor, nor the self-sacrificing courage of Tyr. He
+is a God who practises magic, and it is as Father of Spells that he is
+powerful. He is the wisest of the Gods in the sense that he remembers
+most about the past and foresees most about the future; yet he is
+powerless in difficulty without the craft of Loki and the hammer of
+Thor. He always wanders in disguise, and the stories told of him are
+chiefly love-adventures; this is true of all the deeds he mentions
+in _Harbardsljod_, and also of the two interpolations in _Havamal_,
+though one of the two had an object, the stealing of the mead of
+inspiration from the giant Suptung, whose daughter Gunnlöd guarded it.
+
+_Völuspa_ makes him one of three creative deities, the other two being
+Lodur (probably Loki) and Hoeni, of whom nothing else is known except
+the story that he was given as hostage to the Vanir in exchange for
+Njörd. The same three Gods (Odin, Loki and Hoeni) are connected with
+the legend of the Nibelung treasure; and it was another adventure of
+theirs, according to Snorri, which led to the loss of Idunn.
+
+Of the other Gods, Bragi is a later development; his name means
+simply king or chief, and his attributes, as God of eloquence and
+poetry, are apparently borrowed from Odin. Heimdal, the watchman and
+"far-seeing like the Vanir," who keeps guard on the rainbow bridge
+Bifröst, is represented in the curious poem _Rigsthula_ as founder of
+the different social orders. He wandered over the world under the name
+of Rig, and from his first journey sprang the race of thralls, swarthy,
+crooked and broad-backed, who busied themselves with fencing land and
+tending goats and swine; from his second, the churls, fine and ruddy,
+who broke oxen, built houses and ploughed the land; from his third,
+the earls, yellow-haired, rosy, and keen-eyed, who broke horses and
+strung bows, rode, swam, and hurled spears; and the youngest of the
+earls' race was Konung the king, who knew all mysteries, understood
+the speech of birds, could quench fire and heal wounds. Heimdal is
+said to be the son of nine mothers, and to have fought with Loki for
+Freyja's Brising-necklace. His horn is hidden under Yggdrasil, to be
+brought out at Ragnarök, when he will blow a warning blast. His origin
+is obscure. Still less is known of Vidar and Vali, two sons of Odin,
+one of whom is to avenge Baldr's death, the other to slay the wolf
+after it has swallowed up the chief God at Ragnarök. Thor's stepson
+Ullr (Glory) is probably, like his sons Modi and Magni (Wrath and
+Strength), a mere epithet.
+
+Frigg, Odin's wife and the chief Goddess, daughter of Earth,
+is not very distinctly characterised, and is often confused with
+Freyja. Gefion should be the sea-goddess, since that seems to be
+the meaning of her name, but her functions are apparently usurped by
+the Wane Njörd; according to Snorri, she is the patron of those who
+die unwedded.
+
+_Baldr_.--The story of Baldr is the most debated point in the Edda. The
+chief theories advanced are: (1) That it is the oldest part of Norse
+mythology, and of ritual origin; (2) that Baldr is really a hero
+transformed into a God; (3) that the legend is a solar myth with
+or without Christian colouring;  (4) that it is entirely borrowed
+from Mediæval Greek and Christian sources. This last theory is too
+ingenious to be credible; and with regard to the third, there is
+nothing essentially Christian in the chief features of the legend,
+while the solar idea leaves too much unexplained. The references to
+the myth in the Elder Edda are:
+
+(1) _Vegtamskvida_ (about 900 A.D.). Odin questions the Sibyl as to
+the meaning of Baldr's dreams:
+
+_Odin_. "For whom are the benches (in hell) strewn with rings, the
+halls fairly adorned with gold?"
+
+_Sibyl_. "Here the mead, clear drink, stands brewed for Baldr; the
+shields are spread. The sons of the Aesir are too merry."
+
+_Odin_. "Who will be Baldr's slayer and rob Odin's son of life?"
+
+_Sibyl_. "Höd bears thither the high branch of fame: he will be
+Baldr's slayer and rob Odin's son of life."
+
+_Odin_. "Who will avenge the deed on Höd and bring Baldr's slayer to
+the funeral pyre?"
+
+_Sibyl_. "Rind bears a son, Vali, in the halls of the west. He shall
+not wash his hands nor comb his hair till he bears Baldr's foe to
+the pyre."
+
+(2) In _Lokasenna_ Frigg says: "If I had a son like Baldr here in
+Oegi's halls, thou shouldst not pass out from the sons of the Aesir,
+but be slain here in thy anger"; to which Loki replies, "Wilt thou
+that I speak more ill words, Frigg? I am the cause that thou wilt
+never more see Baldr ride into the hall."
+
+(3) In _Vafthrudnismal_ the only reference is Odin's question,
+"What said Odin in his son's ear when he mounted the pyre?"
+
+(4) In _Völuspa_ the Sibyl prophesies, "I saw doom threatening Baldr,
+the bleeding victim, the son of Odin. Grown high above the meadows
+stood the mistletoe, slender and fair. From this stem, which looked
+so slender, grew a fatal and dangerous shaft. Höd shot it, and Frigg
+wept in Fenhall over Valhall's woe."  The following lines, on the
+chaining of Loki, suggest his complicity.
+
+(5) _Hyndluljod_ has one reference: "There were eleven Aesir by
+number when Baldr went down into the howe. Vali was his avenger and
+slew his brother's slayer."
+
+Besides these there is a fragment quoted by Snorri: "Thökk will weep
+dry tears at Baldr's funeral pyre. I had no good of the old man's
+son alive or dead; let Hel keep what she has." _Grimnismal_ assigns
+a hall to Baldr among the Gods.
+
+There are, in addition, two prose versions of the story by later
+writers: the Icelandic version of Snorri (1178-1241) with all the
+details familiar to every one; and the Latin one of the Dane Saxo
+Grammaticus (about thirty years earlier), which makes Baldr and Höd
+heroes instead of Gods, and completely alters the character of the
+legend by making a rivalry for Nanna's favour the centre of the plot
+and cause of the catastrophe. On the Eddic version and on Saxo's
+depend the theories of Golther, Detter, Niedner and other German
+scholars on the one hand, and Dr. Frazer on the other.
+
+It has often been pointed out that there is no trace of Baldr-worship
+in other Germanic nations, nor in any of the Icelandic sagas except
+the late Frithjofssaga. This, however, is true of other Gods, notably
+of Tyr, who is without question one of the oldest. The only deities
+named with any suggestion of sacrifice or worship in the Icelandic
+sagas proper are Odin, Thor, Frey, Njörd, Frigg and Freyja. The process
+of choice is as arbitrary in mythology as in other sciences. Again,
+it is more likely that the original version of the legend should have
+survived in Iceland than in Denmark, which, being on the mainland,
+was earlier subject to Christian and Romantic influences; and
+that a heathen God should, in the two or three centuries following
+the establishment of Christianity in the North, be turned into a
+mortal hero, than that the reverse process should have acted at a
+sufficiently late date to permit of both versions existing side by
+side in the thirteenth century. A similar gradual elimination of the
+supernatural may be found in the history of the Volsung myth. Snorri's
+version is merely an amplification of that in the Elder Edda, which,
+scanty as its account of Baldr is, leaves no doubt as to his divinity.
+
+The outline gathered from the poems is as follows: Baldr, Odin's son,
+is killed by his brother Höd through a mistletoe spray; Loki is in some
+way concerned in his death, which is an overwhelming misfortune to the
+Gods; but it is on Höd that his death is avenged. He is burnt on a pyre
+(Snorri says on his ship, a feature which must come from the Viking
+age; _Hyndluljod_ substitutes howe-burial). He will be absent from
+the great fight at Ragnarök, but _Völuspa_ adds that he will return
+afterwards. Nanna has nothing to do with the story. The connexion with
+the hierarchy of the Aesir seems external only, since Baldr has no
+apparent relation to the great catastrophe as have Odin, Thor, Frej,
+Tyr and Loki; this, then, would point to the independence of his myth.
+
+The genuineness of the myth seems to depend on whether the mistletoe
+is an original feature of it or not, and on this point there can
+be little real doubt. The German theory that Baldr could only be
+killed by his own sword, which was therefore disguised by enchantment
+and used against him, and that the Icelandic writers misunderstood
+this to mean a mistletoe sprig, is far-fetched and romantic, and
+crumbles at a touch. For if, as it is claimed, the Icelanders had no
+mistletoe, why should they introduce it into a story to which it did
+not belong? They might preserve it by tradition, but they would hardly
+invent it. Granting this, the mistletoe becomes the central point of
+the legend. The older mythologists, who only saw in it a sun-myth,
+overlooked the fact that since any weapon would have done to kill
+the God with, the mistletoe must have some special significance; and
+if it is a genuine part of the story, as we have no reason to doubt,
+it will be hard to overturn Dr. Frazer's theory that the Baldr-myth
+is a relic of tree-worship and the ritual sacrifice of the God,
+Baldr being a tree-spirit whose soul is contained in the mistletoe.
+
+The contradictions in the story, especially as told by Snorri
+(such as the confusion between the parts played by Höd and Loki,
+and the unsuspicious attitude of the Gods as Loki directs Höd's aim)
+are sometimes urged against its genuineness. They are rather proofs
+of antiquity. Apparent contradictions whose explanation is forgotten
+often survive in tradition; the inventor of a new story takes care to
+make it consistent. It is probable, however, that there were originally
+only two actors in the episode, the victim and the slayer, and that
+Loki's part is later than Höd's, for he really belongs to the Valhall
+and Ragnarök myth, and was only introduced here as a link. The incident
+of the oath extracted from everything on earth to protect Baldr, which
+occurs in Snorri and in a paper MS. of _Baldr's Dreams_, was probably
+invented to explain the choice of weapon, which would certainly need
+explanation to an Icelandic audience. If Dr. Frazer's theory be right,
+Vali, who slew the slayer, must also have been an original figure in
+the legend. His antiquity is supported by the fact that he plays the
+part of avenger in the poems; while in Snorri, where he is mentioned
+as a God, his absence from the account of Baldr's death is only a
+part of that literary development by which real responsibility for
+the murder was transferred from Höd to Loki.
+
+Snorri gives Baldr a son, Forseti (Judge), who is also named as a
+God in _Grimnismal_. He must have grown out of an epithet of Baldr's,
+of whom Snorri says that "no one can resist his sentence"; the sacred
+tree would naturally be the seat of judgment.
+
+       *       *       *       *       *
+
+_The Wanes._--Three of the Norse divinities, Njörd and his son and
+daughter, are not Aesir by descent. The following account is given
+of their presence in Asgard:
+
+(1) In _Vafthrudnismal_, Odin asks:
+
+"Whence came Njörd among the sons of the Aesir? for he was not born
+of the Aesir."
+
+_Vafthrudni_. "In Vanaheim wise powers ordained and gave him for a
+hostage to the Gods; at the doom of the world he shall come back,
+home to the wise Wanes."
+
+(2) There is an allusion in _Völuspa_ to the war which caused the
+giving of hostages:
+
+"Odin shot into the host: this was the first war in the world. Broken
+was the wall of the citadel of the Aesir, so that the Wanes could
+tread the fields of war."
+
+(3) Loki taunts Njörd with his position, in _Lokasenna_:
+
+"Thou wast sent from the east as a hostage to the Gods...."
+
+_Njörd_. "This is my comfort, though I was sent from far as a hostage
+to the Gods, yet I have a son whom no one hates, and he is thought
+the best of the Aesir."
+
+_Loki_. "Stay, Njörd, restrain thy pride; I will hide it no longer:
+thy son is thine own sister's son, and that is no worse than one
+would expect."
+
+_Tyr_. "Frey is the best of all the bold riders of Asgard."
+
+There is little doubt that Njörd was once a God of higher importance
+than he is in the Edda, where he is overshadowed by his son. Grimm's
+suggestion that he and the goddess Nerthus, mentioned by Tacitus,
+were brother and sister, is supported by the line in _Lokasenna_; it
+is an isolated reference, and the Goddess has left no other traces in
+Scandinavian mythology. They were the deities, probably agricultural,
+of an earlier age, whose adoption by the later Northmen was explained
+by the story of the compact between Aesir and Vanir. Then their places
+were usurped by Frey and Freyja, who were possibly created out of
+epithets originally applied to the older pair; Njörd was retained
+with lessened importance, Nerthus passed out altogether. The Edda
+gives Njörd a giant-bride, Skadi, who was admitted among the Gods in
+atonement for the slaying of her father Thiazi; she is little more
+than a name. Frey and Freyja have other marks of agricultural deities,
+besides their relationship. Nothing is said about Frey's changing
+shape, but Freyja possesses a hawk-dress which Loki borrows when
+he wishes to change his form; and, according to Snorri, Frey was
+sacrificed to for the crops. Njörd has an epithet, "the wealthy,"
+which may have survived from his earlier connexion with the soil. In
+that case, it would explain why, in Snorri and elsewhere, he is God of
+the sea and ships, once the province of the ocean-goddess Gefion; the
+transference is a natural one to an age whose wealth came from the sea.
+
+In spite of their origin, Frey and Freyja become to all intents
+and purposes Aesir. Frey is to be one of the chief combatants at
+Ragnarök, with the fire-giant Surt for his antagonist, and a story is
+told to explain his defeat: he fell in love with Gerd, a giant-maid,
+and sacrificed his sword to get her; hence he is weaponless at the
+last fight. Loki alludes to this episode in _Lokasenna_: "With gold
+didst thou buy Gymi's daughter, and gavest thy sword for her; but when
+Muspell's sons ride over Myrkwood, thou shalt not know with what to
+fight, unhappy one." The story is told in full in _Skirnisför_.
+
+Freyja is called by Snorri "the chief Goddess after Frigg," and the
+two are sometimes confused. Like her father and brother, she comes into
+connexion with the giants; she is the beautiful Goddess, and coveted by
+them. _Völuspa_ says that the Gods went into consultation to discuss
+"who had given the bride of Od (_i.e._, Freyja) to the giant race";
+_Thrymskvida_ relates how the giant Thrym bargained for Freyja as
+the ransom for Thor's hammer, which he had hidden, and how Loki and
+Thor outwitted him; and Snorri says the giants bargained for her as
+the price for building Valhalla, but were outwitted. Sir G.W. Dasent
+notices in the folk-tales the eagerness of trolls and giants to learn
+the details of the agricultural processes, and this is probably the
+clue to the desire of the Frost-Giants in the Edda for the possession
+of Freyja. Idunn, the wife of Bragi, and a purely Norse creation, seems
+to be a double of Freyja; she, too, according to Snorri, is carried
+away by the giants and rescued by Loki. The golden apples which she
+is to keep till Ragnarök remind us of those which Frey offered to
+Gerd; and the gift of eternal youth, of which they are the symbols,
+would be appropriate enough to Freyja as an agricultural deity.
+
+The great necklace Brising, stolen by Loki and won back in fight
+by Heimdal (according to the tenth-century Skalds Thjodulf and Ulf
+Uggason), is Freyja's property. On this ground, she has been identified
+with the heroine of _Svipdag and Menglad_, a poem undoubtedly old,
+though it has only come down in paper MSS. It is in two parts, the
+first telling how Svipdag aroused the Sibyl Groa, his mother, to
+give him spells to guard him on his journey; the second describing
+his crossing the wall of fire which surrounded his fated bride
+Menglad. If Menglad is really Freyja, the "Necklace-glad," it is a
+curious coincidence that one poem connects the waverlowe, or ring of
+fire, with Frey also; for his bride Gerd is protected in the same way,
+though his servant Skirni goes through it in his place:
+
+_Skirni_. "Give me the horse that will bear me through the dark magic
+waverlowe, and the sword that fights of itself against the giant-race."
+
+_Frey_. "I give thee the horse that will bear thee through the dark
+magic waverlowe, and the sword that will fight of itself if he is
+bold who bears it." (_Skirnisför_.)
+
+The connexion of both with the Midsummer fires, originally part of
+an agricultural ritual, can hardly be doubted.
+
+       *       *       *       *       *
+
+_Loki_, or Lopt, is a strange figure. He is admitted among the Aesir,
+though not one of them by birth, and his whole relation to them
+points to his being an older elemental God. He is in alliance with
+them against the giants; he and Odin have sworn blood-brothership,
+according to _Lokasenna_, and he helps Thor to recover his hammer
+that Asgard may be defended against the giants. On the other hand,
+while in present alliance with the Gods, he is chief agent in their
+future destruction, and this they know. In Snorri, he is a mischievous
+spirit of the fairy-tale kind, exercising his ingenuity alternately in
+getting the Gods into difficulties, and in getting them out again. So
+he betrays Idunn to the giants, and delivers her; he makes the bargain
+by which Freyja is promised to the giant-builders of Valhalla,
+and invents the trick by which they are cheated of their prize;
+by killing the otter he endangers his own head, Odin's and Hoeni's,
+and he obtains the gold which buys their atonement. Hence, in the
+systematising of the Viking religion, the responsibility for Baldr's
+death also was transferred to him. At the coming of the fire-giants
+at Ragnarök, he is to steer the ship in which Muspell's sons sail
+(_Völuspa_), further evidence of his identity as a fire-spirit. Like
+his son the Wolf, he is chained by the Gods; the episode is related
+in a prose-piece affixed to _Lokasenna_:
+
+"After that Loki hid himself in Franangr's Foss in the form of
+a salmon. There the Aesir caught him. He was bound with the guts
+of his son Nari, but his son Narfi was changed into a wolf. Skadi
+took a poisonous snake and fastened it up over Loki's face, and the
+poison dropped down. Sigyn, Loki's wife, sat there and held a cup
+under the poison. But when it was full she poured the poison away,
+and meanwhile poison dropped on Loki, and he struggled so hard that
+all the earth shook; those are called earthquakes now."
+
+_Völuspa_ inserts lines corresponding to this passage after the
+Baldr episode, and Snorri makes it a consequence of Loki's share in
+that event.
+
+He is more especially agent of the doom through his children:
+at Ragnarök, Fenri the Wolf, bound long before by Tyr's help,
+will be freed, and swallow the sun (_Vafthrudnismal_) and Odin
+(_Vafthrudnismal_ and _Völuspa_); and Jörmungandr, the Giant-Snake,
+will rise from the sea where he lies curled round the world, to slay
+and be slain by Thor. The dragon's writhing in the waves is one
+of the tokens to herald Ragnarök, and his battle with Thor is the
+fiercest combat of that day. Only _Völuspa_ of our poems gives any
+account of it: "Then comes the glorious son of Hlodyn, Odin's son
+goes to meet the serpent; Midgard's guardian slays him in his rage,
+but scarcely can Earth's son reel back nine feet from the dragon."
+
+When Thor goes fishing with the giant Hymi, he terrifies his companion
+by dragging the snake's head out of the sea, but he does not slay it;
+it must wait there till Ragnarök:
+
+"The protector of men, the only slayer of the Serpent, baited his hook
+with the ox's head. The God-hated one who girds all lands from below
+swallowed the bait. Doughtily pulled mighty Thor the poison-streaked
+serpent up to the side; he struck down with his hammer the hideous
+head of the wolf's companion. The monster roared, the wilderness
+resounded, the old earth shuddered all through. The fish sank back
+into the sea. Gloomy was the giant when they rowed back, so that he
+spoke not a word."
+
+There is nothing to suggest that Jörmungandr, to whom the word
+World-Snake (Midgardsorm) always refers in the Edda, is the same as
+Nidhögg, the serpent that gnaws at Yggdrasil's roots; but both are
+relics of Snake-worship.
+
+       *       *       *       *       *
+
+_The World-Ash_, generally called Yggdrasil's Ash, is one of the most
+interesting survivals of tree-worship. It is described by the Sibyl
+in _Völuspa_: "I know an ash called Yggdrasil, a high tree sprinkled
+with white moisture (thence come the dews that fall in the dales):
+it stands ever-green by Urd's spring. Thence come three maids,
+all-knowing, from the hall that stands under the tree"; and as a
+sign of the approaching doom she says: "Yggdrasil's ash trembles as
+it stands; the old tree groans." _Grimnismal_ says that the Gods go
+every day to hold judgment by the ash, and describes it further:
+
+"Three roots lie three ways under Yggdrasil's ash: Hel dwells under
+one, the frost-giants under the second, mortal men under the third. The
+squirrel is called Ratatosk who shall run over Yggdrasil's ash;
+he shall carry down the eagle's words, and tell them to Nidhögg
+below. There are four harts, with necks thrown back, who gnaw
+off the shoots.... More serpents lie under Yggdrasil's ash than
+any one knows. Ofni and Svafni I know will ever gnaw at the tree's
+twigs. Yggdrasil's ash suffers more hardships than men know: the hart
+bites above, the side decays, and Nidhögg gnaws below.... Yggdrasil's
+ash is the best of trees."
+
+The snake and the tree are familiar in other mythologies, though in
+most other cases the snake is the protector, while here he is the
+destroyer. Both Nidhögg and Jörmungandr are examples of the destroying
+dragon rather than the treasure-guardian. The Ash is the oracle: the
+judgment-place of the Gods, the dwelling of the Fates, the source of
+the spring of knowledge.
+
+       *       *       *       *       *
+
+_Ragnarök_.--The Twilight of the Gods (or Doom of the Gods) is the
+central point of the Viking religion. The Regin (of which _Ragna_
+is genitive plural) are the ruling powers, often called Ginnregin
+(the great Gods), Uppregin (the high Gods), Thrymregin (the warrior
+Gods). The word is commonly used of the Aesir in _Völuspa_; in
+_Alvissmal_ the Regin seem to be distinguished from both Aesir and
+Vanir. The whole story of the Aesir is overshadowed by knowledge of
+this coming doom, the time when they shall meet foes more terrible
+than the giants, and fall before them; their constant effort is to
+learn what will happen then, and to gather their forces together
+to meet it. The coming Ragnarök is the reason for the existence of
+Valhalla with its hosts of slain warriors; and of all the Gods, Odin,
+Thor, Tyr and Loki are most closely connected with it. Two poems of
+the verse Edda describe it:
+
+(1) _Vafthrudnismal_:
+
+V. "What is the plain called where Surt and the blessed Gods shall
+meet in battle?"
+
+O. "Vigrid is the name of the place where Surt and the blessed Gods
+shall meet in battle. It is a hundred miles every way; it is their
+destined battle-field."
+
+       *       *       *       *       *
+
+O. "Whence shall the sun come on the smooth heaven when Fenri has
+destroyed this one?"
+
+V. "Before Fenri destroy her, the elf-beam shall bear a daughter:
+that maid shall ride along her mother's paths, when the Gods perish."
+
+O. "Which of the Aesir shall rule over the realms of the Gods, when
+Surt's fire is quenched?"
+
+V. "Vidar and Vali shall dwell in the sanctuary of the Gods when
+Surt's fire is quenched. Modi and Magni shall have Mjöllni at the
+end of Vingni's (_i.e._, Thor's) combat."
+
+O. "What shall be Odin's end, when the Gods perish?"
+
+V. "The Wolf will swallow the father of men; Vidar will avenge it. He
+will cleave the Wolf's cold jaws in the battle."
+
+(2) _Völuspa_:
+
+"A hag sits eastward in Ironwood and rears Fenri's children; one of
+them all, in troll's shape, shall be the sun's destroyer. He shall
+feed on the lives of death-doomed men; with red blood he shall redden
+the seat of the Gods. The sunshine shall grow black, all winds will
+be unfriendly in the after-summers.... I see further in the future
+the great Ragnarök of the Gods of Victory.... Heimdal blows loudly,
+the horn is on high; Yggdrasil's ash trembles as it stands, the old
+tree groans."
+
+The following lines tell of the fire-giants and the various combats,
+and the last section of the poem deals with a new world when Baldr,
+Höd and Hoeni are to come back to the dwelling-place of the Gods.
+
+The whole points to a belief in the early destruction of the world
+and the passing away of the old order of things. Whether the new
+world which _Vafthrudnismal_ and _Völuspa_ both prophesy belongs to
+the original idea or not is a disputed point. Probably it does not;
+at all events, none of the old Aesir, according to the poems, are
+to survive, for Modi and Magni are not really Gods at all, Baldr,
+Höd and Vali belong to another myth, Hoeni had passed out of the
+hierarchy by his exchange with Njörd, and Vidar's origin is obscure.
+
+       *       *       *       *       *
+
+_The Einherjar_, the great champions or chosen warriors, are intimately
+connected with Ragnarök. All warriors who fall in battle are taken
+to Odin's hall of the slain, Valhalla. According to _Grimnismal_,
+he "chooses every day men dead by the sword"; his Valkyries ride
+to battle to give the victory and bring in the fallen. Hence Odin
+is the giver of victory. Loki in _Lokasenna_ taunts him with giving
+victory to the wrong side: "Thou hast never known how to decide the
+battle among men. Thou hast often given victory to those to whom thou
+shouldst not give it, to the more cowardly"; this, no doubt, was in
+order to secure the best fighters for Valhalla. That the defeated
+side sometimes consoled themselves with this explanation of a notable
+warrior's fall is proved by the tenth-century dirge on Eirik Bloodaxe,
+where Sigmund the Volsung asks in Valhalla: "Why didst thou take the
+victory from him, if thou thoughtest him brave?" and Odin replies:
+"Because it is uncertain when the grey Wolf will come to the seat
+of the Gods." There are similar lines in Eyvind's dirge on Hakon
+the Good. In this way a host was collected ready for Ragnarök:
+for _Grimnismal_  says: "There are five hundred doors and eighty
+in Valhalla; eight hundred Einherjar will go out from each door,
+when they go to fight the wolf." Meanwhile they fight and feast:
+"All the Einherjar in Odin's courts fight every day: they choose
+the slain and ride from the battle, and sit then in peace together"
+(_Vafthrudnismal_,) and the Valkyries bear ale to them _(Grimnismal_).
+
+It is often too hastily assumed that the Norse Ragnarök with
+the dependant Valhalla system are in great part the outcome of
+Christian influence: of an imitation of the Christian Judgment Day
+and the Christian heaven respectively. Owing to the lateness of our
+material, it is, of course, impossible to decide how old the beliefs
+may be, but it is likely that the Valhalla idea only took form at
+the systematising of the mythology in the Viking age. The belief
+in another world for the dead is, however, by no means exclusively
+Christian, and a reference in _Grimnismal_ suggests the older system
+out of which, under the influence of the Ragnarök idea, Valhalla was
+developed. The lines, "The ninth hall is Folkvang, where Freyja rules
+the ordering of seats in the hall; half the slain she chooses every
+day, Odin has the other half," are an evident survival of a belief
+that all the dead went to live with the Gods, Odin having the men,
+and Freyja (or more probably Frigg) the women; the idea being here
+confused with the later system, under which only those who fell in
+battle were chosen by the Gods. Christian colouring appears in the
+last lines of _Völuspa_ and in Snorri, where men are divided into the
+"good and moral," who go after death to a hall of red gold, and the
+"perjurers and murderers," who are sent to a hall of snakes.
+
+For Ragnarök also a heathen origin is at least as probable as a
+Christian one. I would suggest as a possibility that the expectation of
+the Twilight of the Gods may have grown out of some ritual connected
+with the eclipse, such as is frequent among heathen races. Such
+ceremonies are a tacit acknowledgment of a doubt, and if they ever
+existed among the Scandinavians, the possibility, ever present to
+the savage mind, of a time when his efforts to help the light might
+be fruitless, and the darkness prove the stronger, would be the germ
+of his more civilised descendant's belief in Ragnarök.
+
+By turning to the surviving poems of the Skalds, whose dates can be
+approximately reckoned from the sagas, we can fix an inferior limit
+for certain of the legends given above, placing them definitely in the
+heathen time. Reference has already been made to the corroboration
+of the Valhalla belief supplied by the elegies on Eirik Bloodaxe
+and Hakon the Good. In the former (which is anonymous, but must have
+been written soon after 950, since it was composed, on Eirik's death,
+by his wife's orders), Odin commands the Einherjar and Valkyries to
+prepare for the reception of the slain Eirik and his host, since no
+one knows how soon the Gods will need to gather their forces together
+for the great contest. Eyvind's dirge on Hakon (who fell in 970) is an
+imitation of this: Odin sends two Valkyries to choose a king to enter
+his service in Valhalla; they find Hakon on the battle-field, and
+he is slain with many of his followers. Great preparation is made in
+Valhalla for his reception, and the poet ends by congratulating Hakon
+(who, though a Christian, having been educated in England, had not
+interfered with the heathen altars and sacrifices) on the toleration
+which has secured him such a welcome. A still earlier poet, Hornklofi,
+writing during the reign of Harald Fairhair (who died in 933), alludes
+to the slain as the property of "the one-eyed husband of Frigg."
+
+Several Skalds mention legends of Thor: his fishing for the World-Snake
+is told by Bragi (who from his place in genealogies must have written
+before 900), and by Ulf Uggason and Eystein Valdason, both in the
+second half of the tenth century; and Thjodulf and Eilif (the former
+about 960, the latter a little later) tell tales of his fights with
+the giants. Turning to the other Gods, Egil Skallagrimsson (about 970)
+names Frey and Njörd as the givers of wealth; Bragi tells the story
+of Gefion's dragging the island of Zealand out of Lake Wener into
+the sea; and Ulf Uggason speaks of Heimdal's wrestling with Loki.
+
+The legend of Idunn is told by Thjodulf much as Snorri tells it:
+Odin, Hoeni and Loki, while on a journey, kill and roast an ox. The
+giant Thiazi swoops down in eagle's shape and demands a share; Loki
+strikes the eagle, who flies off with him, releasing him only on
+condition that he will betray to the giants Idunn, "the care-healing
+maid who understands the renewal of youth." He does so, and the Gods,
+who grow old and withered for want of her apples, force him to go
+and bring her back to Asgard.
+
+The poet of _Eiriksmal_, quoted above, alludes to the Baldr myth:
+Bragi, hearing the approach of Eirik and his host, asks "What is
+that thundering and tramping, as if Baldr were coming back to Odin's
+hall?" The funeral pyre of Baldr is described by Ulf Uggason: he is
+burnt on his ship, which is launched by a giantess, in the presence
+of Frey, Heimdal, Odin and the Valkyries.
+
+Though heathen writers outside of Scandinavia are lacking, references
+to Germanic heathendom fortunately survive in several Continental
+Christian historians of earlier date than any of our Scandinavian
+sources. The evidence of these, though scanty, is corroborative,
+and the allusions are in striking agreement with the Edda stories in
+tone and character.
+
+Odin (Wodanus) is always identified by these writers with the
+Roman Mercurius (whom Tacitus named as the chief German God). This
+identification occurs in the eighth-century Paulus Diaconus, and in
+Jonas of Bobbio (first half of the seventh century), and probably rests
+on Odin's character as a wandering God (Mercury being diaktoros), his
+disguises, and his patronage of poetry and eloquence (as Mercury is
+logios). Odin is not himself in general the conductor of dead souls
+(psychopompos), like the Roman God, his attendant Valkyries performing
+the office for him. The equation is only comprehensible on the
+presumption of the independence of Germanic mythology, and cannot be
+explained by transmission. For if Odin were in any degree an imitation
+of the Roman deity, other notable attributes of the latter would have
+been assigned to him: whereas in the Edda the thieving God (kleptis)
+is not Odin but Loki, and the founder of civilisation is Heimdal.
+
+The legend of the origin of the Lombards given by Paulus Diaconus
+illustrates the relations of Odin and Frigg. The Vandals asked Wodan
+(Odin) to grant them victory over the Vinili; the latter made a similar
+prayer to Frea (Frigg), the wife of Wodan. She advised them to make
+their wives tie their hair round their faces like beards, and go with
+them to meet Wodan in the morning. They did so, and Wodan exclaimed,
+"Who are these _Long-beards_?" Then Frea said that having given the
+Vinili a name, he must give them the victory (as Helgi in the Edda
+claims a gift from Svava when she names him). As in _Grimnismal_,
+Odin and Frigg are represented as supporting rival claims, and Frigg
+gains the day for her favourites by superior cunning. This legend
+also shows Odin as the giver of victory.
+
+Few heathen legends are told however by these early Christian writers,
+and the Gods are seldom called by their German names. An exception is
+the Frisian Fosite mentioned by Alcuin (who died 804) and by later
+writers; he is to be identified with the Norse Forseti, the son of
+(probably at first an epithet of) Baldr, but no legend of him is
+told. It is disappointing that these writers should have said so
+little of any God except the chief one. A very characteristic touch
+survives in Gregory of Tours (died 594), when the Frank Chlodvig tells
+his Christian wife that the Christian God "cannot be proved to be
+of the race of the Gods," an idea entirely in keeping with the Eddic
+hierarchy. Before leaving the Continental historians, reference may be
+made to the abundant evidence of Germanic tree-worship to be gathered
+from them. The holy oak mentioned by Wilibald (before 786), the sacred
+pear-tree of Constantius (473), with numerous others, supply parallels
+to the World-Ash which is so important a feature of Norse mythology.
+
+A study of this subject would be incomplete without some reference to
+the mythology of Saxo Grammaticus. His testimony on the old religion
+is unwilling, and his effort to discredit it very evident. The
+bitterness of his attack on Frigg especially suggests that she
+was, among the Northmen, a formidable rival to the Virgin. When he
+repeats a legend of the Gods, he transforms them into mortal heroes,
+and when, as often happens, he refers to them accidentally as Gods,
+he invariably hastens to protest that he does so only because it had
+been the custom. He describes Thor and Odin as men versed in sorcery
+who claimed the rank of Gods; and in another passage he speaks of
+the latter as a king who had his seat at Upsala, and who was falsely
+credited with divinity throughout Europe. His description of Odin
+agrees with that in the Edda: an old man of great stature and mighty
+in battle, one-eyed, wearing a great cloak, and constantly wandering
+about in disguise. The story which Saxo tells of his driving into
+battle with Harald War-tooth, disguised as the latter's charioteer
+Brun, and turning the fight against him by revealing to his enemy Ring
+the order of battle which he had invented for Harald's advantage, is
+in thorough agreement with the traditional character of the God who
+betrayed Sigmund the Volsung and Helgi Hundingsbane. Saxo's version
+of the Baldr story has been mentioned already. Baldr's transformation
+into a hero (who could only be slain by a sword in the keeping of
+a wood-satyr) is almost complete. But Odin and Thor and all the
+Gods fight for him against his rival Hother, "so that it might be
+called a battle of Gods against men"; and Nanna's excuse to Baldr
+that "a God could not wed with a mortal," preserves a trace of his
+origin. The chained Loki appears in Saxo as Utgarda-Loki, lying bound
+in a cavern of snakes, and worshipped as a God by the Danish king
+Gorm Haraldsson. Dr. Eydberg sees the Freyja myth in Saxo's story of
+Syritha, who was carried away by the giants and delivered by her lover
+Othar (the Od of the Edda): an example, like _Svipdag and Menglad_,
+of the complete transformation of a divine into an heroic myth. In
+almost all cases Saxo vulgarises the stories in the telling, a common
+result when a mythical tale is retold by a Christian writer, though
+it is still more conspicuous in his versions of the heroic legends.
+
+
+
+
+
+Appendix
+
+
+_Thrymskvida_.
+
+1. Then Wing-Thor was angry when he awoke, and missed his hammer. He
+shook his beard, he tossed his hair, the son of Earth groped about
+for it.
+
+2. And first of all he spoke these words: "Hear now, Loki, what I
+tell thee, a thing that no one in earth or heaven above has heard:
+the Asa has been robbed of his hammer!"
+
+3. They went to the dwelling of fair Freyja, and these words he
+spoke first of all: "Wilt thou lend me, Freyja, thy feather dress,
+to see if I can find my hammer?"
+
+4. _Freyja_. "I would give it thee, though it were of gold; I would
+grant it, though it were of silver."
+
+5. Then Loki flew, the feather-coat rustled, until he came out of
+Asgard and into Jötunheim.
+
+6. Thrym, lord of the Giants, sat on a howe; he twisted golden bands
+for his greyhounds and trimmed his horses' manes.
+
+7. _Thrym_. "How is it with the Aesir? How is it with the Elves? Why
+art thou come alone into Jötunheim?"
+
+_Loki_. "It is ill with the Aesir, it is ill with the Elves; hast
+thou hidden the Thunderer's hammer?"
+
+8. _Thrym_. "I have hidden the Thunderer's hammer eight miles below the
+earth. No man shall bring it back, unless he bring me Freyja to wife."
+
+9. Then Loki flew, the feather-coat rustled, until he came out of
+Jötunheim and into Asgard. Thor met him in the middle of the court,
+and these words he spoke first:
+
+10. "Hast thou news in proportion to thy toil? Tell me from on high
+thy distant tidings, for a sitting man often breaks down in his story,
+and he who lies down falls into falsehood."
+
+11. _Loki_. "I bring news for my toil: Thrym, lord of the Giants,
+has thy hammer; no man shall bring it back, unless he take him Freyja
+as a bride."
+
+12. They went to see fair Freyja, spoke to her first of all these
+words: "Bind on the bridal veil, Freyja, we two must drive to
+Jötunheim."
+
+13. Angry then was Freyja; she panted, so that all the hall of the
+Aesir trembled, and the great Brising necklace fell: "Eager indeed
+for marriage wouldst thou think me, if I should drive with thee
+to Jötunheim."
+
+14. Then all the Aesir went into council, and all the Asynjor to
+consultation, and the mighty Gods discussed how they should recover
+the Thunderer's hammer.
+
+15. Then spoke Heimdal, whitest of the Aesir; he could see into the
+future like the Vanir: "Let us bind on Thor the bridal veil; let him
+have the great necklace Brising.
+
+16. "Let the keys jingle, and let women's weeds fall about his knees;
+let us put broad stones on his breast, and a hood dexterously on
+his head."
+
+17. Then spoke Thor, the mighty Asa: "Vile would the Aesir call me,
+if I let the bridal veil be bound on me."
+
+18. Then spoke Loki, Laufey's son: "Speak not such words, Thor! soon
+will the Giants dwell in Asgard, unless thou bring home thy hammer."
+
+19. Then they bound on Thor the bridal veil, and the great necklace
+Brising; they let the keys jingle and women's weeds fall about
+his knees, and they put broad stones on his breast, and the hood
+dexterously on his head.
+
+20. Then spoke Loki, Laufey's son: "I also will go with thee as thy
+maiden; we two will drive together to Jötunheim."
+
+21. Then the goats were driven out, urged forward in their harness;
+well must they run. Rocks were riven, the earth burned in name:
+Odin's son was driving into Jötunheim.
+
+22. Then spoke Thrym, lord of the Giants: "Stand up, giants, and
+strew the benches! They are bringing me now Freyja my bride, Njörd's
+daughter from Noatun.
+
+23. "Gold-horned kine run in the court, oxen all-black, the giant's
+delight. I have many treasures, I have many jewels, Freyja only
+is lacking."
+
+24. The guests assembled early in the evening, and ale was carried
+to the Giants. One ox did Sif's husband eat, and eight salmon, and
+all the dishes prepared for the women; three casks of mead he drank.
+
+25. Then spoke Thrym, lord of the Giants: "Who ever saw a bride eat
+so eagerly? I never saw a bride make such a hearty meal, nor a maid
+drink so deep of mead."
+
+26. The prudent handmaid sat near, and she found answer to the Giant's
+words: "Eight nights has Freyja eaten nothing, so eager was she to
+be in Jötunheim."
+
+27. He looked under the veil, he longed to kiss the bride, but
+he started back the length of the hall: "Why are Freyja's eyes so
+terrible? Fire seems to burn from her eyes."
+
+28. The prudent handmaid sat near, and she found answer to the Giant's
+speech: "Eight nights has Freyja had no sleep, so eager was she to
+be in Jötunheim."
+
+29. In came the Giants' wretched sister, she dared to ask for a bridal
+gift: "Take from thine arms the red rings, if thou wouldst gain my
+love, my love and all my favour."
+
+30. Then spoke Thrym, lord of the Giants: "Bring the hammer to hallow
+the bride. Lay Mjöllni on the maiden's knee, hallow us two in wedlock."
+
+31. The Thunderer's heart laughed in his breast, when the bold of
+soul felt the hammer. Thrym killed he first, the lord of the Giants,
+and all the race of the Giants he struck.
+
+32. He slew the Giants' aged sister, who had asked him for a bridal
+gift. She got a blow instead of shillings, and a stroke of the hammer
+for abundance of rings. So Odin's son got back his hammer.
+
+
+
+Bibliography
+
+
+I. Study in the Original.
+
+(1) _Poetic Edda_.--The classic edition, and on the whole the best,
+is Professor Bugge's (Christiania, 1867); the smaller editions of
+Hildebrand (_Die Lieder der Aelteren Edda_, Paderborn, 1876), and
+Finnur Jónsson (_Eddalieder_, Halle, 1888-90) are also good; the
+latter is in two parts, _Göttersage_ and _Heldensage_. The poems may
+also be found in the first volume of Vigfusson and Powell's _Corpus
+Poeticum Boreale_ (Oxford, 1883), accompanied by translations;	but in
+many cases they are cut up and rearranged, and they suffer metrically
+from the system adopted of printing two short lines as one long one,
+with no dividing point. There is an excellent palaeographic edition
+of the _Codex Regius of the Elder Edda_, by Wimmer and Finnur Jónsson
+(Copenhagen, 1891), with photographic reproductions interleaved with
+a literal transcription.
+
+(2) _Snorra Edda_.--The most recent edition of the whole is Dr. Finnur
+Jónsson's (Copenhagen, 1875). There is a useful edition of the
+mythological portions _(i.e., Gylfaginning, Bragaraedur_, and the
+narrative parts of _Skaldskaparmal_) by Ernst Wilken (_Die Prosäische
+Edda_, Paderborn, 1878).
+
+(3) _Dictionaries and Grammars_.--For the study of the Poetic Edda,
+Gering's _Glossar zu den Liedern der Edda_ (Paderborn, 1896) will
+be found most useful; it is complete and trustworthy, and in small
+compass. A similar service has been performed for _Snorra Edda_ in
+Wilken's _Glossar_ (Paderborn, 1883), which forms a second volume to
+his edition, mentioned above. Both are, of course, in German. The only
+English dictionary is the lexicon of Cleasby and Vigfusson (Oxford).
+
+Of Grammars, the best are German; those of Noreen (_Altnordische
+Grammatik_, Halle, 1892), of which there is an abbreviated edition,
+and Kahle (_Altisländisches Elementarbuch_, Heidelberg, 1896) being
+better suited for advanced students; the English grammars included
+in Vigfusson and Powell's _Icelandic Reader_ (Oxford) and Sweet's
+_Icelandic Primer_ (Oxford) are more elementary, and therefore hardly
+adequate for the study of the verse literature.
+
+
+II. Translations.
+
+There are English translations of the Elder Edda by Anderson (Chicago,
+1879) and Thorpe (1866), as well as the translations in the _Corpus
+Poeticum_, which are, of course, liable to the same objection as
+the text. The most accurate German translation is Gering's (Leipzig,
+1893); in Simrock's (_Aeltere und Jüngere Edda_, Stuttgart, 1882), the
+translations of the verse Edda are based on an uncritical text. Snorra
+Edda was translated into English by Dasent (Stockholm, 1842); also
+by Anderson (Chicago, 1880).
+
+
+III. Modern Authorities.
+
+To the works on Northern mythology mentioned below in the note on
+the Baldr theories, must be added Dr. Rydberg's _Teutonic Mythology_
+(English version by R.B. Anderson, London, 1889), which devotes
+special attention to Saxo.
+
+
+
+Notes
+
+_Home of the Edda_. (Page 2.)
+
+The chief apologists for the British theory are Professor Bugge
+(_Studien über die Entstehung der nordischen Götter- und Heldensagen_,
+München, 1889), and the editors of the _Corpus Poeticum Boreale_ (see
+the Introduction to that  work, and also the Prolegomena prefixed to
+their edition of the _Sturlunga Saga_, Oxford). The case for Norway
+and Greenland is argued by Dr. Finnur Jónsson (_Den oldnorsk og
+oldislandske Literaturs-Historie,_ Copenhagen). The cases for both
+British and Norwegian origin are based chiefly on rather fanciful
+arguments from supposed local colour. The theory of the _Corpus
+Poeticum_ editors that many of the poems were composed in the Scottish
+isles is discredited by the absence of Gaelic words or traces of Gaelic
+legend. Professor Bugge's North of England theory is slightly stronger,
+being supported by several Old English expressions in the poems,
+but these are not enough to prove that they were composed in England,
+since most Icelanders travelled east at some time of their lives.
+
+(Page 3.)
+
+A later study will deal with the Heroic legends.
+
+_Ynglinga Saga_. (Page 3.)
+
+_Ynglinga Saga_ is prefixed to the Lives of the Kings in the collection
+known as _Heimskringla_ (edited by Unger, Christiania, 1868, and by
+Finnur Jónsson, Christiania, 1893); there is an English translation
+in Laing's _Lives of the Kings of Norway_ (London, 1889).
+
+_Völuspa_. (Page 4.)
+
+A poem of similar form occurs among the heroic poems. _Gripisspa_,
+a prophetic outline of Sigurd's life, introduces the Volsung poems,
+as _Völuspa_ does the Asgard cycle.
+
+_Riddle-poems_. (Page 6.)
+
+So many of the mythological poems are in this form that they suggest
+the question, did the asking of riddles form any part of Scandinavian
+ritual?
+
+_The Aesir_. (Page 11.)
+
+_Ynglinga Saga_ says that Odin and the Aesir came to Norway from Asia;
+a statement due, of course, to a false etymology, though theories as
+to the origin of Norse mythology have been based on it.
+
+_Tyr_. (Page 12.)
+
+Tyr is etymologically identical with Zeus, and with the Sanskrit Dyaus
+(Sky-God).
+
+_Baldr_. (Pages 16 to 22.)
+
+The Baldr theories are stated in the following authorities:
+
+(1) Ritual origin: Frazer, _The Golden Bough_, vol. 3.
+
+(2) Heroic origin: Golther, _Handbuch der Germanischen Mythologie_
+(Leipzig, 1895); Niedner, _Eddische Fragen_ (_Zeitschrift
+für deutsches Altertum_, new series, 29), _Zur Lieder-Edda_
+(_Zeitschr. f. d. Alt_. vol. 36).
+
+(3) Solar myth: Sir G.W. Cox, _Mythology of the Aryan Nations_
+(London, 1870); Max Müller, _Chips from a German Workshop_, vol. 4.
+
+(4) Borrowed: Bugge, _Studien über die Entstchung der nordischen
+Götter- und Heldensagen_ (transl. Brenner, München, 1889).
+
+_Vegtamskvida_. (Page 17.)
+
+The word _hrodhrbadhm_ (which I have given as "branch of fame")
+would perhaps be more accurately translated "tree of fame," which
+Gering explains as a kenning for Baldr. But there are no kennings of
+the same sort in the poem, and the line would have no meaning. If it
+refers to the mistletoe, as most commentators agree, it merely shows
+that the poet was ignorant of the nature of the plant, which would
+be in favour of its antiquity, rather than the reverse.
+
+
+_Saxo Grammaticus_. (Page 18.)
+
+English translation by Professor Elton (London, D. Nutt, 1894). As
+Saxo's references to the old Gods are made in much the same sympathetic
+tone as that adopted by Old Testament writers towards heathen deities,
+his testimony on mythological questions is of the less value.
+
+
+_The Mistletoe_. (Page 20.)
+
+It seems incredible that any writers should turn to the travesty of
+the Baldr story given in the almost worthless saga of Hromund Gripsson
+in support of a theory. In it "Bildr" is killed by Hromund, who has
+the sword Mistilteinn. It must be patent to any one that this is a
+perverted version of a story which the narrator no longer understood.
+
+
+_Loki_. (Page 26.)
+
+It is hardly necessary to point out the parallel between Loki and
+Prometheus, also both helper and enemy of the Gods, and agent in their
+threatened fall, though in the meantime a prisoner. In character
+Loki has more in common with the mischievous spirit described by
+Hesiod, than with the heroic figure of Aeschylus. The struggles of
+Loki (p. 28) find a parallel in those of the fire-serpent Typhon,
+to which the Greeks attributed earthquakes.
+
+
+_Eclipse Ritual_. (Page 35.)
+
+Mr. Lang, in _Myth, Ritual, and Religion_, (London, 1887)  gives
+examples of eclipse ritual. Grimm, in the _Teutonic Mythology_,
+vol. 2, quotes Finnish and Lithuanian myths about sun-devouring beasts,
+very similar to the Fenri myth.
+
+
+_The Skalds_. (Page 35.)
+
+All the Skaldic verses will be found, with translations, in the
+_Corpus Poeticum_.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Edda, Vol. 1, by Winifred Faraday
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE EDDA, VOL. 1 ***
+
+***** This file should be named 13007-8.txt or 13007-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/3/0/0/13007/
+
+Produced by Jeroen Hellingman and the Distributed Proofreaders Team.
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

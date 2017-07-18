@@ -1,0 +1,3215 @@
+﻿Project Gutenberg's The Babylonian Legends of the Creation, by British Museum
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Babylonian Legends of the Creation
+
+Author: British Museum
+
+Posting Date: October 24, 2011 [EBook #9914]
+Release Date: February, 2006
+First Posted: October 31, 2003
+Last Updated: July 21, 2005
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK BABYLONIAN LEGENDS OF THE CREATION ***
+
+
+
+
+Produced by the PG Distributed Proofreaders
+
+
+
+
+
+
+
+
+
+THE BABYLONIAN LEGENDS OF THE CREATION
+
+AND THE
+
+FIGHT BETWEEN BEL AND THE DRAGON
+
+TOLD BY ASSYRIAN TABLETS FROM NINEVEH
+
+
+
+DISCOVERY OF THE TABLETS.
+
+The baked clay tablets and portions of tablets which describe the
+views and beliefs of the Babylonians and Assyrians about the Creation
+were discovered by Mr. (later Sir) A.H. Layard, Mormuzd Rassam and
+George Smith, Assistant in the Department of Oriental Antiquities in
+the British Museum. They were found among the ruins of the Palace and
+Library of Ashur-bani-pal (B.C. 668-626) at Kuyûnjik (Nineveh),
+between the years 1848 and 1876. Between 1866 and 1870, the great
+"find" of tablets and fragments, some 20,000 in number, which Rassam
+made in 1852, was worked through by George Smith, who identified many
+of the historical inscriptions of Shalmaneser II, Tiglath-Pileser III,
+Sargon II, Sennacherib, Esarhaddon, and other kings mentioned in the
+Bible, and several literary compositions of a legendary character,
+fables, etc. In the course of this work he discovered fragments of
+various versions of the Babylonian Legend of the Deluge, and portions
+of several texts belonging to a work which treated of the beginning of
+things, and of the Creation. In 1870, Rawlinson and Smith noted
+allusions to the Creation in the important tablet K.63, but the texts
+of portions of tablets of the Creation Series at that time available
+for study were so fragmentary that it was impossible for these
+scholars to find their correct sequence. During the excavations which
+Smith carried out at Kuyûnjik in 1873 and 1874 for the proprietors of
+the _Daily Telegraph_ and the Trustees of the British Museum, he
+was, he tells us, fortunate enough to discover "several fragments of
+the Genesis Legends." In January, 1875, he made an exhaustive search
+among the tablets in the British Museum, and in the following March he
+published, in the _Daily Telegraph_ (March 4th), a summary of the
+contents of about twenty fragments of the series of tablets describing
+the creation of the heavens and the earth. In November of the same
+year he communicated to the Society of Biblical Archaeology [1]
+copies of:--(1) the texts on fragments of the First and Fifth Tablets
+of Creation; (2) a text describing the fight between the "Gods and
+Chaos"; and (3) a fragmentary text which, he believed, described the
+Fall of Man. In the following year he published translations of all
+the known fragments of the Babylonian Creation Legends in his
+"Chaldean Account of Genesis" (London, 1876, 8vo, with photographs).
+In this volume were included translations of the Exploits of Gizdubar
+(Gilgamish), and some early Babylonian fables and legends of the gods.
+
+[Footnote 1: See the _Transactions_, Vol. IV, Plates I-VI, London,
+1876.]
+
+
+
+PUBLICATION OF THE CREATION TABLETS.
+
+The publication of the above-mentioned texts and translations proved
+beyond all doubt the correctness of Rawlinson's assertion made in
+1865, that "certain portions of the Babylonian and Assyrian Legends of
+the Creation resembled passages in the early chapters of the Book of
+Genesis."  During the next twenty years, the Creation texts were
+copied and recopied by many Assyriologists, but no publication
+appeared in which all the material available for reconstructing the
+Legend was given in a collected form. In 1898, the Trustees of the
+British Museum ordered the publication of all the Creation texts
+contained in the Babylonian and Assyrian Collections, and the late
+Mr. L. W. King, Assistant in the Department of Egyptian and Assyrian
+Antiquities, was directed to prepare an edition. The exhaustive
+preparatory search which he made through the collections of tablets in
+the British Museum resulted in the discovery of many unpublished
+fragments of the Creation Legends, and in the identification of a
+fragment which, although used by George Smith, had been lost sight of
+for about twenty-five years. He ascertained also that, according to
+the Ninevite scribes, the Tablets of the Creation Series were seven in
+number, and what several versions of the Legend of the Creation, the
+works of Babylonian and Assyrian editors of different periods, must
+have existed in early Mesopotamian Libraries. King's edition of the
+Creation Texts appeared in "Cuneiform Texts from Babylonian Tablets in
+the British Museum," Part XIII, London, 1901. As the scope of this
+work did not permit the inclusion of his translations, and commentary
+and notes, he published these in a private work entitled, "The Seven
+Tablets of Creation, or the Babylonian and Assyrian Legends concerning
+the creation of the world and of mankind," London, 1902, 8vo. A
+supplementary volume contained much new material which had been found
+by him since the appearance of the official edition of the texts, and
+in fact doubled the number of Creation Texts known hitherto.
+
+[Illustration: Babylonian map of the world, showing the ocean
+surrounding the world and making the position of Babylon on the
+Euphrates as its centre. It shows also the mountains as the source of
+the river, the land of Assyria, Bît-Iakinu, and the swamps at the
+mouth of the Euphrates.  [No. 92,687.]]
+
+
+
+THE OBJECT OF THE BABYLONIAN LEGEND OF THE CREATION.
+
+A perusal of the texts of the Seven Tablets of Creation, which King
+was enabled, through the information contained in them, to arrange for
+the first time in their proper sequence, shows that the main object of
+the Legend was the glorification of the god Marduk, the son of Ea
+(Enki), as the conqueror of the dragon Tiâmat, and not the narration
+of the story of the creation of the heavens, and earth and man. The
+Creation properly speaking, is only mentioned as an exploit of Marduk
+in the Sixth Tablet, and the Seventh Tablet is devoted wholly to the
+enumeration of the honorific titles of Marduk. It is probable that
+every great city in Babylonia, whilst accepting the general form of
+the Creation Legend, made the greatest of its local gods the hero of
+it. It has long been surmised that the prominence of Marduk in the
+Legend was due to the political importance of the city of Babylon. And
+we now know from the fragments of tablets which have been excavated in
+recent years by German Assyriologists at Kal'at Sharkât (or Shargat,
+or Shar'at), that in the city of Ashur, the god Ashur, the national
+god of Assyria, actually occupied in texts[1] of the Legend in use
+there the position which Marduk held in four of the Legends current in
+Babylonia. There is reason for thinking that the original hero of the
+Legend was Enlil (Bel), the great god of Nippur (the Nafar, or Nufar
+of the Arab writers), and that when Babylon rose into power under the
+First Dynasty (about B.C. 2300), his position in the Legend was
+usurped at Babylon by Marduk.
+
+[Footnote 1: See the duplicate fragments described in the Index to
+Ebeling, _Keilschrifttexte aus Assur_, Leipzig, 1919 fol.]
+
+[Illustration: Excavations in Babylonia and Assyria.]
+
+
+
+VARIANT FORMS OF THE BABYLONIAN LEGEND OF THE CREATION.
+
+The views about the Creation which are described in the Seven Tablets
+mentioned above were not the only ones current in Mesopotamia, and
+certainly they were not necessarily the most orthodox. Though in the
+version of the Legend already referred to the great god of creation
+was Enlil, or Marduk, or Ashur, we know that in the Legend of
+Gilgamish (Second Tablet) it was the goddess Aruru who created Enkidu
+(Eabani) from a piece of clay moistened with her own spittle. And in
+the so-called "bilingual" version[1] of the Legend, we find that this
+goddess assisted Marduk as an equal in the work of creating the seed
+of mankind. This version, although Marduk holds the position of
+pre-eminence, differs in many particulars from that given by the Seven
+Tablets, and as it is the most important of all the texts which deal
+directly with the creation of the heavens and the earth, a rendering
+of it is here given.
+
+[Footnote 1: The text is found on a tablet from Abû Habbah, Brit.
+Mus., No. 93,014 (82-5-22, 1048).]
+
+
+
+THE "BILINGUAL" VERSION OF THE CREATION LEGEND.
+
+1. "The holy house, the house of the gods in the holy place had not
+yet been made.
+
+2. "No reed had sprung up, no tree had been made.
+
+3. "No brick had been laid, no structure of brick had been erected.
+
+4. "No house had been made, no city had been built.
+
+[Illustration: The Bilingual Version of the Creation Legend. [No. 93,014.]]
+
+5. "No city had been made, no creature had been constituted.
+
+6. "Enlil's city, (i.e., Nippur) had not been made, E-kur had not been
+built,
+
+7. "Erech had not been made, E-Aena had not been built,
+
+8. The Deep[1] (or Abyss) had not been made, Eridu had not been built.
+
+[Footnote 1: APSÛ. It is doubtful if APSÛ here really means the great
+abyss of waters from out of which the world was called. It was, more
+probably, a ceremonial object used in the cult of the god, something
+like the great basin, or "sea," in the court of the temple of King
+Solomon, mentioned in I Kings, vii, 23; 2 Kings, xxv, 13, etc.]
+
+9. "Of the holy house, the house of the gods, the dwelling-place had
+not been made.
+
+10. "All the lands were sea
+
+11. "At the time that the mid-most sea was [shaped like] a trough,
+
+12. "At that time Eridu was made, and E-sagil was built,
+
+13. "The E-sagil where in the midst of the Deep the god
+Lugal-dul-azaga [1] dwelleth,
+
+[Footnote 1: This is a name under which Marduk was worshipped at
+Eridu.]
+
+14. "Babylon was made, E-sagil was completed.
+
+15. "The gods the Anunnaki he created at one time.
+
+16. "They proclaimed supreme the holy city, the dwelling of their
+heart's happiness.
+
+17. "Marduk laid a rush mat upon the face of the waters,
+
+18. "He mixed up earth and moulded it upon the rush mat,
+
+19. "To enable the gods to dwell in the place where they fain would
+be.
+
+20. "He fashioned man.
+
+21. "The goddess Aruru with him created the seed of mankind.
+
+22. "He created the beasts of the field and [all] the living things in
+the field.
+
+23. "He created the river Idiglat (Tigris) and the river Purattu
+(Euphrates), and he set them in their places,
+
+24. "He proclaimed their names rightly.
+
+[Illustration: Terra-cotta figure of a god. From a foundation deposit
+at Babylon. [No. 90,9961]]
+
+25. "He created grass, the vegetation of the marsh, seed and shrub;
+
+26. "He created the green plants of the plain,
+
+27. "Lands, marshes, swamps,
+
+28. "The wild cow and the calf she carried, the wild calf, the sheep
+and the young she carried, the lamb of the fold,
+
+29. "Plantations and shrub land,
+
+30. "The he-goat and the mountain goat ...
+
+31. "The lord Marduk piled up a dam in the region of the sea (i.e., he
+reclaimed land)
+
+32. "He ... a swamp, he founded a marsh.
+
+33. "... he made to be
+
+34. "Reeds he created, trees he created,
+
+35. "... in place he created
+
+36. "He laid bricks, he built a brick-work,
+
+37. "He constructed houses, he formed cities.
+
+38. "He constructed cities, creatures he set [therein].
+
+39. "Nippur he made, E-Kur he built.
+
+40. "[Erech he made, E-Anna] he built.
+
+[The remainder of the text is fragmentary, and shows that the text
+formed part of an incantation which was recited in the Temple of
+E-Zida, possibly the great temple of Nabu at Borsippa.]
+
+[Illustration: Bronze figure of a Babylonian god.  [No. 91,147]]
+
+
+
+THE LEGEND OF THE CREATION ACCORDING TO BEROSUS AND DAMASCIUS.
+
+Versions in Greek of the Legends found by George Smith had long been
+known to classical scholars, owing to the preservation of fragments of
+them in the works of later Greek writers, e.g., Eusebius, Syncellus, and
+others. The most important of these is derived from the History of
+Babylonia, which was written in Greek by BEROSUS, a priest of
+Bel-Marduk, i.e., the "Lord Marduk," at Babylon, about 250 B.C. In this
+work Berosus reproduced all the known historical facts and traditions
+derived from native sources which were current in his day. It is
+therefore not surprising to find that his account of the Babylonian
+beliefs about the origin of things corresponds very closely with that
+given in the cuneiform texts, and that it is of the greatest use in
+explaining and partly in expanding these texts. His account of the
+primeval abyss, out of which everything came, and of its
+inhabitants reads:--
+
+[Illustration: Babylonian Monster. [No. 108,979.]]
+
+"There was a time in which there existed nothing but darkness and an
+abyss of waters, wherein resided most hideous beings, which were
+produced on a two-fold principle. There appeared men, some of whom
+were furnished with two wings, others with four, and with two
+faces. They had one body but two heads; the one that of a man, the
+other of a woman; and likewise in their several organs both male and
+female. Other human figures were to be seen with the legs and horns of
+goats; some had horses' feet; while others united the hind-quarters of
+a horse with the body of a man, resembling in shape the hippo-centaurs.
+Bulls likewise were bred there with the heads of men, and dogs with
+four told bodies, terminated in their extremities with the tails of
+fishes; horses also with the heads of dogs; men too and other animals,
+with the heads and bodies of horses and the tails of fishes. In short,
+there were creatures in which were combined the limbs of every species
+of animals. In addition to these, fishes, reptiles, serpents, with
+other monstrous animals, which assumed each other's shape and
+countenance. Of all which were preserved delineations in the temple of
+Belus at Babylon."
+
+[Illustration: Babylonian Demon. [No. 93,089.]]
+
+
+[THE SLAUGHTER OF THE QUEEN OF THE ABYSS.]
+
+"The person, who presided over them, was a woman named OMUROCA; which
+in the Chaldean language is THALATTH; in Greek THALASSA, the sea; but
+which might equally be interpreted the Moon. All things being in this
+situation, Belus came, and cut the woman asunder: and of one half of
+her he formed the earth, and of the other half the heavens; and at the
+same time destroyed the animals within her. All this (he says) was an
+allegorical description of nature."
+
+
+[THE CREATION OF MAN.]
+
+"For, the whole universe consisting of moisture, and animals being
+generated therein, the deity above-mentioned[1] took off his own head:
+upon which the other gods mixed the blood, as it gushed out, with the
+earth; and from whence were formed men. On this account it is that
+they are rational and partake of divine knowledge."
+
+[Footnote 1: The god whose head was taken off was not Belus, as is
+commonly thought, but the god who the cuneiform texts tell us was
+called "Kingu."]
+
+
+[BELUS CREATES THE UNIVERSE.]
+
+"This Belus, by whom they signify Jupiter, divided the darkness, and
+separated the Heavens from the Earth, and reduced the universe to
+order. But the animals not being able to bear the prevalence of light,
+died. Belus upon this, seeing a vast space unoccupied, though by
+nature fruitful, commanded one[1] of the gods to take off his head,
+and to mix the blood with the earth; and from thence to form other men
+and animals, which should be capable of bearing the air. Belus formed
+also the stars, and the sun, and the moon, and the five planets. Such,
+according to Polyhistor Alexander, is the account which Berosus gives
+in his first book." (See Cory, _Ancient Fragments_, London, 1832,
+pp. 24-26.)
+
+[Footnote 1: The god whose head was taken off was not Belus, as is
+commonly thought, but the god who the cuneiform texts tell us was
+called "Kingu."]
+
+In the sixth century of our era DAMASCIUS the SYRIAN, the last of the
+Neo-Platonic philosophers, wrote in Greek in a work on the Doubts and
+Solutions of the first Principles, in which he says: "But the
+Babylonians, like the rest of the Barbarians, pass over in silence the
+One principle of the Universe, and they conceive Two, TAUTHE and
+APASON; making APASON the husband of TAUTHE, and denominating her the
+mother of the gods. And from these proceeds an only-begotten son,
+MOYMIS, which I conceive is no other than the Intelligible World
+proceeding from the two principles. From these, also, another progeny
+is derived, DACHE and DACHUS; and again, a third, KISSARE and ASSORUS,
+from which last three others proceed, ANUS, and ILLINUS, and AUS. And
+of AUS and DAUCE is born a son called Belus, who, they say, is the
+fabricator of the world, the Demiurgus." (See Cory, _Ancient
+Fragments_, London, 1832, p. 318.)
+
+
+
+THE SEVEN TABLETS OF CREATION. DESCRIPTION OF THEIR CONTENTS.
+
+In the beginning nothing whatever existed except APSÛ, which may be
+described as a boundless, confused and disordered mass of watery matter;
+how it came into being is unknown. Out of this mass there were evolved
+two orders of beings, namely, demons and gods. The demons had hideous
+forms, even as Berosus said, which were part animal, part bird, part
+reptile and part human. The gods had wholly human forms, and they
+represented the three layers of the comprehensible world, that is to
+say, heaven or the sky, the atmosphere, and the underworld. The
+atmosphere and the underworld together formed the earth as opposed to
+the sky or heaven. The texts say that the first two gods to be created
+were LAKHMU and LAKHAMU. Their attributes cannot at present be
+described, but they seem to represent two forms of primitive matter.
+They appear to have had no existence in popular religion, and it has
+been thought that they may be described as theological conceptions
+containing the notions of matter and some of its attributes.
+
+[Illustration: Terra-cotta figure of a Babylonian Demon. [No. 22,458.]]
+
+After countless aeons had passed the gods ANSHAR and KISHAR came into
+being; the former represents the "hosts of heaven," and the latter the
+"hosts of earth."
+
+After another long and indefinite period the independent gods of the
+Babylonian pantheon came into being, e.g., ANU, EA, who is here called
+NUDIMMUD, and others.
+
+[Illustration: Bronze figure of a Babylonian Demon. [No. 93,078.]]
+
+As soon as the gods appeared in the universe "order" came into being.
+When APSÛ, the personification of confusion and disorder of every kind,
+saw this "order," he took counsel with his female associate TIÂMAT with
+the object of finding some means of destroying the "way" (_al-ka-at_) or
+"order" of the gods. Fortunately the Babylonians and Assyrians have
+supplied us with representations of Tiâmat, and these show us what form
+ancient tradition assigned to her. She is depicted as a ferocious
+monster with wings and scales and terrible claws, and her body is
+sometimes that of a huge serpent, and sometimes that of an animal. In
+the popular imagination she represented all that was physically
+terrifying, and foul, and abominable; she was nevertheless the mother of
+everything, [1] and was the possessor of the DUP SHIMATI or "TABLET OF
+DESTINIES". No description of this Tablet or its contents is available,
+but from its name we may assume that it was a sort of Babylonian Book of
+Fate.[2] Theologically, Tiâmat represented to the Babylonians the same
+state in the development of the universe as did _tôhû wâ-bhôhû_ (Genesis
+i. 2), i.e., formlessness and voidness, of primeval matter, to the
+Hebrews She is depicted both on bas-reliefs and on cylinder seals in a
+form which associates her with LABARTU, [3] a female devil that prowled
+about the desert at night suckling wild animals but killing men. And it
+is tolerably certain that she was the type, and symbol, and head of the
+whole community of fiends, demons and devils.
+
+[Footnote 1: _Muallidat gimrishun_.]
+
+[Footnote 2: It is probable that the idea of this Tablet is perpetuated
+in the "Preserved Tablet" of the Kur'ân (Surah x, 62), on which the
+destiny of every man was written at or before the creation of the world.
+Nothing that is written (_maktûb_) there can be erased, or altered, or
+fail to take effect.]
+
+[Footnote 3: (_Cun. Texts_, Part XXIV, Plate 44, l. 142).]
+
+[Illustration: Terra-cotta plaque with a Typhonic animal in
+relief. [No. 103,381.]]
+
+In the consultation which took place between APSÛ and TIÂMAT, their
+messenger MU-UM-MU took part; of the history and attributes of this
+last-named god nothing is known. The result of the consultation was that
+a long struggle began between the demons and the gods, and it is clear
+that the object of the powers of darkness was to destroy the light. The
+whole story of this struggle is the subject of the Seven Tablets of
+Creation. The gods are deifications of the sun, moon, planets and other
+stars, and APSÛ, or CHAOS, and his companions the demons, are
+personifications of darkness, night and evil. The story of the fight
+between them is nothing more nor less than a picturesque allegory of
+natural phenomena. Similar descriptions are found in the literatures of
+other primitive nations, and the story of the great fight between
+Her-ur, the great god of heaven, and Set, the great captain of the hosts
+of darkness, may be quoted as an example. Set regarded the "order" which
+Her-ur was bringing into the universe with the same dislike as that
+with which APSÛ contemplated the beneficent work of Sin, the Moon-god,
+Shamash, the Sun-god, and their brother gods. And the hostility of Set
+and his allies to the gods, like that of Tiâmat and her allies, was
+everlasting.
+
+[Illustration: between Marduk (Bel) and the Dragon. Drawn from a
+bas-relief from the Palace of Ashur-nasir-pal, King of Assyria,
+885-860 B.C., at Nimrûd. [Nimrûd Gallery, Nos. 28 and 29.]]
+
+At this point a new Text fills a break in the First Tablet, and
+describes the fight which took place between Nudimmud or Ea, (the
+representative of the established "order" which the rule of the gods had
+introduced into the domain of Apsû and Tiâmat) and Apsû and his envoy
+Mummu. Ea went forth to fight the powers of darkness and he conquered
+Apsû and Mummu. The victory over Apsû, i.e., the confused and boundless
+mass of primeval water, represents the setting of impassable boundaries
+to the waters that are on and under the earth, i.e., the formation of
+the Ocean. The exact details of the conquest cannot be given, but we
+know that Ea was the possessor of the "pure (or white, or holy)
+incantation" and that he overcame Apsû and his envoy by the utterance of
+a powerful spell. In the Egyptian Legend of Ra and Aapep, the
+monster is rendered spell-bound by the god Her-Tuati, who plays in it
+exactly the same part as Ea in the Babylonian Legend.
+
+When Tiâmat heard of Ea's victory over Apsû and Mummu
+she was filled with fury, and determined to avenge the death
+of Apsû, her husband.
+
+The first act of TIÂMAT after the death of Apsû was to increase the
+number of her allies. We know that a certain creature called
+"UMMU-KHUBUR" at once spawned a brood of devilish monsters to help her
+in her fight against the gods. Nothing is known of the origin or
+attributes of UMMU-KHUBUR, but some think she was a form of TIÂMAT. Her
+brood probably consisted of personifications of mist, fog, cloud, storm,
+whirlwinds and the blighting and destroying powers which primitive man
+associated with the desert. An exact parallel of this brood of devils is
+found in Egyptian mythology where the allies of Set and Aapep are
+called "Mesu betshet" i.e., "spawn of impotent revolt." They are
+depicted in the form of serpents, and some of them became the "Nine
+Worms of Amenti" that are mentioned in the Book of the Dead
+(Chap. Ia).
+
+Not content with Ummu-Khubur's brood of devils, Tiâmat called the
+stars and powers of the air to her aid, for she "set up" (1) the
+Viper, (2) the Snake, (3) the god Lakhamu, (4) the Whirlwind, (5) the
+ravening Dog, (6) the Scorpion-man, (7) the mighty Storm-wind, (8) the
+Fish-man, and (9) the Horned Beast. These bore (10) the "merciless,
+invincible weapon," and were under the command of (11) Kingu, whom
+Tiâmat calls "her husband." Thus Tiâmat had Eleven mighty Helpers
+besides the devils spawned by Ummu-Khubur.  We may note in passing
+that some of the above-mentioned Helpers appear among the Twelve Signs
+of the Zodiac which Marduk "set up" after his conquest of Tiâmat,
+e.g., the Scorpion-man, the Horned Beast, etc. This fact
+suggests that the first Zodiac was "set up" by Tiâmat, who with her
+Eleven Helpers formed the Twelve Signs; the association of evil with
+certain stars may date from that period. That the Babylonians regarded
+the primitive gods as powers of evil is clear from the fact that
+Lakhamu, one of them, is enumerated among the allies of Tiâmat.
+
+The helpers of Tiâmat were placed by her under the command of a god
+called KINGU who is TAMMUZ. He was the counterpart, or equivalent, of
+ANU, the Sky-god, in the kingdom of darkness, for it is said in the text
+"Kingu was exalted and received the power of Anu," i.e., he possessed
+the same power and attributes as Anu. When Tiâmat appointed Kingu to be
+her captain, she recited over him a certain spell or incantation, and
+then she gave him the TABLET OF DESTINIES and fastened it to his breast,
+saying, "Whatsoever goeth forth from thy mouth shall be established."
+Armed with all the magical powers conferred upon him by this Tablet, and
+heartened by all the laudatory epithets which his wife Tiâmat heaped
+upon him, Kingu went forth at the head of his devils.
+
+When Ea heard that Tiâmat had collected her forces and Was determined
+to continue the fight against the gods which Apsû and Mummu had begun,
+and that she had made her husband Kingu her champion, he was
+"afflicted" and "sat in sorrow." He felt unable to renew the fight
+against the powers of darkness, and he therefore went and reported the
+new happenings to Anshar, representative of the "host of heaven," and
+took counsel with him. When Anshar heard the matter he was greatly
+disturbed in mind and bit his lips, for he saw that the real
+difficulty was to find a worthy antagonist for Kingu and Tiâmat. A gap
+in the text here prevents us from knowing exactly what Anshar said and
+did, but the context suggests that he summoned Anu, the Sky-god, to
+his assistance. Then, having given him certain instructions, he sent
+him on an embassy to Tiâmat with the view of conciliating her. When
+Anu reached the place where she was he found her in a very wrathful
+state, and she was muttering angrily; Anu was so appalled at the sight
+of her that he turned and fled. It is impossible at present to explain
+this interlude, or to find any parallel to it in other ancient
+Oriental literature.
+
+[Illustration: Shamash the Sun-god rising on the horizon, flames of
+fire ascending from his shoulder.  The two portals of the dawn, each
+surmounted by a lion, are being drawn open by attendant gods. From a
+Babylonian seal cylinder in the British Museum. [No. 89,110.]]
+
+When Anu reported his inability to deal with Tiâmat, a council of the
+gods was called, and Ea induced his son, Marduk to be present. We next
+find Anshar in converse with the god Marduk, who offers to act as the
+champion of the gods and to fight Tiâmat and her allies. Marduk being a
+form of the Sun-god, the greatest of all the powers of light, thus
+becomes naturally the protagonist of the gods, and the adversary of
+Tiâmat and her powers of darkness. Then Anshar summoned a great council
+of the gods, who forthwith met in a place called "Upshukkinaku", which
+may be described as the Babylonian Olympus. It was all-important for
+Marduk to appear at the council of the gods before he undertook his
+task, because it was necessary for him to be formally recognised by them
+as their champion, and he needed to be endowed by them with magical
+powers. The primitive gods Lakhmu and Lakhamu, and the Igigi, who may be
+regarded as star-gods, were also summoned. A banquet was prepared, and
+the gods attended, and having met and kissed each other they sat down,
+and ate bread and drank hot and sweet sesame wine. The fumes of the wine
+confused their senses, but they continued to drink, and at length "their
+spirits were exalted." They appointed Marduk to be their champion
+officially, and then they proceeded to invest him with the power that
+would cause every command he spake to be followed immediately by the
+effect which he intended it to produce. Next Marduk, with the view of
+testing the new power which had been given him, commanded a garment to
+disappear and it did so; and when he commanded it to reappear it did so.
+
+[Illustration: Shamash the Sun-god setting (?) on the horizon. In his
+right he holds a tree (?), and in his left a ... with a serrated
+edge. Above the horizon is a goddess who holds in her left hand an ear
+of corn.  On the right is a god who seems to be setting free a bird
+from his right hand. Round him is a river with fish in it, and behind
+him is an attendant god; under his foot is a young bull. To the right
+of the goddess stand a hunting god, with a bow and lasso, and a
+lion. From the seal-cylinder of Adda ..., in the British Museum. About
+2500 B.C. [No. 89,115.]]
+
+Then the gods saluted him as their king, and gave him the insignia of
+royalty, namely, the sceptre, the throne and the _pala_, whatever that
+may be. And as they handed to him these things they commanded him to go
+and hack the body of Tiâmat in pieces, and to scatter her blood to the
+winds. Thereupon Marduk began to arm himself for the fight. He took a
+bow, a spear, and a club; he filled his body full of fire and set the
+lightning before him. He took in his hands a net wherewith to catch
+Tiâmat, and he placed the four winds near it, to prevent her from
+escaping from it when he had snared her. He created mighty winds and
+tempests to assist him, and grasped the thunderbolt in his hand; and
+then, mounting upon the Storm, which was drawn by four horses, he went
+out to meet and defeat Tiâmat. It seems pretty certain that this
+description of the equipment of Marduk was taken over from a very
+ancient account of the Fight with Tiâmat in which the hero was Enlil,
+i.e., the god of the air, or of the region which lies between heaven
+and hell. Marduk approached and looked upon the "Middle" or "Inside" or
+"Womb" of Tiâmat [1], and divined the plan of Kingu who had taken up his
+place therein. In the Seventh Tablet (l. 108) Marduk is said to have
+"entered into the middle of Tiâmat," and because he did so he is called
+"Nibiru," i.e., "he who entered in," and the "seizer of the middle."
+What the words "middle of Tiâmat" meant to the Babylonian we are not
+told, but it is clear that Marduk's entry into it was a signal mark of
+the triumph of the god. When Kingu from the "middle of Tiâmat" saw
+Marduk arrayed in his terrible panoply of war, he was terrified and
+trembled, and staggered about and lost all control of his legs; and at
+the mere sight of the god all the other fiends and devils were smitten
+with fear and reduced to helplessness. Tiâmat saw Marduk and began to
+revile him, and when he challenged her to battle she flew into a rage
+and attempted to overthrow him by reciting an incantation, thinking that
+her words of power would destroy his strength. Her spell had no effect
+on the god, who at once cast his net over her. At the same moment he
+made a gale of foul wind to blow on her face, and entering through her
+mouth it filled her body; whilst her body was distended he drove his
+spear into her, and Tiâmat split asunder, and her womb fell out from it.
+Marduk leaped upon her body and looked on her followers as they
+attempted to escape. But the Four Winds which he had stationed round
+about Tiâmat made all their efforts to flee of no effect. Marduk caught
+all the Eleven allies of Tiâmat in his net, and he trampled upon them as
+they lay in it helpless. Marduk then took the TABLET OF DESTINIES from
+Kingu's breast, and sealed it with his seal and placed it on his
+own breast.
+
+[Footnote 1: Or perhaps the "belly of Tiâmat." The Egyptians
+distinguished a portion of the heavens by the name of "Khat Nut," "the
+belly of Nut," [Heiroglyphics] and two drawings of it are extant.  The
+first shows an oval object rimmed with stars and the other a
+pear-shaped object, with a god inside it. (See Brugsch, _Inschriften
+(Astronomische)_ Leipzig, 1883, p, 146.)  [Illustration]]
+
+Then returning to the dead body of Tiâmat he smashed her skull with
+his club and scattered her blood to the north wind, and as a reward
+for his destruction of their terrible foe, he received gifts and
+presents from the gods his fathers.
+
+The text then goes on to say that Marduk "devised a cunning plan,"
+i.e., he determined to carry out a series of works of creation. He
+split the body of Tiâmat into two parts; out of one half he fashioned
+the dome of heaven, and out of the other he constructed the abode of
+Nudimmud, or Ea, which he placed over against Apsu, i.e., the deep. He
+also formulated regulations concerning the maintenance of the same. By
+this "cunning plan" Marduk deprived the powers of darkness of the
+opportunity of repeating their revolt with any chance of success. Having
+established the framework of his new heaven and earth Marduk, acting as
+the celestial architect, set to work to furnish them. In the first place
+he founded E-Sharra, or the mansion of heaven, and next he set apart and
+arranged proper places for the old gods of the three realms--Anu,
+Bel and Ea.
+
+[Illustration: Tablet sculptured with a scene representing the worship
+of the Sun-god in the Temple of Sippar. The Sun-god is seated on a
+throne within a pavilion holding in one hand a disk and bar which may
+symbolize eternity. Above his head are the three symbols of the Moon,
+the Sun, and the planet Venus. On a stand in front of the pavilion rests
+the disk of the Sun, which is held in position by ropes grasped in the
+hands of two divine beings who are supported by the roof of the
+pavilion. The pavilion of the Sun-god stands on the Celestial Ocean, and
+the four small disks indicate either the four cardinal points or the
+tops of the pillars of the heavens. The three figures in front of the
+disk represent the high priest of Shamash, the king (Nabu-aplu-iddina,
+about 870 B.C.) and an attendant goddess. [No. 91,000.]]
+
+The text of the Fifth Tablet, which would undoubtedly have supplied
+details as to Marduk's arrangement and regulations for the sun, the
+moon, the stars, and the Signs of the Zodiac in the heavens is wanting.
+The prominence of the celestial bodies in the history of creation is not
+to be wondered at, for the greater number of the religious beliefs of
+the Babylonians are grouped round them. Moreover, the science of
+astronomy had gone hand in hand with the superstition of astrology in
+Mesopotamia from time immemorial; and at a very early period the oldest
+gods of Babylonia were associated with the heavenly bodies. Thus the
+Annunaki and the Igigi, who are bodies of deified spirits, were
+identified with the stars of the northern and southern heaven,
+respectively. And all the primitive goddesses coalesced and were grouped
+to form the goddess Ishtar, who was identified with the Evening and
+Morning Star, or Venus. The Babylonians believed that the will of the
+gods was made known to men by the motions of the planets, and that
+careful observation of them would enable the skilled seer to recognize
+in the stars favourable and unfavourable portents. Such observations,
+treated from a magical point of view, formed a huge mass of literature
+which was being added to continually. From the nature of the case this
+literature enshrined a very considerable number of facts of pure
+astronomy, and as early as the period of the First Dynasty (about 2000
+B.C.), the Babylonians were able to calculate astronomical events with
+considerable accuracy, and to reconcile the solar and lunar years by the
+use of epagomenal months. They had by that time formulated the existence
+of the Zodiac, and fixed the "stations" of the moon, and the places of
+the planets with it; and they had distinguished between the planets and
+the fixed stars. In the Fifth Tablet of the Creation Series (l. 2) the
+Signs of the Zodiac are called _Lumashi_ [1], but unfortunately no list
+of their names is given in the context. Now these are supplied by the
+little tablet (No. 77,821) of the Persian Period of which a reproduction
+is here given. It has been referred to and discussed by various
+scholars, and its importance is very great. The transcript of the text,
+which is now published (see p. 68) for the first time, will be
+acceptable to the students of the history of the Zodiac. Egyptian,
+Greek, Syriac and Arabic astrological and astronomical texts all
+associate with the Signs of the Zodiac twelve groups, each containing
+three stars, which are commonly known as the "Thirty-six Dekans." [2]
+The text of line 4 of the Fifth Tablet of the Creation Series proves
+that the Babylonians were acquainted with these groups of stars, for we
+read that Marduk "set up for the twelve months of the year three stars
+apiece." In the List of Signs of the Zodiac here given, it will be seen
+that each Sign is associated with a particular month.
+
+[Footnote 1: This is the original of the Syriac word for the Signs of
+the Zodiac _malwâshê_ (plural of _malwâshâ_). The Syrians
+added to it an _m_, thus giving it a participial form.]
+
+[Footnote 2: [Greek: Dekanoi] also called [Greek: prosopa], [Greek:
+horoskopoi], [Greek: philokes] and [Greek: episkopoi].  They were well
+known to the Egyptians, who, as early as the fourteenth century B.C.,
+possessed a full list of them.  See Lepsius, _Chronologie_,
+Berlin, 1848, and Brugsch, _Thesaurus (Astronomische und
+Astrologische Inschriften)_, Leipzig, 1883.]
+
+[Illustration: Tablet inscribed with a list of the Signs of the
+Zodiac. [No. 77,821.]]
+
+At a later period, say about 500 B.C., the Babylonians made some of
+the gods regents of groups of stars, for Enlil ruled 33 stars, Anu 23
+stars, and Ea 15 stars. They also possessed lists of the fixed stars,
+and drew up tables of the times of their heliacal risings. Such lists
+were probably based upon very ancient documents, and prove that the
+astral element in Babylonian religion was very considerable.
+
+The accompanying illustration, which is reproduced from the Boundary
+Stone of Ritti-Marduk (Brit. Mus., No. 90,858), supplies much
+information about the symbols of the gods, and of the Signs of the
+Zodiac in the reign of Nebuchadnezzar I, King of Babylon, about 1120
+B.C.. Thus in Register 1, we have the Star of Ishtar, the crescent of
+the Moon-god Sin, and the disk of Shamash the Sun-god. In Reg. 2 are
+three stands (?) surmounted by tiaras, which represent the gods Anu,
+Enlil (Bel) and Ea respectively. In Reg. 3 are three altars (?) or
+shrines (?) with a monster in Nos. 1 and 2. Over the first is the
+lance of Marduk, over the second the mason's square of Nabû, and over
+the third is the symbol of the goddess Ninkharsag, the Creatress. In
+Reg. 4 are a standard with an animal's head, a sign of Ea; a
+two-headed snake = the Twins; an unknown symbol with a horse's head,
+and a bird, representative of Shukamuna and Shumalia. In Reg. 5 are a
+seated figure of the goddess Gula and the Scorpion-man; and in Reg. 6
+are forked lightning, symbol of Adad, above a bull, the Tortoise,
+symbol of Ea (?), the Scorpion of the goddess Ishkhara, and the Lamp
+of Nusku, the Fire-god. Down the left-hand side is the serpent-god
+representing the constellation of the Hydra.
+
+The mutilated text of the Fifth Tablet makes it impossible to gain
+further details in connection with Marduk's work in arranging the
+heavens. We are, however, justified in assuming that the gaps in it
+contained statements about the grouping of the gods into triads. In
+royal historical inscriptions the kings often invoke the gods in
+threes, though they never call any one three a triad or trinity. It
+seems as if this arrangement of gods in threes was assumed to be of
+divine origin.  In the Fourth Tablet of Creation, one triad
+"Anu-Bel-Ea" is actually mentioned, and in the Fifth Tablet, another
+is indicated, "Sin-Shamash-Ishtar." In these triads Anu represents the
+sky or heaven, Bel or Enlil the region under the sky and including the
+earth, Ea the underworld, Sin the Moon, Shamash the Sun, and Ishtar
+the star Venus. When the universe was finally constituted several
+other great gods existed, e.g., Nusku, the Fire-god, Enurta,
+[1] a solar god, Nergal, the god of war and handicrafts, Nabu, the god
+of learning, Marduk of Babylon, the great national god of Babylonia,
+and Ashur, the great national god of Assyria.
+
+[Footnote 1: Formerly known as Ninip.]
+
+When Marduk had arranged heaven and earth, and had established the gods
+in their places, the gods complained that their existence was barren,
+because they lacked worshippers at their shrines and offerings. To make
+a way out of this difficulty Marduk devised another "cunning plan," and
+announced his intention of creating man out of "blood and bone" DAMI
+ISSIMTUM. We have already quoted (see p. 11) the statement of Berosus
+that man was created out of the blood of a god mixed with earth; here,
+then, is the authority for his words. Marduk made known to Ea his
+intention of creating man, and Ea suggested that if one of the gods were
+sacrificed the remainder of them should be set free from service,
+presumably to Marduk. Thereupon Marduk summons a council of the gods,
+and asks them to name the instigator of the fight in which he himself
+was the victor. In reply the gods named Kingu, Tiâmat's second husband,
+whom they seized forthwith, and bound with fetters and carried to Ea,
+and then having "inflicted punishment upon him they let his blood." From
+Kingu's blood Ea fashioned mankind for the service of the gods.
+
+Now among the texts which have been found on the tablets at Kal'at
+Sharkât is an account of the creation of man which differs from the
+version given in the Seven Tablets of Creation, but has two features in
+common with it. These two features are: (1) the council of the gods to
+discuss the creation of man; (2) the sacrifice which the gods had to
+make for the creation of man. In the variant version two (or more) gods
+are sacrificed, _Ilu Nagar Ilu Nagar_, i.e., "the workmen gods," about
+whom nothing is known. The place of sacrifice is specified with some
+care, and it is said to be "Uzu-mu-a, or the bond of heaven and earth."
+Uzu-mu-a may be the bolt with which Marduk locked the two halves of
+Tiâmat into place.
+
+The Anunnaki, wishing to give an expression of their admiration for
+Marduk's heroism, decided to build him a shrine or temple. To this
+Marduk agreed, and chose Babylon, i.e., the "Gate of God," for its site.
+The Anunnaki themselves made the bricks, and they built the great temple
+of E-Sagila at Babylon. When the temple was finished, Marduk re-enacted
+the scene of creation; for, as he had formerly assigned to each god his
+place in the heavens, so now he assigned to each god his place in
+E-Sagila. The tablet ends with a long hymn of praise which the Anunnaki
+sang to Marduk, and describes the summoning of an assembly of the gods
+to proclaim ceremonially the great Fifty Names of this god. Thus the
+gods accepted the absolute supremacy of Marduk.
+
+From the above it is clear that a dispute broke out between Marduk and
+the gods after he had created them, and the tradition of it has made its
+way into the religious literatures of the Hebrews, Syrians, Arabs, Copts
+and Abyssinians. The cuneiform texts tell us nothing about the cause of
+the dispute, but tradition generally ascribes it to the creation of man
+by the supreme God; and it is probable that all the apocryphal stories
+which describe the expulsion from heaven of the angels who contended
+against God under the leadership of Satan, or Satnael, or Iblîs, are
+derived from a Babylonian original which has not yet been found. The
+"Fifty Names," or laudatory epithets mentioned above, find parallels in
+"Seventy-five Praises of Ra," sung by the Egyptians under the XIXth
+dynasty, [1] and in the "Ninety-nine Beautiful Names of Allâh," which
+are held in such great esteem by the Muhammadans. [2] The respect in
+which the Fifty Names were held by the Babylonians is well shown by the
+work of the Epilogue on the Seventh Tablet, where it is said, "Let them
+be held in remembrance, let the first-comer (i.e., any and every man)
+proclaim them; let the wise and the understanding consider them
+together. Let the father repeat them and teach them to his son. Let them
+be in the ears of the herdsman and the shepherd."
+
+[Footnote 1: See Naville, _La Litanie du Soleil_, Paris, 1875,
+Plate ii ff.]
+
+[Footnote 2: See _Kur'ân_, Surah vii, v. 179. That there were
+ninety-nine Beautiful Names of God rests on the authority of Abû
+Hurairah, who repeats the statement as made by Muhammad the Prophet.]
+
+The object of the writer of the Fifty Names was to show that Marduk
+was the "Lord of the gods," that the power, qualities and attributes
+of every god were enshrined in him, and that they all were merely
+forms of him. This fact is proved by the tablet (No. 47,406), [1]
+which contains a long list of gods who are equated with Marduk in his
+various forms.[2] The tendency in the later Babylonian religion to
+make Marduk the god above all gods has led many to think that
+monotheistic conceptions were already in existence among the
+Babylonians as early as the period of the First Dynasty, about 2000
+B.C.  It is indisputable that Marduk obtained his pre-eminence in the
+Babylonian Pantheon at this early period. But some authorities deny
+the existence of monotheistic conceptions among the Babylonians at
+that time, and attribute Marduk's kingship of the gods to the
+influence of the political situation of the time, when Babylon first
+became the capital of the country, and mistress of the greater part of
+the known world.  Material for deciding this question is wanting, but
+it may be safely said that whatever monotheistic conceptions existed
+at that time, their acceptance was confined entirely to the priests
+and scribes. They certainly find no expression in the popular
+religious texts.
+
+[Footnote 1: Published by King, _Cuneiform Texts_, Part XXV,
+Plate 50.]
+
+[Footnote 2: Thus he is equated with En-Urta, Nergal, En-lil, Nabû,
+Sin, Shamash, Adad, etc.]
+
+Both the source of the original form of the Legend of the Fight
+between Ea and Apsu, and Marduk and Tiâmat, and the period of its
+composition are unknown, but there is no doubt that in one form or
+another it persisted in Mesopotamia for thousands of years. The
+apocryphal book of "Bel and the Dragon" shows that a form of the
+Legend was in existence among the Babylonian Jews long after the
+Captivity, and the narrative relating to it associates it with
+religious observances.  But there is no foundation whatsoever for the
+assertion which has so often been made that the Two Accounts of the
+Creation which are given in the early chapters in Genesis are derived
+from the Seven Tablets of Creation described in the preceding
+pages. It is true that there are many points of resemblance between
+the narratives in cuneiform and Hebrew, and these often illustrate
+each other, but the fundamental conceptions of the Babylonian and
+Hebrew accounts are essentially different.  In the former the earliest
+beings that existed were foul demons and devils, and the God of
+Creation only appears at a later period, but in the latter the
+conception of God is that of a Being Who existed in and from the
+beginning, Almighty and Alone, and the devils of chaos and evil are
+His servants.
+
+[Illustration: Marduk destroying Tiâmat, who is here represented in the
+form of a huge serpent. From a seal-cylinder in the British Museum.
+[No. 89,589.]]
+
+Among the primitive Semitic peoples there were probably many versions of
+the story of the Creation; and the narrative told by the Seven Tablets
+is, no doubt, one of them in a comparatively modern form. It is quite
+clear that the Account of the Creation given in the Seven Tablets is
+derived from very ancient sources, and a considerable amount of literary
+evidence is now available for reconstructing the history of the Legend.
+Thus in the Sumerian Account the narrative of the exploits of the hero
+called ZIUSUDU [1] begins with a description of the Creation and then
+goes on to describe a Flood, and there is little doubt that certain
+passages in this text are the originals of the Babylonian version as
+given in the Seven Tablets. In the Story of ZIUSUDU, however, there is
+no mention of any Dragon. And there is reason to think that the Legend
+of the Dragon had originally nothing whatever to do with the Creation,
+for the texts of fragments of two distinct Accounts [2] of the Creation
+describe a fight between a Dragon and some deity other than Marduk. In
+other Accounts the Dragon bears a strong resemblance to the Leviathan of
+Psalm civ, 26; Job xli, 1. In the one text he is said to be 50 _biru_
+[3] in length, and 1 _biru_ in thickness; his mouth was 6 cubits (about
+9 feet) wide, and the circumference of his ears 12 cubits (18 feet). He
+was slain by a god whose name is unknown, and the blood continued to
+flow from his body for three years, three months, one day and one night.
+In the second text the Dragon is 60 _biru_ long and his thickness is 30
+_biru_; the diameter of each eye is half a _biru_, and his paws are 20
+_biru_ long. Thus there is every reason for believing that the Legend as
+it is given in the Seven Tablets is the work of some editor, who added
+the Legend of the Creation to the Legend of the Dragon in much the same
+way as the editor of the Gilgamish Legends included an account of the
+Deluge in his narrative of the exploits of his hero. All forms of the
+Legend of the Creation and of the Dragon were popular in Babylonia, and
+one of them achieved so much notoriety that the priest employed recited
+it as an incantation to charm away the toothache.
+
+[Footnote 1: See Poebel, _Historical Texts_, No. 1.]
+
+[Footnote 2: See King, _Cuneiform Texts_, Part XIII, Plate 33;
+and Ebellog, _Assurtexte_, I, No. 6.]
+
+[Footnote 3: The _biru_ was the distance which a man would travel
+in two hours.]
+
+The literary form of the text of the Seven Tablets fulfils the
+requirements of Semitic poetry in general. The lines usually fall into
+couplets, the second line being the antiphon of the first, e.g.:--
+
+  "When in the height heaven was not named,
+    And the earth beneath did not yet bear a name."
+
+Each line, or verse, falls into two halves, and a well-marked caesura
+divides each line, or verse, into two equally accented parts. And the
+half-lines can be further resolved into two halves, each containing a
+single accented word or phrase. This is proved by tablet Spartali ii,
+265A, where the scribe writes his lines and spaces the words in such a
+way as to show the subdivision of the lines. Thus we have:--
+
+  _enuma_   | _elish_  || _lâ nabû_| _shamamu_
+  _shaplish_| _ammatum_|| _shuma_  | _lâ zakrat_
+
+Here there is clearly a rhythm which resembles that found in the poems
+of the Syrians and Arabs, but there are many instances of its
+inconsistent use in several parts of the text.  Both rhyme and
+alliteration appear to be used occasionally.
+
+
+
+
+THE SEVEN TABLETS OF CREATION.--TRANSLATION.
+
+
+
+FIRST TABLET.[1]
+
+[Footnote 1: This translation is made from transcripts of the British
+Museum fragments (_Cuneiform Texts_, Part XIII), and transcripts
+of the Berlin fragments (Ebeling, _Keilschrifttexte aus Assur_,
+Nos. 117, 118).]
+
+1. When the heavens above were yet unnamed,[1]
+
+[Footnote 1: The name of an object was the object itself, and it was
+believed that nothing could exist apart from its name.]
+
+2. And the name of the earth beneath had not been recorded,
+
+3. Apsu, the oldest of beings, their progenitor,
+
+4. "Mummu" Tiâmat, who bare each and all of them--
+
+5. Their waters were merged into a single mass.
+
+6. A field had not been measured, a marsh had not been searched out,
+
+7. When of the gods none was shining,
+
+[Illustration: Portion of a tablet inscribed in Assyrian with a text
+of the First Tablet of the Creation Series. [K. 5419C.]]
+
+8. A name had not been recorded, a fate had not been fixed,
+
+9. The gods came into being in the midst of them.
+
+10. The god Lakhmu and the goddess Lakhamu were made to shine, they
+were named.
+
+11. [Together] they increased in stature, they grew tall.
+
+12. Anshar and Kishar came into being, and others besides them.
+
+13. Long were the days, the years increased.
+
+14. The god Anu, their son, the equal of his fathers, [was created].
+
+15. The god Anshar made his eldest son Anu in his own image.
+
+16. And the god Anu begat Nudimmud (Ea) the image of himself.
+
+17. The god Nudimmud was the first among his fathers,
+
+18. Endowed with understanding, he who thinketh deeply, the orator
+
+19. Exceedingly mighty in strength above his father Anshar who begat
+him.
+
+20. Unrivalled amongst the gods his brothers ...
+
+21. The confraternity of the gods was established.
+
+22. Tiâmat was troubled and she ... their guardian.
+
+23. Her belly was stirred up to its uttermost depths.
+
+24. ...........
+
+25. Apsu (the watery abyss) could not diminish their brawl
+
+26. And Tiâmat gathered herself together ...
+
+27. She struck a blow, and their works ...
+
+28. Their way was not good,...
+
+29. At that time Apsu, the progenitor of the great gods,
+
+30. Shouted out and summoned Mummu, the steward of his house, saying
+
+31. "[O] Mummu, my steward, who makest my liver to rejoice,
+
+32. "Come, to Tiâmat we will go."
+
+33. They went, they lay down [on a couch] facing Tiâmat.
+
+34. They took counsel together about the gods [their children].
+
+35. Apsu took up his word and said,
+
+36. To Tiâmat, the holy (?) one, he made mention of a matter,
+[saying],
+
+37. "... their way ...
+
+38. "By day I find no peace, by night I have no rest.
+
+39. "Verily I will make an end of their way, I will sweep them away,
+
+40. "There shall be a sound of lamentation; lo, then we shall rest."
+
+41. Tiâmat on hearing this
+
+42. Was stirred up to wrath and shrieked to her husband,[1]
+
+[Footnote 1: Tiâmat's wrath was roused by Apsu, who had proposed to slay
+the gods, her children. She took no part in the first struggle of Apsu
+and Mummu against the gods, and only engaged in active hostilities to
+avenge Apsu.]
+
+43. ... unto sickness. She raged all alone,
+
+44. She uttered a curse, and unto [Apsu, spake, saying,],
+
+45. "Whatsoever we have made we will destroy.
+
+46. "Verily their way shall be filled with disaster; lo, then we shall
+rest."
+
+47. Mummu answered and gave counsel unto Apsu,
+
+48. The counsel of Mummu was ... and dire [in respect of the gods]:
+
+49. "Come, [do thou destroy] their way which is strong.
+
+50. "Then verily by day thou shalt find peace, [and] by night thou
+shalt have rest."
+
+51. Apsu heard him, his face grew bright,
+
+52. For that they were planning evil against the gods, his children.
+
+53. Mummu embraced his neck ...
+
+54. He took him on his knee, he kissed him ...
+
+55. They (i.e. Mummu and Apsu) planned the cursing in the
+assembly,
+
+56. They repeated the curses to the gods their eldest sons.
+
+57. The gods made answer ...
+
+58. They began a lamentation...
+
+59. [Endowed] with understanding, the prudent god, the exalted one,
+
+60. Ea, who pondereth everything that is, searched out their [plan].
+
+61. He brought it to nought (?), he made the form of everything to
+stand still.
+
+62. He recited a cunning incantation, very powerful and holy.
+
+[In the British Museum tablets lines 63-108 are either wanting
+entirely, or are too broken to translate, and the last 130 lines of
+the Berlin fragment are much mutilated. The fragments of text show
+that Ea waged war against Apsu and Mummu. Ea recited an incantation
+which caused Apsu to fall asleep. He then "loosed the joints" of
+Mummu, who in some way suffered, but he was strong enough to attack Ea
+when he turned to deal with Apsu. Ea overcame both his adversaries and
+divided Apsu into chambers and laid fetters upon him.  In one of the
+chambers of Apsu a god was begotten and born.  According to the
+Ninevite theologians Ea begat by his wife, who is not named, his son
+Marduk, and according to the theologians of the City of Ashur, Lakhmu
+begat by his wife Lakhamu a son who is no other than Anshar, or
+Ashur. A nurse was appointed to rear him, and he grew up a handsome
+child, to the great delight of his father. He had four ears and four
+eyes, a statement which suggests that he was two-headed, and resembled
+the Latin god Janus.]
+
+109. They formed a band, and went forth to battle to help Tiâmat.
+
+110. They were exceedingly wroth, they made plots by day and by night
+without ceasing.
+
+111. They offered battle, fuming and raging.
+
+112. They set the battle in array, they uttered cries[1] of hostility,
+
+[Footnote 1: Literally, "they excited themselves to hostility."]
+
+113. Ummu-Khubur,[1] who fashioned all things,
+
+[Footnote 1: A title of Tiâmat.]
+
+114. Set up the unrivalled weapon, she spawned huge serpents,
+
+115. Sharp of tooth, pitiless in attack (?)
+
+116. She filled their bodies with venom instead of blood,
+
+117. Grim, monstrous serpents, arrayed in terror,
+
+118. She decked them with brightness, she fashioned them in exalted
+forms,
+
+119. So that fright and horror might overcome him that looked upon
+them,
+
+120. So that their bodies might rear up, and no man resist their
+attack,
+
+121. She set up the Viper, and the Snake, and the god Lakhamu,
+
+122. The Whirlwind, the ravening Dog, the Scorpion-man,
+
+123. The mighty Storm-wind, the Fish-man, the horned Beast
+(Capricorn?)
+
+124. They carried the Weapon[1] which spared not, nor flinched from
+the battle.
+
+[Footnote 1: These nine monsters with the Weapon (Thunderbolt?) and
+Kingu form the Eleven Allies of Tiâmat, and it is clear that she and
+her Allies represent the Twelve Signs of the Zodiac. When Marduk
+destroyed Tiâmat and her associates, he found it necessary to fix the
+stars, the images of the great gods, in their places, as the Twelve
+Signs of the Zodiac. (See the Fifth Tablet of Creation, p. 55.)]
+
+125. Most mighty were Tiâmat's decrees, they could not be resisted,
+
+126. Thus she caused eleven [monsters] of this kind to come into
+being,
+
+127. Among the gods, her first-born son who had collected her company,
+
+128. That is to say, Kingu, she set on high, she made him the great
+one amongst them,
+
+129. Leader of the hosts in battle, disposer of the troops,
+
+130. Bearer of the firmly grasped weapon, attacker in the fight,
+
+131. He who in the battle is the master of the weapon,
+
+132. She appointed, she made him to sit down in [goodly apparel]
+
+133. [Saying], "I have uttered the incantation for thee. I have
+magnified thee in the assembly of the gods.
+
+134. "I have filled his [_sic_, read 'thy'] hand with the
+sovereignty of the whole company of the gods.
+
+135. "Mayest thou be magnified, thou who art my only spouse,
+
+136. "May the Anunnaki make great thy renown over all of them."
+
+137. She gave him the TABLET OF DESTINIES, she fastened it on his
+breast, [saying],
+
+138. "As for thee, thy command shall not fall empty, whatsoever goeth
+forth from thy mouth shall be established."
+
+139. When Kingu was raised on high and had taken the heavens
+(literally, the god Anutum)
+
+140. He fixed the destinies for the gods his sons,
+
+141. Open your mouths, let the Fire-god[1] be quenched,
+
+[Footnote 1: The god here alluded to is Mardak, who, in one aspect, is
+a fire-god; see Tablet IV, II. 39, 40.]
+
+142. He who is glorious in battle and is most mighty, shall do great
+deeds.
+
+
+
+SECOND TABLET.
+
+1. Tiâmat made solid that which she had moulded.
+
+2. She bound the gods her children with [evil bonds].
+
+3. Tiâmat wrought wickedness to avenge Apsu.
+
+4. When ... had harnessed his chariot he went to meet Ea,
+
+5. Ea hearkened to his story,
+
+6. He was sorely afflicted and abode in sorrow,
+
+7. The days were long, his wrath died down.
+
+8. He went his way to the dwelling of Anshar, his father,
+
+9. He went into the presence of Anshar, the father who begat him,
+
+[Illustration: Portion of a tablet inscribed in Assyrian with a text
+of the Second Tablet of the Creation Series. [No. 40,559.]]
+
+10. Whatsoever Tiâmat had devised he repeated unto him,
+
+11. Mother Tiâmat who gave us birth hath sown these things.
+
+12. She hath set in order her assembly, she rageth furiously,
+
+13. All the gods have joined themselves to her.
+
+14. They march by her side together with those whom ye have created.
+
+15. They formed a band and went forth to battle to help Tiâmat,
+
+16. They were exceedingly wroth, they made plots by day and by night
+without ceasing,
+
+17. They offered battle, fuming and raging,
+
+18. They set the battle in array, they uttered cries of defiance.
+
+19. Ummu-Khubur,[1] who fashioned all things,
+
+[Footnote 1: See above.]
+
+20. Set up the unrivalled weapon, she spawned huge serpents
+
+21. Sharp of tooth, pitiless in attack (?)
+
+22. She filled their bodies with venom instead of blood,
+
+23. Grim, monstrous serpents arrayed in terror.
+
+24. She decked them with brightness, she fashioned them in exalted
+forms,
+
+25. So that fright and horror might overcome him that looked upon
+them,
+
+26. So that their bodies might rear up, and no man resist their
+attack.
+
+27. She set up the Viper, and the Snake, and the god Lakhamu,
+
+28. The Whirlwind, the ravening Dog, the Scorpion-man,
+
+29. The Storm-wind, the Fish-man, the Horned Beast.
+
+30. They carried the Weapon which spared not, nor flinched from the
+battle.
+
+31. Most mighty were Tiâmat's allies, they could not be resisted.
+
+32. Thus she caused eleven [monsters] of this kind to come into being.
+
+33. Among the gods, her first-born son who had collected her company,
+
+34. That is to say, Kingu, she set on high, she made him the great one
+amongst them.
+
+35. Leader of the hosts in battle, disposer of the troops,
+
+36. Bearer of the firmly-grasped weapon, attacker in the fight,
+
+37. He who in the battle is the master of the weapon,
+
+38. She appointed, she made him to sit down in [goodly apparel]
+
+39. [Saying], "I have recited the incantation for thee, I have
+magnified thee in the assembly of the gods,
+
+40. "I have filled his [_sic_, read 'thy'] hand with the
+sovereignty of the whole company of the gods.
+
+41. "Mayest thou be magnified, thou who art my only spouse,
+
+42. "May the Anunnaki make great thy renown over all of them."
+
+43. She gave him the TABLET OF DESTINIES, she fastened it on his
+breast, [saying]--
+
+44. "As for thee, thy command shall not fall empty, what goeth forth
+from thy mouth shall be established."
+
+45. When Kingu was raised on high and had taken the heavens
+(literally, "the god Anutum")
+
+46. He fixed the destinies for the gods his sons, [saying],
+
+47. "Open your mouths, let the Fire-god be quenched,
+
+48. "He who is glorious in battle and is most mighty shall do great
+deeds."
+
+49. When Anshar heard that Tiâmat was stirred mightily,
+
+50. ... he bit his lips
+
+51. ... his mind was not at peace
+
+[Lines 52-54 too fragmentary for translation.]
+
+An'shar then addresses Ea and says:--
+
+55. "Thou hast slain Mummu and Apsu
+
+56. "But Tiâmat hath exalted Kingu--where is the one who can meet her?
+
+[Lines 57 and 58 imperfect; lines 59-71 wanting.]
+
+72. Anshar spake a word unto his son [Anu]:--
+
+73. "... this is a difficulty, my warrior
+
+74. "Whose power is exalted, whose attack cannot be stayed,
+
+75. "Go and stand thou in the presence of Tiâmat,
+
+76. "That her spirit [be quieted], her heart softened.
+
+77. "But should she not hearken unto thy word,
+
+78. "Speak thou our word unto her so that she may be abated."
+
+79. [Anu] heard the order of his father Anshar.
+
+80. He took the straight road to her, and hastened on the way to her.
+
+81. Anu drew nigh, he searched out the plan of Tiâmat,
+
+82. He could not prevail against her, he turned back.
+
+Lines 83 and 84 contain Anu's report to Anshar, but they are too
+fragmentary to translate; line 85 reads:--
+
+83. He (Anu) went to his father Anshar who begat him,
+
+84. He spake unto him a word [concerning Tiâmat]
+
+85. [She laid] hands upon me that withered me up."
+
+86. Anshar was distressed, he looked down upon the ground,
+
+87. He turned pale; towards Ea he lifted up his head.
+
+88. All the Anunnaki assembled at their posts.
+
+89. They shut their mouths, they sat in lamentation.
+
+90. [They said], "Nowhere is there a god who can attack Tiâmat.
+
+91. "He would not escape from Tiâmat's presence with his life."
+
+92. The Lord Anshar, the Father of the gods, [spake] majestically,
+
+93. He lifted up his heart, he addressed the Anunnaki, [saying]
+
+94. "He whose [strength] is mighty [shall be] an avenger for [us]
+
+95. "The ... in the strife, Marduk the Hero."
+
+96. Ea called Marduk to the place where he gave oracles,
+
+97. Marduk came and according to his heart he addressed him,
+
+98. [Saying], "O Marduk, hear the counsel and advice of thy father,
+
+99. "Thou art the son who refresheth his heart,
+
+100. "Draw nigh and enter the presence of An-shar,
+
+101. "Stand there [with joy], when he looketh upon thee he will be at
+rest."[1]
+
+[Footnote 1: Lines 83, 84, 88-101 are translated from the British
+Museum fragments and the Berlin fragments; lines 88-101 contain the
+equivalent to the whole gap in the British Museum tablet.]
+
+113. The Lord [Marduk] rejoiced at the word of his father,
+
+114. He approached and took up his place before Anshar.
+
+115. Anshar looked upon him and his heart was filled with gladness.
+
+116. He (i.e., Anshar) kissed his (Marduk's) lips, and his
+(Anshar's) fear was removed. [Then Marduk said]
+
+117. "My father, let not the opening of thy mouth be closed,[1]
+
+[Footnote 1: i.e., "let what thou sayest prevail."]
+
+118. "I will go, I will make to take place all that is in thy heart.
+
+119. "Anshar, let not the opening of thy mouth be closed,
+
+120. "I will go, I will make to take place all that is in thy heart."
+[Anshar says to Marduk]
+
+121. "What man is the cause of the battle which made thee go forth
+
+122. "... Tiâmat, who is a woman, pursueth thee with weapons.
+
+123. "Rejoice our [hearts] and make us glad.
+
+124. "Thou thyself shalt soon trample upon the neck of Tiâmat,
+
+125. "Rejoice our [hearts] and make us glad.
+
+126. "Thou thyself shalt soon trample upon the neck of Tiâmat.
+
+127. "My son, who dost comprehend everything,
+
+128. "Cast deep sleep upon Tiâmat with thy holy spell.
+
+129. "Betake thyself to thy march with all speed.
+
+130. "..."
+
+131. The Lord [Marduk] rejoiced at the word of his father,
+
+132. His heart leaped with joy, to his father he spake, [saying],
+
+133. "O Lord of the gods, Overlord of the Great Gods,
+
+134. "Should I as your avenger
+
+135. "Slay Tiâmat and bestow life upon you,
+
+136. "Summon a meeting, proclaim and magnify my position,
+
+137. "Sit ye down together in friendly fashion in Upshukkinaku.
+
+138. "Let me issue decrees by the opening of my mouth even as ye do.
+
+139. "Whatsoever I bring to pass let it remain unaltered,
+
+140. "That which my mouth uttereth shall never fail or be brought to
+nought."
+
+
+
+THIRD TABLET.
+
+1. Anshar opened his mouth, and
+
+2. Unto the god Gaga, his envoy, spake a word [saying],
+
+3. "O Gaga, my envoy, who makest glad my liver.
+
+4. "I will despatch thee unto the gods Lakhmu and Lakhamu.
+
+[Illustration: Portion of a tablet inscribed in Assyrian with a text
+of the Third Tablet of the Creation Series. [No. 93,017.]]
+
+5. "Thou must know and understand the [intention of my heart]
+
+6. "... are brought before thee
+
+7. "... all the gods.
+
+8. "Let them make a council, let them sit down to a feast
+
+9. "Let them eat bread, let them heat sesame wine.
+
+10. "Let them issue decrees to Marduk as their avenger.
+
+11. "Get thee gone, Gaga, take up thy stand before them.
+
+12. "All that I am now going to tell thee do thou repeat to them
+[saying],
+
+13. "'[O ye gods], Anshar your son hath charged me,
+
+14. "'The intention of his heart he hath made me to know in this
+wise:--
+
+15. "'Mother Tiâmat who gave us birth hath sown these things,
+
+16. "'She hath set in order her assembly, she rageth furiously,
+
+17. "'All the gods have joined themselves to her.
+
+18. "'They march by her side together with those whom ye have created.
+
+19. "'They formed a band and went forth to battle to help Tiâmat.
+
+20. "'They were exceedingly wroth, they made plots by day and by night
+without ceasing.
+
+21. "'They offered battle, foaming and raging.
+
+22. "'They set the battle in array, they uttered cries of defiance.
+
+23. "'Ummu-Khubur, who formed all things,
+
+24. "'Set up the unrivalled weapon, she spawned huge serpents,
+
+25. "'Sharp of tooth, pitiless in attack (?)
+
+26. "'She filled their bodies with venom instead of blood.
+
+27. "'Grim, monstrous serpents arrayed in terror.
+
+28. "'She decked them with brightness, she fashioned them in exalted
+forms,
+
+29. "'So that fright and horror might overcome him that looked upon
+them,
+
+30. "'So that their bodies might rear up, and no man resist their
+attack.
+
+31. "'She set up the Viper, and the Snake, and the god Lakhamu,
+
+32. "'The Whirlwind, the Ravening Dog, the Scorpion-man,
+
+33. "'The Storm-wind, the Fish-man, the Horned Beast.
+
+34. "'They carried the Weapon which spared not, nor flinched from the
+battle,
+
+35. "'Most mighty were Tiâmat's allies, they could not be resisted.
+
+36. "'Thus she caused Eleven [monsters] of this kind to come into
+being.
+
+37. "'Among the gods, her first-born son who had collected her
+company,
+
+38. "'That is to say, Kingu, she set on high, she made him the great
+one among them,
+
+39. "'Leader of the hosts in the battle, disposer of the troops,
+
+40. "'Bearer of the firmly-grasped weapon, attacker in the fight.
+
+41. "'He who in the battle is the master of the weapon,
+
+42. "'She appointed, she made him to sit down in [goodly apparel]
+
+43. "'[Saying]: I have recited the incantation for thee, I have
+magnified thee in the assembly of the gods.
+
+44. "''I have filled his (i.e., thy) hand with the sovereignty
+of the whole company of the gods.
+
+45. "''Mayest thou be magnified, thou who art my only spouse,
+
+46. "''May the Anunnaki make great thy renown over all of them."'
+
+47. "She gave him the TABLET OF DESTINIES, she fastened it on his head
+[saying]:
+
+48. "'As for thee, thy command shall not fall empty, what goeth forth
+from thy mouth shall be established.'
+
+49. "When Kingu was raised on high and had taken the heavens
+(literally, the god Anutum),
+
+50. "He fixed the destinies for the gods, his sons, [saying]:
+
+51. "'Open your mouths, let the Fire-god be quenched.
+
+52. "'He who is glorious in battle and is most mighty shall do great
+deeds.'
+
+53. "'I sent the god Anu, but he could not prevail against her.
+
+54. "'Nudimmud (i.e., Ea) was afraid and turned back,
+
+55. "'Marduk, your son, the envoy of the gods, hath set out.
+
+56. "'His heart is stirred up to oppose Tiâmat.
+
+57. "'He opened his mouth, he spoke unto me [saying]:
+
+58. "'Should I as your avenger
+
+59. "'Slay Tiâmat, and bestow life upon you,
+
+60. "'Summon a meeting, proclaim and magnify my position,
+
+61. "'Sit ye down together in friendly fashion in Up-shukkinaku.
+
+62. "'Let me issue decrees by the opening of my mouth even as ye do,
+
+63. "'Whatsoever I bring to pass let it remain unaltered.
+
+64. "'That which my mouth uttereth shall neither fail nor be brought
+to nought.'
+
+65. "Hasten ye therefore, issue your decrees speedily
+
+66. "That he may go to meet your mighty enemy."
+
+67. Gaga departed and hastened upon his way
+
+68. To the god Lakhmu and the goddess Lakhamu, the gods his fathers,
+reverently
+
+69. He did homage, and he kissed the ground at their feet.
+
+70. He bowed down, stood up, and spake unto them [saying]:
+
+71. "[O ye gods], Anshar your son hath charged me,
+
+72. "The intention of his heart he hath made me to know in this
+wise:--
+
+73. "Mother Tiâmat who gave us birth hath sown these things,
+
+74. "She hath set in order her assembly, she rageth furiously.
+
+75. "All the gods have joined themselves to her.
+
+76. "They march by her side together with those whom ye have created,
+
+77. "They formed a band and went forth to battle to help Tiâmat.
+
+78. "They were exceedingly wroth, they made plans by day and by night
+without ceasing.
+
+79. "They offered battle, foaming and raging.
+
+80. "They set the battle in array, they uttered cries of defiance.
+
+81. "Ummu-Khubur, who formed all things,
+
+82. "Set up the unrivalled weapon, she spawned huge serpents,
+
+83. "Sharp of tooth, pitiless in attack (?)
+
+84. "She filled their bodies with venom instead of blood,
+
+85. "Grim, monstrous serpents, arrayed in terror,
+
+86. "She decked them with brightness, she fashioned them in exalted
+forms,
+
+87. "So that fright and horror might overcome him that looked upon
+them,
+
+88. "So that their bodies might rear up, and no man resist their
+attack.
+
+89. "She set up the Viper, and the Snake, and the god Lakhamu,
+
+90. "The Whirlwind, the Ravening Dog, the Scorpion-man,
+
+91. "The Storm-wind, the Fish-man, the Horned Beast,
+
+92. "They carried the Weapon which spared not, nor flinched from the
+battle.
+
+93. "Most mighty were Tiâmat's allies, they could not be resisted.
+
+94. "Thus she caused Eleven [monsters] of this kind to come into
+being.
+
+95. "Amongst the gods, her first-born son who had collected her
+company,
+
+96. "That is to say, Kingu, she set on high, she made him the great
+one among them.
+
+97. "Leader of the hosts in the battle, disposer of the troops,
+
+98. "Bearer of the firmly-grasped weapon, attacker in the fight,
+
+99. "He who in the battle is the master of the weapon
+
+100. "She appointed, she made him to sit down in [goodly apparel],
+
+101. "[Saying]: 'I have recited the incantation for thee, I have
+magnified thee in the assembly of the gods.
+
+102. "'I have filled his (i.e., thy) hand with the sovereignty
+of the whole company of the gods.
+
+103. "'Mayest thou be magnified, thou who art my only spouse.
+
+104. "'May the Anunnaki make great thy renown over all of them.'
+
+105. "She gave him the TABLET OF DESTINIES, she fastened it on his
+head [saying]:
+
+106. "'As for thee, thy command shall not fall empty, what goeth forth
+from thy mouth shall be established.'
+
+107. "When Kingu was raised on high, and had taken the heavens
+(Anutum)
+
+108. "He fixed the destinies for the gods, his sons, [saying]:
+
+109. "'Open your mouths, let the Fire-god be quenched,
+
+110. "'He who is glorious in battle and is most mighty shall do great
+deeds.
+
+111. "'I sent the god Anu, but he could not prevail against her.
+
+112. "'Nudimmud (i.e., Ea) was afraid and turned back.
+
+113. "'Marduk, your son, the envoy of the gods, hath set out.
+
+114. "'His heart is stirred up to oppose Tiâmat.
+
+115. "'He opened his mouth, he spoke unto me, [saying]:
+
+116. "'Should I as your avenger
+
+117. "'Slay Tiâmat, and bestow life upon you,
+
+118. "'Summon a meeting (i.e., council), proclaim and magnify my
+position,
+
+119. "'Sit down together in friendly fashion in Upshukkinaku,
+
+120. "'Let me issue decrees by the opening of my mouth, even as ye do,
+
+121. "'Whatsoever I bring to pass let it remain unaltered.
+
+122. "'That which my mouth uttereth shall neither fail nor be brought
+to nought."'
+
+123. "Hasten ye therefore, issue your decrees speedily
+
+124. "That he may go to meet your mighty enemy."
+
+125. The gods Lakhmu and Lakhamu heard, they wailed loudly,
+
+126. All the Igigi gods wept bitterly [saying]:
+
+127. "Who were [our] enemies until [the gods] were posted [in heaven]?
+
+128. "We cannot comprehend the work of Tiâmat."
+
+129. They gathered themselves together, they went,
+
+130. All the great gods, who issue decrees.
+
+131. They entered in, they filled [the court] before Anshar.
+
+132. Brother [god] kissed brother [god] in the [divine] assembly,
+
+133. They held a meeting, they sat down to a feast,
+
+134. They ate bread, they heated the [sesame wine],
+
+135. The taste of the sweet drink confused their ...
+
+136. They drank themselves drunk, their bodies were filled to
+overflowing,
+
+137. They were overcome by heaviness [of drink], their livers
+(i.e., spirits) were exalted,
+
+138. They issued the decree for Marduk as their avenger.
+
+
+
+FOURTH TABLET.
+
+1. They founded for him a majestic canopy,
+
+2. He (i.e., Marduk) seated himself in the seat of kingship in
+the presence of his fathers [who said unto him]:
+
+3. "Thou art honourable by reason of thy greatness among the gods.
+
+4. "Thy position is unrivalled, the words thou utterest become Anum
+(i.e., as fixed as the sky).
+
+5. "Thou art honourable by reason of thy greatness among the gods.
+
+6. "Thy position is unrivalled, the words thou utterest become Anum
+(i.e., as fixed as the sky).
+
+7. "From this day onward thy command shall not be abrogated.
+
+8. "The power to exalt to heaven and to cast down to the earth both
+shall be in thy hand,
+
+9. "That which goeth forth from thy mouth shall be established,
+against thy utterance shall be no appeal.
+
+10. "No one among the gods shall overstep thy boundary,
+
+11. "Worship, which is the object of the sanctuary of the gods,
+
+12. "Whensoever they lack [it] shall be forthcoming in thy sanctuary,
+
+13. "O god Marduk, thou art our avenger.
+
+14. "We have given unto thee sovereignty over the whole creation,
+
+15. "Thou shalt sit down, in the council thy word shall be exalted,
+
+16. "Thy weapon shall never fall [from thy hands], it shall break the
+head of thy foe.
+
+17. "Lord, whosoever putteth his trust in thee, spare thou his life,
+
+18. "And the god who deviseth evil, pour thou out his soul."
+
+19. Then a cloak (literally, one cloak) was set in their midst,
+
+20. They addressed the god Marduk their first-born [saying]:
+
+21. "Thou, Lord, shalt hold the foremost position among the gods.
+
+22. "Decree thou the throwing down[1] and the building up,[2] and it
+shall come to pass.
+
+[Footnote 1: _I.e._, the destruction of Tiâmat.]
+
+[Footnote 2: _I.e._, the establishing of a new creation to take
+the place of the old.]
+
+23. "Speak but the word, and the cloak shall disappear,
+
+24. "Speak a second time and the cloak shall return uninjured."
+
+25. Marduk spoke the word, the cloak disappeared,
+
+26. He spoke a second time, the cloak reappeared.
+
+27. When the gods his fathers saw the issue of the utterance of his
+mouth
+
+28. They rejoiced and adored [him, saying], "Marduk is King."
+
+29. They conferred upon him the sceptre, the throne, and the symbol of
+royalty (?)[1]
+
+[Footnote 1: The meaning of _pal-a_ is unknown.]
+
+30. They gave him the unrivalled weapon, the destroyer of the enemy
+[saying]:
+
+31. "Go, cut off the life of Tiâmat.
+
+32. "Let the wind carry her blood into the depth [under the earth]."
+
+33. The gods, his fathers, issued the decree for the god Bel.
+
+34. They set him on the road which leadeth to peace and adoration.
+
+35. He strung [his] bow, he set ready his weapon [in the stand],
+
+36. He slung his spear, he attached it to [his belly],
+
+37. He raised the club, he grasped it in his right hand.
+
+38. The bow and the quiver he hung at his side.[1]
+
+[Footnote 1: This equipment of the charioteer is shown on the
+bas-reliefs.]
+
+39. He set the lightning in front of him.
+
+40. His body was filled with a glancing flame of fire.
+
+41. He made a net wherewith to enclose Tiâmat.
+
+42. He made the four winds to take up their position so that no part
+of her might escape,
+
+[Illustration: Portion of a tablet inscribed in Babylonian with a text
+of the Fourth Tablet of the Creation Series. [No. 93,016.]]
+
+43. The South wind, the North wind, the East wind, the West wind.
+
+44. He held the net close to his side, the gift of his father Anu,
+
+45. He created the "foul" wind, the storm, the parching blast,
+
+46. The wind of "four," the wind of "seven," the typhoon, the wind
+incomparable
+
+[Illustration: Portion of a tablet inscribed in Assyrian with a text
+of the Fourth Tablet of the Creation Series. [K. 3437.]]
+
+47. He despatched the seven winds which he had made,
+
+48. To make turbid the inward parts of Tiâmat; they followed in his
+train.
+
+49. The Lord raised up the wind storm, his mighty weapon.
+
+50. He went up into his chariot, the unequalled and terrible
+tempest.[1]
+
+[Footnote 1: Compare Psalms xviii, 7-15; civ, i ff.]
+
+51. He equipped it, he yoked thereto a team of four horses,
+
+52. Pawing the ground, champing, foaming [eager to] fly,
+
+53. ... [the odour] of their teeth bore foetidness,
+
+54. They were skilled [in biting], they were trained to trample under
+foot.
+
+[Lines 55-57 too fragmentary to translate; they continue the
+description of Marduk's equipment.]
+
+58. His brightness streamed forth, his head was crowned [thereby].
+
+59. He took a direct path, he hastened on his journey.
+
+60. He set his face towards the place of Tiâmat, who was ...
+
+61. On his lips ... he restrained
+
+62. ... his hand grasped.
+
+63. At that moment the gods were gazing upon him with fixed intensity,
+
+64. The gods, his fathers, gazed upon him, they gazed upon him.
+
+65. The Lord approached, he looked upon the middle of Tiâmat,
+
+66. He searched out the plan of Kingu, her husband.
+
+67. Marduk looked, Kingu staggered in his gait,
+
+68. His will was destroyed, his motion was paralysed.
+
+69. And the gods his helpers who were marching by his side
+
+70. Saw the [collapse of] their chief and their sight was troubled.
+
+71. Tiâmat [shrieked but] did not turn her head.
+
+72. With lips full of [rebellious words] she maintained her
+stubbornness
+
+73. [Saying], "... that thou hast come as the Lord of the gods,
+[forsooth],
+
+74. "They have appointed thee in the place which should be theirs."
+
+75. The Lord raised up the wind-storm, his mighty weapon,
+
+76. [Against] Tiâmat, who was furious (?), he sent it, [saying]:
+
+77. "[Thou hast made thyself] mighty, thou art puffed upon high,
+
+78. "Thy heart [hath stirred thee up] to invoke battle
+
+79. "... their fathers ...
+
+80. "...
+
+81. "[Thou hast exalted Kingu to be [thy] husband,
+
+82. "[Thou hast made him to usurp] the attributes of Anu
+
+83. "... thou hast planned evil.
+
+84. "[Against] the gods, my fathers, thou hast wrought evil.
+
+85. "Let now thy troops gird themselves up, let them bind on their
+weapons.
+
+86. "Stand up! Thou and I, let us to the fight!"
+
+87. On hearing these words Tiâmat
+
+88. Became like a mad thing, her senses became distraught,
+
+89. Tiâmat uttered shrill cries again and again.
+
+90. That on which she stood split in twain at the words,
+
+91. She recited an incantation, she pronounced her spell.
+
+92. The gods of battle demanded their weapons.[1]
+
+[Footnote 1: I.e., the gods were impatient to begin the fight.]
+
+93. Tiâmat and Marduk, the envoy of the gods, roused themselves,
+
+94. They advanced to fight each other, they drew nigh in battle.
+
+95. The Lord cast his net and made it to enclose her,
+
+96. The evil wind that had its place behind him he let out in her
+face.
+
+97. Tiâmat opened her mouth to its greatest extent,
+
+98. Marduk made the evil wind to enter [it] whilst her lips were
+unclosed.
+
+99. The raging winds filled out her belly,
+
+100. Her heart was gripped, she opened wide her mouth [panting].
+
+101. Marduk grasped the spear, he split up her belly,
+
+102. He clave open her bowels, he pierced [her] heart,
+
+103. He brought her to nought, he destroyed her life.
+
+104. He cast down her carcase, he took up his stand upon it,
+
+105. After Marduk had slain Tiâmat the chief,
+
+106. Her host was scattered, her levies became fugitive,
+
+107. And the gods, her allies, who had marched at her side,
+
+108. Quaked with terror, and broke and ran
+
+109. And betook themselves to flight to save their lives.
+
+110. But they found themselves hemmed in, they could not escape,
+
+111. Marduk tied them up, he smashed their weapons.
+
+112. They were cast into the net, and they were caught in the snare,
+
+113. The ... of the world they filled with [their] cries of grief.
+
+114. They received [Marduk's] chastisement, they were confined in
+restraint,
+
+115. And [on] the Eleven Creatures which Tiâmat had filled with
+awfulness,
+
+116. The company of the devils that marched at her ...
+
+117. He threw fetters, he ... their sides.
+
+118. They and their resistance he trod under his feet.
+
+119. The god Kingu who had been magnified over them
+
+120. He crushed, he esteemed him [as little worth] as the god Dugga,
+(as a dead god?).
+
+121. Marduk took from him the TABLET OF DESTINIES, which should never
+have been his,
+
+122. He sealed it with a seal[1] and fastened it on his breast
+
+[Footnote 1: By impressing his seal on the Tablet Marduk proved his
+ownership of the Tablet, and made his claim to it legal.]
+
+123. After he had crushed and overthrown his enemies,
+
+124. He made the haughty enemy to be like the dust underfoot.
+
+125. He established completely Anshar's victory over the enemy,
+
+126. The valiant Marduk achieved the object of Nudimmud (Ea),[1]
+
+[Footnote 1: This is an oblique way of saying that Marduk succeeded
+where Ea failed.]
+
+127. He imposed strict restraint on the gods whom he had made captive.
+
+128. He turned back to Tiâmat whom he had defeated,
+
+129. The Lord [Marduk] trampled on the rump of Tiâmat,
+
+130. With his unsparing club he clave her skull.
+
+131. He slit open the channels (i.e., arteries) of her blood.
+
+132. He caused the North Wind to carry it away to a place underground.
+
+133. His fathers (i.e., the gods) looked on, they rejoiced, they were
+glad.
+
+134. They brought unto him offerings of triumph and peace,
+
+135. The Lord [Marduk] paused, he examined Tiâmat's carcase.
+
+136. He separated flesh [from] hair,[1] he worked cunningly.
+
+[Footnote 1: The word is _kupu_, i.e., "reed" or "sedge."
+It is possible that Marduk skinned Tiâmat.]
+
+137. He slit Tiâmat open like a flat (?) fish [cut into] two pieces,
+
+138. The one half he raised up and shaded the heavens therewith,
+
+139. He pulled the bolt, he posted a guard,
+
+140. He ordered them not to let her water escape.
+
+141. He crossed heaven, he contemplated the regions thereof.
+
+142. He betook himself to the abode of Nudimmud (Ea) that is opposite
+to the Deep (Apsu),
+
+143. The Lord Marduk measured the dimensions of the Deep,
+
+144. He founded E-Sharra, a place like unto it,
+
+145. The abode E-Sharra, which he made to be heaven.
+
+146. He made the-gods Anu, Bel and Ea to inhabit their [own] cities.
+
+
+
+FIFTH TABLET.
+
+1. He appointed the Stations for the great gods,
+
+2. He set in heaven the Stars of the Zodiac which are their
+likenesses.
+
+3. He fixed the year, he appointed the limits thereof.
+
+4. He set up for the twelve months three stars apiece.
+
+5. According to the day of the year he ... figures.
+
+6. He founded the Station of Nibir (Jupiter) to settle their
+boundaries,
+
+7. That none might exceed or fall short.
+
+8. He set the Station of Bel and Ea thereby.
+
+9. He opened great gates under shelter on both sides.
+
+10. He made a strong corridor on the left and on the right.
+
+11. He fixed the zenith in the heavenly vault (?)
+
+12. He gave the god Nannar (i.e., the Moon-god) his brightness
+and committed the night to his care.
+
+[Illustration: Portion of a tablet inscribed in Assyrian with a text
+of the Fifth Tablet of the Creation Series. [K. 3567.]]
+
+13. He set him for the government of the night, to determine the day
+
+14. Monthly, without fail, he set him in a crown (i.e., disk)
+[saying]:
+
+15. "At the beginning of the month when thou risest over the land,
+
+16. "Make [thy] horns to project to limit six days [of the month]
+
+17. "On the seventh day make thyself like a crown.
+
+18. "On the fourteenth day ...
+
+[Lines 19-26 dealt further with Marduk's instructions to the Moon-god,
+but are too fragmentary to translate. After line 26 comes a break in
+the text of 40 lines; lines 66-74 are too fragmentary to translate,
+but they seem to have described further acts of Creation.]
+
+75. The gods, his (Marduk's) fathers, looked on the net which he had
+made,
+
+76. They observed how craftily the bow had been constructed,
+
+77. They extolled the work which he had done.
+
+78. [Then] the god Anu lifted up [the bow] in the company of the gods,
+
+79. He kissed the bow [saying]: "That ..."
+
+80. He proclaimed [the names] of the bow to be as follows:--
+
+81. "Verily, the first is 'Long Wood,' the second is ...
+
+82. "Its third name is 'Bow Star in heaven' ..."
+
+83. He fixed a station for it ...
+
+[Of the remaining 57 lines of this tablet only fragments of 17 lines
+are preserved, and these yield no connected sense.]
+
+
+
+SIXTH TABLET.
+
+1. On hearing the words of the gods, the heart of Marduk moved him to
+carry out the works of a craftsman.
+
+2. He opened his mouth, he spake to Ea that which he had planned in
+his heart, he gave counsel [saying]:
+
+3. "I will solidify blood, I will form bone.
+
+4. "I will set up man, 'Man' [shall be] his name.
+
+5. "I will create the man 'Man.'
+
+6. "The service of the gods shall be established, and I will set them
+(i.e., the gods) free.
+
+7. "I will make twofold the ways of the gods, and I will beautify
+[them].
+
+8. "They are [now] grouped together in one place, but they shall be
+partitioned in two."[1]
+
+[Footnote 1: Reading, _ishtenish lu kuppudu-ma ana shina lu
+uzizu_.]
+
+9. Ea answered and spake a word unto him
+
+10. For the consolation of the gods[1] he repeated unto him a word of
+counsel [saying]:
+
+[Footnote 1: _I.e._, "to cause the gods to be content,"]
+
+11. "Let one brother [god of their number] be given, let him suffer
+destruction that men may be fashioned.
+
+12. "Let the great gods be assembled, let this [chosen] one be given
+in order that they (i.e., the other gods) may be established."
+
+13. Marduk assembled the great gods, [he came near] graciously, he
+issued a decree,
+
+14. He opened his mouth, he addressed the gods; the King spake a word
+unto the Anunnaki [saying]:
+
+15. "Verily, that which I spake unto you aforetime was true.
+
+16. "[This time also] I speak truth. [Some there were who] opposed
+me.[1]
+
+[Footnote 1: Literally "they (indefinite) opposed me."]
+
+17. "Who was it that created the strife,
+
+18. "Who caused Tiâmat to revolt, to join battle with me?
+
+19. "Let him who created the strife be given [as sacrifice],
+
+20. "I will cause the axe in the act of sinking to do away his sin."
+
+21. The great gods, the Igigi, answered him,
+
+22. Unto the King of the gods of heaven and of earth, the Prince of
+the gods, their lord [they said]:
+
+23. "[It was] Kingu who created the strife,
+
+24. "Who made Tiâmat to revolt, to join battle [with thee]."
+
+25. They bound him in fetters [they brought] him before Ea, they
+inflicted punishment on him, they let his blood,
+
+26. From his blood he (i.e., Ea) fashioned mankind for the
+service of the gods, and he set the gods free.
+
+27. After Ea had fashioned man he ... laid service upon him.
+
+28. [For] that work, which pleased him not, man was chosen: Marduk ...
+
+29. Marduk, the King of the gods, divided ... he set the Anunnaki up
+on high.
+
+30. He laid down for Anu a decree that protected [his] heart ... as a
+guard.
+
+31. He made twofold the ways on the earth [and in the heavens?]
+
+32. By decrees ...
+
+33. The Anunnaki who ...
+
+34. The Anunnaki ...
+
+35. They spake unto Marduk, their lord, [saying]:
+
+36. "O thou Moon-god[1] (Nannaru), who hast established our splendour,
+
+[Footnote 1: See _Cuneiform Texts_, Part XXIV, Plate 50, where it
+is said that the god Sin is "Marduk, who maketh bright the night."]
+
+37. "What benefit have we conferred upon thee?
+
+38. "Come, let us make a shrine, whose name shall be renowned;
+
+39. "Come [at] night, our time of festival, let us take our ease
+therein,
+
+40. "Come, the staff shall rule ...
+
+41. "On the day that we reach [thereto] we will take our ease
+therein."
+
+42. On hearing this Marduk ...
+
+43. The features of his face [shone like] the day exceedingly.
+
+44. [He said],[1] "Like unto ... Babylon, the construction whereof ye
+desire
+
+[Footnote 1: Lines 44 and 45 announce Marduk's determination to build
+Babylon.]
+
+45. "I will make ... a city, I will fashion a splendid shrine."
+
+46. The Anunnaki worked the mould [for making bricks], their bricks
+were ...
+
+47. In the second year [the shrine was as high as] a hill, and the
+summit of E-Sagila reached the [celestial] Ocean.
+
+48. They made the ziggurat[1] [to reach] the celestial Ocean; unto
+Marduk, Enlil, Ea [shrines] they appointed,
+
+[Footnote 1: This is the word commonly used for "temple-tower." The
+famous ziggurat of E-Sagila here mentioned was built in Seven Stages
+or Steps, each probably having its own distinctive colour. It was
+destroyed probably soon after the capture of Babylon by Cyrus (539
+B.C.) and when Alexander the Great reached Babylon he found it ruins.]
+
+49. It (i.e., the ziggurat) stood before them majestically: at the
+bottom and [at the top] they observed its two horns.[1]
+
+[Footnote 1: This is the first known mention of the "horns" of a
+ziggurat, and the exact meaning of the word is doubtful.]
+
+50. After the Anunnaki had finished the construction of E-Sagila, and
+had completed the making of their shrines,
+
+51. They gathered together from the ... of the Ocean (Apsu). In
+BAR-MAH, the abode which they had made,
+
+52. He (i.e., Marduk) made the gods his fathers to take their
+seats ... [saying]: "This Babylon shall be your abode.
+
+53. "No mighty one [shall destroy] his house, the great gods shall
+dwell therein.
+
+[After line 53 the middle portions of several lines of text are
+obliterated, but from what remains of it it is clear that the gods
+partook of a meal of consecration of the shrine of E-Sagila, and then
+proceeded to issue decrees. Next Marduk assigns seats to the Seven
+Gods of Fate and to Enlil and Anu, and then he lays up in E-Sagila the
+famous bow which he bore during his fight against Tiâmat. When the
+text again becomes connected we find the gods singing a hymn of praise
+to Marduk.]
+
+94. "Whatever is ... those gods and goddesses shall bear(?)
+
+95. "They shall never forget, they shall cleave to the god (?)
+
+96. "... they shall make bright, they shall make shrines.
+
+97. "Verily, the decision (concerning) the Black-headed [belongeth to]
+the gods
+
+98. "... all our names have they called, he (Marduk) is most holy
+(_elli_)
+
+99. "... they proclaimed and venerated (?) his names.
+
+100. "His ... is exceedingly bright, his work is ...
+
+101. "Marduk, whose father Anu proclaimed [his name] from his birth,
+
+102. "Who hath set the day at his door ... his going,
+
+103. "By whose help the storm wind was bound ...
+
+104. "Delivered the gods his fathers in the time of trouble.
+
+105. "Verily, the gods have proclaimed his sonship.
+
+106. "In his bright light let them walk for ever.
+
+107. "[On] men whom he hath formed, the created things fashioned by
+his fingers
+
+108. "He hath imposed the service of the gods, and them he hath set
+free
+
+109. "...
+
+110. "... they looked at him,
+
+111. "[He is] the far-seeing _(maruku)_ god, verily ...
+
+112. "Who hath made glad the hearts of the Anunnaki, who hath made
+them to ...
+
+113. "The god Marudukku--verily, he is the object of trust of his
+country ...
+
+114. "Let men praise him ...
+
+115. "The 'King of the Protecting Heart,' (?), hath arisen and hath
+[bound] the Serpent ...
+
+116. "Broad is his heart, mighty [his] belly.
+
+117. "King of the gods of heaven and of earth, whose name our company
+hath proclaimed,
+
+118. "We will fulfil (?) the utterance of his mouth. Over his fathers
+the gods,
+
+119. "Yea, [over] the gods of heaven and earth, all of them,
+
+120. "His kingship [we will exalt].
+
+121. "[We] will look unto the King of all the heaven and the earth at
+night when the place of all the gods is darkness (literally sadness).
+
+122. "He hath assigned our dwelling in heaven and in earth in the time
+of trouble,
+
+123. "He hath allotted stations to the Igigi and the Anunnaki.
+
+124. "The gods themselves are magnified by his name; may he direct
+their sanctuaries.
+
+125. "ASAR-LU-DUG, is his name by which his father Anu hath named him.
+
+126. "Verily, he is the light of the gods, the mighty ...
+
+127. "Who ... all the parts of heaven and of the land
+
+128. "By a mighty combat he saved our dwelling in the time of trouble.
+
+129. "ASAR-LU-DUG, the god who made him (i.e. man) to live, did
+the god ... call him in the second place
+
+130. "[And] the gods who had been formed, whom he fashioned as though
+[they were] his offspring.
+
+131. "He is the Lord who hath made all the gods to live by his holy
+mouth."
+
+[Lines 132-139 are too fragmentary to translate, but it is clear from
+the text that remains that Lakhmu, and Lakhamu, and Anshar all
+proclaimed the names of Marduk. When the text again becomes connected
+Marduk has just been addressing the gods.]
+
+140. In Up-shukkinaku[1] he appointed their council for them.
+
+[Footnote 1: From this text it seems clear that Up-shukkinaku was the
+name of a chamber in the temple of E-Sagila. This name probably means
+the "chamber of the shakkanaku," i.e., the chamber in which the
+governor of the city (_shakkanaku_) went annually to embrace the
+hands of the god Bel-Marduk, from whom he thereby received the right
+of sovereignty over the country.]
+
+141. [They said]:--"Of [our] son, the Hero, our Avenger,
+
+142. "We will exalt the name by our speech."
+
+143. They sat down and in their assembly they proclaimed his rank.
+
+144. Every one of them pronounced his name in the sanctuary.
+
+
+
+SEVENTH TABLET.
+
+1. O ASARI,--giver of plantations, appointer of sowing time,
+
+2. Who dost make grain and fibrous plants, who makest garden herbs to
+spring up.
+
+3. O ASARU-ALIM--who art weighty in the council-chamber, who art
+fertile in counsel,
+
+4. To whom the gods pay worship (?) reverent ...
+
+5. O ASARU-ALIM-NUNA--the adored light of the Father who begat him,
+
+6. Who makest straight the direction of Anu, Bel, [and Ea].[1]
+
+[Footnote 1: This line seems to imply that Marduk was regarded as the
+instructor of the "old" gods; the allusion is, probably, to the "ways"
+of Anu, Bel and Ea, which are treated as technical terms in
+astrology.]
+
+7. He is their patron who fixed [their] ...
+
+8. Whose drink is abundance, who goeth forth ...
+
+9. O TUTU--creator of their new life,
+
+10. Supplier of their wants, that they may be satisfied [or, glad],
+
+11. Let but [Tutu] recite an incantation, the gods shall be at rest;
+
+12. Let but [the gods] attack him (i.e., Tutu) in wrath, he
+shall resist them successfully;
+
+13. Let him be raised up on a high throne in the assembly
+of the gods....
+
+14. None among the gods is like unto him.
+
+15. O god TUTU, who art the god ZI-UKKINA, life of the host of the
+gods,
+
+16. Who stablished the shining heavens for the gods,
+
+17. He founded their paths, he fixed [their courses].
+
+18. Never shall his deeds be forgotten among men.
+
+19. O god TUTU, who art ZI-AZAG, was the third name they gave
+him--holder (i.e., possessor) of holiness,
+
+20. God of the favourable wind, lord of adoration and grace,
+
+21. Creator of fulness and abundance, stablisher of plenty,
+
+22. Who turneth that which is little into that which is much.
+
+23. In sore straits we have felt his favouring breeze.
+
+24. Let them (the gods) declare, let them magnify, let them sing his
+praises.
+
+25. O TUTU, who art the god AGA-AZAG in the fourth place--let men
+exult.
+
+26. Lord of the holy incantation, who maketh the dead to live,
+
+27. He felt compassion for the gods who were in captivity.
+
+28. He riveted on the gods his enemies the yoke which had been resting
+on them.
+
+29. In mercy towards them he created mankind,
+
+30. The Merciful One in whose power it is to give life.
+
+31. His words shall endure for ever, they shall never be forgotten,
+
+32. In the mouth of the Black-headed[1] whom his hands have made.
+
+[Footnote 1: Here the title "Black-headed" refers to all mankind, but
+it is sometimes used by the scribes to distinguish the population of
+the Euphrates Valley from foreign peoples of light complexions.]
+
+33. O God TUTU, who art the god MU-AZAG in the fifth place--let their
+mouth recite a holy incantation [to him],
+
+34. Who by his own holy incantation hath destroyed all the evil ones.
+
+[Illustration: Portion of a tablet inscribed in Assyrian with a text
+of the Seventh Tablet of the Creation Series. [K. 8522.]]
+
+35. O god SHAZU, the wise heart of the gods, who searchest the inward
+parts of the belly,
+
+36. Who dost not permit the worker of evil to go forth by his side,
+
+37. Establisher of the company of the gods ... their hearts.
+
+38. Reducer of the disobedient ...
+
+[Lines 39-106 are wanting. The positions of the fragmentary lines
+supplied by duplicate fragments are uncertain; in any case they give
+no connected sense.]
+
+107. Verily, he holdeth the beginning and the end of them,[1]
+verily ...
+
+[Footnote 1: Compare the language of the Kur'ân (Surah II, v. 256),
+"He (Allah) knoweth what is before them and what is behind them."]
+
+108. Saying, "He who entered into the middle of Tiâmat resteth not;
+
+109. "His name shall be 'Nibiru' the seizer of the middle.
+
+110. "He shall set the courses of the stars of the heavens,
+
+111. "He shall herd together the whole company of the gods like sheep.
+
+112. "He shall [ever] take Tiâmat captive, he shall slit up her
+treasure (variant, life), he shall disembowel her."[1]
+
+[Footnote 1: These lines suggest that the fight between Marduk and
+Tiâmat was recurrent; it is incorrect to translate the verbal forms as
+preterites.]
+
+113. Among the men who are to come after a lapse of time,
+
+114. Let [these words] be heard without ceasing, may they reign to all
+eternity,
+
+115. Because he made the [heavenly] places and moulded the stable
+[earth].
+
+116. Father Bel proclaimed his name, "Lord of the Lands."
+
+117. All the Igigi repeated the title.
+
+118. Ea heard and his liver rejoiced,
+
+119. Saying, "He whose title hath rejoiced his fathers
+
+120. "Shall be even as I am; his name shall be Ea.
+
+121. "He shall dispose of all the magical benefits of my rites,
+
+122. "He shall make to have effect my instructions."
+
+123. By the title of "Fifty times" the great gods
+
+124. Proclaimed his names fifty times, they magnified his going.
+
+
+
+EPILOGUE.
+
+125. Let the first comer take them and repeat them;
+
+126. Let the wise man and the learned man meditate upon all of them;
+
+127. The father shall repeat them to his son that he may lay hold upon
+them.
+
+128. Let them (i.e., the names) open the ears of the shepherd and the
+herdsman.[1]
+
+[Footnote 1: "To open the ears"--to give understanding.]
+
+129. Let [man] rejoice in Marduk, the Lord of the Gods,
+
+130. That his land may be fertile and he himself abide in security.
+
+131. His word is true, his command altereth not.
+
+132. No god hath ever brought to the ground that which issueth from
+his mouth.
+
+133. They (i.e., the gods) treated him with contempt, he turned
+not his back [in flight],
+
+134. No god could resist his wrath at its height.
+
+135. His heart is large, his bowels of mercy are great.
+
+136. Of sin and wickedness before him ...
+
+137. The first comer utters his complaint of humiliation before him.
+
+[Lines 138-142 are too fragmentary to translate.]
+
+
+
+NOTES.
+
+1. There are in the British Museum several fragments of Neo-Babylonian
+copies of the Seven Tablets of Creation, the exact position of which is
+at present uncertain. One of these (S. 2013) is of some importance
+because it speaks of one object which was in the "upper Tiâmat", and of
+another which was in the "lower Tiâmat". This shows that the Babylonians
+thought that one half of the body of Tiâmat, which was split up by
+Marduk, was made into the celestial ocean, and the other half into the
+terrestrial ocean, in other words, into "the waters that were above" and
+"the waters that were beneath" the firmament respectively.
+
+2. When George Smith published his _Chaldean Account of Genesis_
+in 1876, he was of opinion that the Creation Tablets in the British
+Museum contained descriptions of the Temptation of Eve by the serpent
+and of the building and overthrow of the Tower of Babel.  The
+description of Paradise in Genesis ii seems to show traces of
+Babylonian influence, and the cylinder seal, Brit. Mus. No. 89,326,
+was thought to be proof that a Babylonian legend of the Temptation
+existed. In fact, George Smith printed a copy of the seal in his book
+(p. 91). But it is now known that the tablet which was believed to
+refer to man's eating of the fruit of the Tree of Knowledge (K. 3, 473
++ 79-7-8, 296 + R. 615) describes the banquet of the gods to which
+they invited Marduk. In like manner the text on K. 3657, which Smith
+thought referred to the Tower of Babel, is now known to contain no
+mention of a tower or building of any sort. It was also thought by him
+that K. 3364 contained a set of instructions which God gave to Adam
+and Eve after their creation, but it is now known and admitted by all
+Assyriologists that the text on this tablet contains moral precepts
+and has nothing to do with the Creation Series. Enquiries are from
+time to time made at the Museum for tablets which deal with the
+Temptation of Eve, and the destruction of the Tower of Babel, and the
+Divine commands to Adam and Eve; it is perhaps not superfluous to say
+that nothing of the kind exists.
+
+
+
+LIST OF THE NAMES OF THE STARS OR SIGNS OF THE ZODIAC, WITH A LIST
+SHOWING THE MONTH THAT WAS ASSOCIATED WITH EACH STAR IN THE PERSIAN
+PERIOD.
+
+BY SIDNEY SMITH, M.A., and C.J. GADD, M.A., Assistants in the Department.
+
+No. 77,821 (85-4-30, 15).
+
+       Determinative                                    Modern
+Month.    of Star.    Name of the Sign of the Zodiac. Equivalent
+
+[Cuneiform]                                           Goat.
+[Cuneiform]                                           Bull.
+
+[Cuneiform]                                           Twins.
+[Cuneiform]                                           Crab.
+[Cuneiform]                                           Lion.
+[Cuneiform]                                           Virgin.
+[Cuneiform]                                           Scales.
+[Cuneiform]                                           Scorpion.
+[Cuneiform]                                           Bow.
+[Cuneiform]                                           Capricornus
+[Cuneiform]                                           Water-bearer
+[Cuneiform]                                           The Fishes.
+
+Month.
+|
+|  Determinative of Star.
+|  |
+|  |          Name of the Sign on the Zodiac.
+|  |          |
+|  |          |
+|  |          |
+|  |          TRANSLITERATION.
+|  |                TRANSLATION.
+|  |
+1  Nisannu    (kakkab) (amel) Agru....
+                    The Labourer.
+
+2  Airu          "     Kakkab u (kakkab) Alap shame
+                    The Star and the Bull of heaven.
+
+3  Simanu         "    Re'u kinu shame u (kakkab) tu'ame rabuti
+                    The faithful shepherd of heaven and the Great Twins.
+
+4  Duuzu          "    AL.LUL. (shittu)[1]....
+                    The Tortoise.
+
+5  Abu            "    Kalbu rabu....
+                    Great Dog (Lion).
+
+6  Ululu          "    Shiru....
+                    Virgin with ear of corn.
+
+7  Tashritum      "    Zibanitum....
+                    ....
+
+8  Arah shamna    "    Akrabu....
+                    The Scorpion.
+
+9  Kislimu        "    PA.BIL.SAG....
+                    Enurta (the god).
+
+10 Tebetum        "    SUHUR.MASH....
+                    The Goat-fish.
+
+11 Shabatu        "    Gula....
+                    The Great Star
+
+12 Addaru         "    DIL.GAN.u rikis nuni
+                    The star ... and the Band of Fishes.
+
+[Footnote 1: The Egyptian Sheta]
+
+
+I have been assisted in the preparation of this monograph by
+Mr. Sidney Smith, M.A., Assistant in the Department.
+
+E.A. WALLIS BUDGE.
+
+DEPARTMENT OF EGYPTIAN AND ASSYRIAN ANTIQUITIES, BRITISH MUSEUM.
+_June_ 1, 1921.
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Babylonian Legends of the Creation, by 
+British Museum
+
+*** END OF THIS PROJECT GUTENBERG EBOOK BABYLONIAN LEGENDS OF THE CREATION ***
+
+***** This file should be named 9914-8.txt or 9914-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/9/9/1/9914/
+
+Produced by the PG Distributed Proofreaders
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
