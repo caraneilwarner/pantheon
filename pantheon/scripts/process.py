@@ -1,3 +1,4 @@
+import nltk
 import spacy
 import compute
 from compute import nlp, closest, word_vec
@@ -59,6 +60,32 @@ def get_tokens_of_type(docs, type):
     return tokens
 
 
+def get_texts():
+    """Produce a dictionary mapping source text titles to source text.
+    Useful for working with NLTK. get_docs() is spaCy specific.
+    """ 
+    titles = get_titles()
+    texts = {}
+    for title in titles:
+        path = '../src/' + title + '.txt'
+        texts[title] = open(path).read()
+
+    return texts
+
+
+def get_tokens_by_pos(texts, filters):
+    """Retrieve tokens that match the given part of speech (pos) filters. See:
+    https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+    """ 
+    tokens = {}
+    for title,text in texts.items():
+        words = nltk.word_tokenize(text)
+        unique_words = list(set([w.lower() for w in words]))
+        tokens[title] = [w for w,p in nltk.pos_tag(unique_words) if p in filters]
+
+    return tokens
+
+
 def get_matches(word, tokens, limit=10, offset=0):
     """Search each source in <tokens> for the words most closely relate
     to te given <word>. Return aggregated results.
@@ -82,6 +109,16 @@ def get_overlapping_matches(word, tokens, limit=10, offset=0):
     return counter.most_common(limit)
 
 
+def get_popular_matches(word, counter, popularity):
+    popular_matches = []
+    
+    for match, count in counter:
+        if count == popularity:
+            popular_matches.append(match)
+
+    return popular_matches
+
+
 def get_genetic_matches(words, tokens, limit=100):
     """WIP"""
     genomes = {word:get_overlapping_matches(word, tokens, limit) for word in words}
@@ -90,16 +127,9 @@ def get_genetic_matches(words, tokens, limit=100):
         relations = get_relations(word, genomes)
         genetic_matches[word] = relations
 
+
 def get_relations(word, genomes):
     """WIP"""
     return 
-
-
-
-
-
-
-
-
 
 
