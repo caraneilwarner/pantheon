@@ -20,8 +20,6 @@ IDEAS
 
 #TODO: wire up name generator
 #TODO: add stopwords
-#TODO: consider increasing size of genome
-#TODO: randomize sources?
 #TODO: explore making some genes dominant, some recessive
 #TODO: introduce probability for trans/non-gender
 #TODO: introduce chance of twins, tripplets, infertility, refusal to mate
@@ -123,15 +121,7 @@ class God:
 """Miscellaneous helpers"""
 
 def send_birth_announcement(parent_a, parent_b, offspring=None):
-    actions = ['cavorted','copulated','fornicated']
-    action = '\nThe %s %s with the %s ' % (parent_a.epithet, random.choice(actions), parent_b.epithet)
-
-    if offspring == None:
-        outcome = 'but they had no children.'
-    else:
-        outcome = 'and produced the %s.' % (offspring.epithet)
-
-    print(action + outcome)
+    print("The union of the %s and the %s produced the %s." % (parent_a.epithet, parent_b.epithet, offspring.epithet))
 
 
 def get_gender(chromosomes):
