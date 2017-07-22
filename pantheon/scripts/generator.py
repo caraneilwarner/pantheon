@@ -21,11 +21,10 @@ IDEAS
 #TODO: wire up name generator
 #TODO: add stopwords
 #TODO: explore making some genes dominant, some recessive
-#TODO: introduce probability for trans/non-gender
 #TODO: introduce chance of twins, tripplets, infertility, refusal to mate
 #TODO: introduce more titles. Ex Lord, Lady...
 #TODO: introduce more epithet templates, allow 2-4 words instead of just 3
-#TODO: introduce generations to spawn()
+#TODO: introduce power disolution: god + god = demi-god, demi + demi = human
 
 """
 
@@ -40,17 +39,20 @@ class Pantheon:
         egg_donors = [god for god in self.gods if god.chromosomes == 'XX']
         sperm_donors = [god for god in self.gods if god.chromosomes == 'XY']
 
-        for _ in range(generations):
-            egg_donor = random.choice(egg_donors)
-            sperm_donor = random.choice(sperm_donors)
-            offspring = self.fertilize(egg_donor, sperm_donor)
-            send_birth_announcement(egg_donor, sperm_donor, offspring)
+        for i in range(generations):
+            print("\nGENERATION %d\n" % (i+1))
 
-            # Baby is all grown up...
-            if offspring.chromosomes == 'XX':
-                egg_donors.append(offspring)
-            else:
-                sperm_donors.append(offspring)
+            for egg_donor in egg_donors:
+                sperm_donor = random.choice(sperm_donors)
+                offspring = self.fertilize(egg_donor, sperm_donor)
+                send_birth_announcement(egg_donor, sperm_donor, offspring)
+
+                # offspring joins pantheon
+                self.gods.append(offspring)
+                if offspring.chromosomes == 'XX':
+                    egg_donors.append(offspring)
+                else:
+                    sperm_donors.append(offspring)
 
 
     def fertilize(self, egg_donor, sperm_donor):
@@ -121,8 +123,8 @@ class God:
 """Miscellaneous helpers"""
 
 def send_birth_announcement(parent_a, parent_b, offspring=None):
-    print("The union of the %s and the %s produced the %s." % (parent_a.epithet, parent_b.epithet, offspring.epithet))
-
+    #print("The %s and the %s produced the %s." % (parent_a.epithet, parent_b.epithet, offspring.epithet))
+    print(offspring.epithet)
 
 def get_gender(chromosomes):
     genders = [MALE, FEMALE, NON_BINARY]
