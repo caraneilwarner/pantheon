@@ -1,6 +1,7 @@
 import process
 from process import *
 import random
+from numpy.random import choice as npchoice
 
 """
 texts = get_texts()
@@ -17,17 +18,18 @@ IDEAS
 
 # Good starters: mother flowers and honey, father hunt and fire
 
+#TODO: wire up name generator
 #TODO: add stopwords
 #TODO: consider increasing size of genome
 #TODO: randomize sources?
 #TODO: explore making some genes dominant, some recessive
 #TODO: introduce probability for trans/non-gender
 #TODO: introduce chance of twins, tripplets, infertility, refusal to mate
+#TODO: introduce more titles. Ex Lord, Lady...
+#TODO: introduce more epithet templates, allow 2-4 words instead of just 3
+#TODO: introduce generations to spawn()
 
 """
-
-def send_birth_announcement(parent_a, parent_b, baby):
-    print("\nThe union of the %s and the %s produced the %s" % (parent_a.epitaph, parent_b.epitaph, baby.epitaph))
 
 class Pantheon:
     def __init__(self, mother_of_creation, father_of_creation):
@@ -40,11 +42,10 @@ class Pantheon:
         egg_donors = [god for god in self.gods if god.chromosomes == 'XX']
         sperm_donors = [god for god in self.gods if god.chromosomes == 'XY']
 
-        for i in range(generations):
+        for _ in range(generations):
             egg_donor = random.choice(egg_donors)
             sperm_donor = random.choice(sperm_donors)
             offspring = self.fertilize(egg_donor, sperm_donor)
-
             send_birth_announcement(egg_donor, sperm_donor, offspring)
 
             # Baby is all grown up...
@@ -64,7 +65,7 @@ class Pantheon:
 class God:
     def __init__(self, egg_word, sperm_word):
         self.chromosomes = random.choice(['XX','XY'])
-        self.gender = random.choice([MALE, FEMALE, NON_BINARY]) # Gender distinct from chromosomal identity
+        self.gender = get_gender(self.chromosomes)
 
         # 'mother' and 'father' in the sense of egg/sperm donor, not the roles 'mommy' and 'daddy'
         self.genes_from_mother = self.get_egg(egg_word)
@@ -72,7 +73,7 @@ class God:
         self.genome = self.genes_from_mother + self.genes_from_father
 
         self.name = self.get_name()
-        self.epitaph = self.get_epitaph()
+        self.epithet = self.get_epithet()
 
 
     def get_egg(self, egg_word):
@@ -91,7 +92,6 @@ class God:
 
 
     def get_name(self):
-        #TODO: wire up name generator
         if self.gender == FEMALE:
             return 'Lorem'
         elif self.gender == MALE:
@@ -100,8 +100,7 @@ class God:
             return 'Dolor'       
 
 
-    def get_epitaph(self):
-        #TODO: introduce more titles. Ex Lord, Lady...
+    def get_epithet(self):
         if self.gender == FEMALE:
             title = 'Godess'
         elif self.gender == MALE:
@@ -110,15 +109,33 @@ class God:
             title = 'God'
 
         domains = random.sample(self.genome, 3)
-        
-        #TODO: introduce more templates
         return '%s of %s, %s, and %s' % (title, *domains)
 
 
-    def change_epitaph(self):
-        self.epitaph = self.get_epitaph()
-
+    def change_epithet(self):
+        self.epithet = self.get_epithet()
+        print(self.epithet)
 
     def get_gamete(self):
-        #TODO: introduce chance of infertility
         return random.choice(self.genome)
+
+
+"""Miscellaneous helpers"""
+
+def send_birth_announcement(parent_a, parent_b, offspring=None):
+    actions = ['cavorted','copulated','fornicated']
+    action = '\nThe %s %s with the %s ' % (parent_a.epithet, random.choice(actions), parent_b.epithet)
+
+    if offspring == None:
+        outcome = 'but they had no children.'
+    else:
+        outcome = 'and produced the %s.' % (offspring.epithet)
+
+    print(action + outcome)
+
+
+def get_gender(chromosomes):
+    genders = [MALE, FEMALE, NON_BINARY]
+    probabilities = [0.8, 0.1, 0.1] if chromosomes == 'XY' else [0.1, 0.8, 0.1]
+    return npchoice(genders, 1, p=probabilities)[0]
+
