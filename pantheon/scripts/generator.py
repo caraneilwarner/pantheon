@@ -2,21 +2,32 @@ import process
 from process import *
 import random
 
-#TODO: add stopwords
-#TODO: consider increasing size of genome
-#TODO: randomize sources?
-
 """
 texts = get_texts()
 noun_tokens = get_tokens_by_pos(texts, ['NNS'])
 verb_tokens = get_tokens_by_pos(texts, ['VBG'])
 """
 
-# Good starters: mother flowers and honey, father hunt and fire
-
 MALE = 'M'
 FEMALE = 'F'
 NON_BINARY = 'NB'
+
+"""
+IDEAS
+
+# Good starters: mother flowers and honey, father hunt and fire
+
+#TODO: add stopwords
+#TODO: consider increasing size of genome
+#TODO: randomize sources?
+#TODO: explore making some genes dominant, some recessive
+#TODO: introduce probability for trans/non-gender
+#TODO: introduce chance of twins, tripplets, infertility, refusal to mate
+
+"""
+
+def send_birth_announcement(parent_a, parent_b, baby):
+    print("\nThe union of the %s and the %s produced the %s" % (parent_a.epitaph, parent_b.epitaph, baby.epitaph))
 
 class Pantheon:
     def __init__(self, mother_of_creation, father_of_creation):
@@ -25,16 +36,22 @@ class Pantheon:
         self.gods = [self.mother_of_creation, self.father_of_creation]
 
 
-    def spawn(self):
+    def spawn(self, generations):
         egg_donors = [god for god in self.gods if god.chromosomes == 'XX']
         sperm_donors = [god for god in self.gods if god.chromosomes == 'XY']
 
-        egg_donor = random.choice(egg_donors)
-        sperm_donor = random.choice(sperm_donors)
-        
-        #TODO: introduce chance of twins, tripplets, infertility
-        offspring = self.fertilize(egg_donor, sperm_donor)
-        print("The union of the %s and the %s produced the %s" % (egg_donor.epitaph, sperm_donor.epitaph, offspring.epitaph))
+        for i in range(generations):
+            egg_donor = random.choice(egg_donors)
+            sperm_donor = random.choice(sperm_donors)
+            offspring = self.fertilize(egg_donor, sperm_donor)
+
+            send_birth_announcement(egg_donor, sperm_donor, offspring)
+
+            # Baby is all grown up...
+            if offspring.chromosomes == 'XX':
+                egg_donors.append(offspring)
+            else:
+                sperm_donors.append(offspring)
 
 
     def fertilize(self, egg_donor, sperm_donor):
