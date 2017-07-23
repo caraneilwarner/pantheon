@@ -1,37 +1,45 @@
-import process
-from process import *
 import random
-from numpy.random import choice as npchoice
 import name
-from name import *
+from numpy.random import choice as npchoice
+from process import *
 
-texts = get_texts()
-noun_tokens = get_tokens_by_pos(texts, ['NNS'])
-verb_tokens = get_tokens_by_pos(texts, ['VBG'])
+# noun_tokens = {}
+# verb_tokens = {}
+#
+# female_names = []
+# male_names = []
+# nb_names = []
 
-names = random.shuffle(get_names('old-norse'))
-female_names = [name for name,gender,desc in names if gender == 'girl']
-male_names = [name for name,gender,desc in names if gender == 'boy']
-andro_names = [name for name,gender,desc in names if gender == 'boygirl'] + male_names
+male = 'M'
+female = 'F'
+non_binary = 'NB'
 
-MALE = 'M'
-FEMALE = 'F'
-NON_BINARY = 'NB'
+# def load_texts():
+#     texts = get_texts()
+#     global noun_tokens
+#     global verb_tokens
+#     noun_tokens = get_tokens(texts, ['NNS'])
+#     verb_tokens = get_tokens(texts, ['VBG'])
+#
+# def load_names(ethnicity):
+#     names = name.load_names(ethnicity)
+#     random.shuffle(names)
+#     global female_names
+#     global male_names
+#     global andro_names
+#     female_names = [name for name,gender,*desc in names if gender == 'girl']
+#     male_names = [name for name,gender,*desc in names if gender == 'boy']
+#     andro_names = [name for name,gender,*desc in names if gender == 'boygirl'] + male_names
 
-"""
-IDEAS
-
-# Good starters: mother flowers and honey, father hunt and fire
-
-#TODO: wire up name generator
-#TODO: add stopwords
-#TODO: explore making some genes dominant, some recessive
-#TODO: introduce chance of twins, tripplets, infertility, refusal to mate
-#TODO: introduce more titles. Ex Lord, Lady...
-#TODO: introduce more epithet templates, allow 2-4 words instead of just 3
-#TODO: introduce power disolution: god + god = demi-god, demi + demi = human
-
-"""
+# texts = get_texts()
+# noun_tokens = get_tokens(texts, ['NNS'])
+# verb_tokens = get_tokens(texts, ['VBG'])
+#
+# names = name.load_names('germanic')
+# random.shuffle(names)
+# female_names = [name for name,gender,*desc in names if gender == 'girl']
+# male_names = [name for name,gender,*desc in names if gender == 'boy']
+# andro_names = [name for name,gender,*desc in names if gender == 'boygirl'] + male_names
 
 class Pantheon:
     def __init__(self, mother_of_creation, father_of_creation):
@@ -70,7 +78,7 @@ class Pantheon:
 
 class God:
     def __init__(self, egg_word, sperm_word):
-        self.chromosomes = random.choice(['XX','XY','XX','XY'])
+        self.chromosomes = random.choice(['XX','XY'])
         self.gender = get_gender(self.chromosomes)
         self.parents = []
 
@@ -102,18 +110,18 @@ class God:
 
 
     def get_name(self):
-        if self.gender == FEMALE:
+        if self.gender == female:
             return female_names.pop()
-        elif self.gender == MALE:
+        elif self.gender == male:
             return male_names.pop()
         else:
             return andro_names.pop()
 
 
     def get_epithet(self):
-        if self.gender == FEMALE:
+        if self.gender == female:
             title = 'Godess'
-        elif self.gender == MALE:
+        elif self.gender == male:
             title = 'God'
         else:
             title = 'God'
@@ -134,9 +142,9 @@ class God:
 """Miscellaneous helpers"""
 
 def send_birth_announcement(parent_a, parent_b, offspring=None):
-    if offspring.gender == MALE:
+    if offspring.gender == male:
         child = 'son'
-    elif offspring.gender == FEMALE:
+    elif offspring.gender == female:
         child = 'daughter'
     else:
         child = 'child'
@@ -145,6 +153,6 @@ def send_birth_announcement(parent_a, parent_b, offspring=None):
     print("%s - %s" % (offspring.name, offspring.epithet))
 
 def get_gender(chromosomes):
-    genders = [MALE, FEMALE, NON_BINARY]
+    genders = [male, female, non_binary]
     probabilities = [0.8, 0.1, 0.1] if chromosomes == 'XY' else [0.1, 0.8, 0.1]
     return npchoice(genders, 1, p=probabilities)[0]
