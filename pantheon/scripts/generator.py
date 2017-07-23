@@ -9,7 +9,7 @@ texts = get_texts()
 noun_tokens = get_tokens_by_pos(texts, ['NNS'])
 verb_tokens = get_tokens_by_pos(texts, ['VBG'])
 
-names = get_names('old-norse')
+names = random.shuffle(get_names('old-norse'))
 female_names = [name for name,gender,desc in names if gender == 'girl']
 male_names = [name for name,gender,desc in names if gender == 'boy']
 andro_names = [name for name,gender,desc in names if gender == 'boygirl'] + male_names
