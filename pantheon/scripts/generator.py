@@ -2,12 +2,17 @@ import process
 from process import *
 import random
 from numpy.random import choice as npchoice
+import name
+from name import *
 
-"""
 texts = get_texts()
 noun_tokens = get_tokens_by_pos(texts, ['NNS'])
 verb_tokens = get_tokens_by_pos(texts, ['VBG'])
-"""
+
+names = get_names('old-norse')
+female_names = [name for name,gender,desc in names if gender == 'girl']
+male_names = [name for name,gender,desc in names if gender == 'boy']
+andro_names = [name for name,gender,desc in names if gender == 'boygirl'] + male_names
 
 MALE = 'M'
 FEMALE = 'F'
@@ -32,7 +37,7 @@ class Pantheon:
     def __init__(self, mother_of_creation, father_of_creation):
         self.mother_of_creation = mother_of_creation
         self.father_of_creation = father_of_creation
-        self.gods = [self.mother_of_creation, self.father_of_creation]
+        self.gods = [mother_of_creation, father_of_creation]
 
 
     def spawn(self, generations):
@@ -46,6 +51,7 @@ class Pantheon:
                 sperm_donor = random.choice(sperm_donors)
                 offspring = self.fertilize(egg_donor, sperm_donor)
                 send_birth_announcement(egg_donor, sperm_donor, offspring)
+                offspring.parents = [egg_donor, sperm_donor]
 
                 # offspring joins pantheon
                 self.gods.append(offspring)
@@ -64,8 +70,9 @@ class Pantheon:
 
 class God:
     def __init__(self, egg_word, sperm_word):
-        self.chromosomes = random.choice(['XX','XY'])
+        self.chromosomes = random.choice(['XX','XY','XX','XY'])
         self.gender = get_gender(self.chromosomes)
+        self.parents = []
 
         # 'mother' and 'father' in the sense of egg/sperm donor, not the roles 'mommy' and 'daddy'
         self.genes_from_mother = self.get_egg(egg_word)
@@ -77,27 +84,30 @@ class God:
 
 
     def get_egg(self, egg_word):
-        phenotype = get_overlapping_matches(egg_word, noun_tokens, 23)
+        probabilities = [0.9,0.1]
+        gene_pool = npchoice([noun_tokens, verb_tokens], 1, p=probabilities)[0]
+
+        phenotype = get_overlapping_matches(egg_word, gene_pool, 23)
         genotype = [gene for gene,expression in phenotype]
         return genotype
 
 
     def get_sperm(self, sperm_word):
-        if self.chromosomes == "XX":
-            phenotype = get_overlapping_matches(sperm_word, noun_tokens, 23)
-        elif self.chromosomes == "XY":
-            phenotype = get_overlapping_matches(sperm_word, verb_tokens, 23)
-        genotype = [gene for gene, expression in phenotype]
+        probabilities = [0.9,0.1]
+        gene_pool = npchoice([noun_tokens, verb_tokens], 1, p=probabilities)[0]
+
+        phenotype = get_overlapping_matches(sperm_word, gene_pool, 23)
+        genotype = [gene for gene,expression in phenotype]
         return genotype
 
 
     def get_name(self):
         if self.gender == FEMALE:
-            return 'Lorem'
+            return female_names.pop()
         elif self.gender == MALE:
-            return 'Ipsum'
+            return male_names.pop()
         else:
-            return 'Dolor'       
+            return andro_names.pop()
 
 
     def get_epithet(self):
@@ -116,6 +126,7 @@ class God:
         self.epithet = self.get_epithet()
         print(self.epithet)
 
+
     def get_gamete(self):
         return random.choice(self.genome)
 
@@ -123,11 +134,17 @@ class God:
 """Miscellaneous helpers"""
 
 def send_birth_announcement(parent_a, parent_b, offspring=None):
-    #print("The %s and the %s produced the %s." % (parent_a.epithet, parent_b.epithet, offspring.epithet))
-    print(offspring.epithet)
+    if offspring.gender == MALE:
+        child = 'son'
+    elif offspring.gender == FEMALE:
+        child = 'daughter'
+    else:
+        child = 'child'
+
+    #print ("%s, %s - %s of %s and %s" % (offspring.name, offspring.epithet, child, parent_a.name, parent_b.name))
+    print("%s - %s" % (offspring.name, offspring.epithet))
 
 def get_gender(chromosomes):
     genders = [MALE, FEMALE, NON_BINARY]
     probabilities = [0.8, 0.1, 0.1] if chromosomes == 'XY' else [0.1, 0.8, 0.1]
     return npchoice(genders, 1, p=probabilities)[0]
-
