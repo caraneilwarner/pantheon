@@ -13,9 +13,10 @@ class Pantheon:
         sperm_donors = [god for god in self.gods if god.chromosomes == 'XY']
 
         for i in range(generations):
+            num_births = max(int(len(egg_donors)/2), 1)
             print("\nGENERATION %d\n" % (i+1))
 
-            for egg_donor in egg_donors:
+            for egg_donor in random.sample(egg_donors, num_births):
                 sperm_donor = random.choice(sperm_donors)
                 offspring = God(egg_donor, sperm_donor)
                 send_birth_announcement(egg_donor, sperm_donor, offspring)
