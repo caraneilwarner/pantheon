@@ -44,21 +44,16 @@ def get_matches(word, tokens, limit=10, offset=0):
     return results
 
 
-def get_overlapping_matches(word, tokens, limit=10, offset=0):
+def get_common_matches(word, tokens, limit=10, offset=0):
     """Input <tokens> is a dictionary mapping filenames to tokens. Use method
     get_matches() to grab all the matching words from all the files. Produce a
     Counter and use it to sort words by the number of texts that share them.
-    Return the most common words.
+    Return the most widely shared words. (Not same as most frequently used.)
     """
     results = get_matches(word, tokens, limit, offset)
     counter = Counter(results)
-    return counter.most_common(limit)
 
-
-def get_popular_matches(word, counter, popularity):
-    """Return a list of words that appear a specific number of times."""
-    popular_matches = [match for match,count in counter if count == popularity]
-    return popular_matches
+    return [word for word,count in counter.most_common(limit)]
 
 
 def word_vec(word):
