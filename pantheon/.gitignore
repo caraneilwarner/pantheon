@@ -1,4 +1,4 @@
 src/corpora/*
 *.py.swp
 __pycache__/
-name.py
+scraper.py
