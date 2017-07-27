@@ -1,19 +1,13 @@
+"""Defines a class God."""
+import names
+import sources
 import random
-from name import load_names
 from numpy.random import choice as npchoice
 from process import *
 
-# # Temporarily use this
-# texts = get_texts()
-# noun_tokens = get_tokens(texts, ['NNS'])
-# verb_tokens = get_tokens(texts, ['VBG'])
-#
-# Names
-names = load_names('norwegian')
-random.shuffle(names)
-female_names = [name for name,gender,*desc in names if gender == 'girl']
-male_names = [name for name,gender,*desc in names if gender == 'boy']
-nb_names = [name for name,gender,*desc in names if gender == 'boygirl']
+# Initialize
+if not len(tokens.noun_tokens) > 0 : sources.set_token_lists()
+if not len(names.female_names) > 0 : names.set_name_lists()
 
 # Divinity constants
 god = 3
@@ -60,8 +54,8 @@ class God:
 
 
     def reproduce_asexually(self, egg_word, sperm_word):
-        """Produce two gametes, an egg and a sperm, with the input strings.
-        Combine them to produce a genome a la vanilla sexual reproduction.
+        """Produce two gametes, an egg and a sperm, from the input strings.
+        Combine them to produce a genome a la sexual reproduction.
         """
         egg = self.generate_gamete(egg_word)
         sperm = self.generate_gamete(sperm_word)
@@ -72,8 +66,8 @@ class God:
 
     def reproduce_sexually(self, egg_donor, sperm_donor):
         """Produce two gametes, an egg and a sperm, from input Gods. Combine
-        them to produce a genome a la vanilla sexual reproduction. Determine
-        offspring's divinity based on parents' combined divinity.
+        them to produce a genome a la sexual reproduction. Select offspring's
+        divinity based on parents' combined divinity.
         """
         egg_word = random.choice(egg_donor.genome)
         egg = self.generate_gamete(egg_word)
@@ -86,10 +80,11 @@ class God:
 
 
     def set_chromosomes(self):
-        """This model uses the XY sex-determination system (sex != gender).
+        """This model uses the XY sex-determination system. Sex != gender.
         Assign either XX or XY randomly with a 50/50 chance of each.
         """
         self.chromosomes = random.choice(['XX','XY'])
+
 
     def set_gender(self):
         """This model treats gender as independent from sex chromosomes.
@@ -102,18 +97,18 @@ class God:
     def set_name(self):
         """Pick a random name from the lists loaded with the model. For Gods that
         identify as neither M nor F, the model attempts to retrieve an androgynous
-        name. Not all of the lists contain androgynous names, so we need a backup.
+        name. Not all of the lists contain androgynous names.
         """
         if not self.gender: self.set_gender()
 
         name = ''
         if self.gender == female:
-            name = female_names.pop()
+            name = names.female_names.pop()
         elif self.gender == male:
-            name = male_names.pop()
+            name = names.male_names.pop()
         else:
             try:
-                name = nb_names.pop()
+                name = names.nb_names.pop()
             except:
                 # No androgynous names available
                 name = male_names.pop()
@@ -141,7 +136,7 @@ class God:
         if self.divinity == demi_god:
             title = 'Semi-' + title if self.gender == non_binary else 'Demi-' + title
 
-        num_domains = npchoice([2,3,4], 1, p=[0.35, 0.6, 0.05])[0]
+        num_domains = npchoice([2,3,4], 1, p=[0.32, 0.64, 0.04])[0]
 
         if num_domains == 2:
             template = '%s of %s and %s'

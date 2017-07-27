@@ -44,7 +44,7 @@ def get_matches(word, tokens, limit=10, offset=0):
     return results
 
 
-def get_common_matches(word, tokens, limit=10, offset=0):
+def get_overlapping_matches(word, tokens, limit=10, offset=0):
     """Input <tokens> is a dictionary mapping filenames to tokens. Use method
     get_matches() to grab all the matching words from all the files. Produce a
     Counter and use it to sort words by the number of texts that share them.

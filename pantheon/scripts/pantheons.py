@@ -1,3 +1,4 @@
+"""Defines a class Pantheon."""
 import random
 from make_deity import *
 
