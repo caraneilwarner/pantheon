@@ -40,12 +40,12 @@ class God:
     def __init__(self, egg_donor, sperm_donor):
         self.set_chromosomes()
         self.set_gender()
-        self.set_genome_and_divinity(egg_donor, sperm_donor)
+        self.set_inherited_traits(egg_donor, sperm_donor)
         self.set_name()
         self.set_epithet()
 
 
-    def set_genome_and_divinity(self, egg_donor, sperm_donor):
+    def set_inherited_traits(self, egg_donor, sperm_donor):
         """Accepts either strings or Gods as inputs."""
         if type(egg_donor) == str:
             self.reproduce_asexually(egg_donor, sperm_donor)
@@ -61,6 +61,7 @@ class God:
         sperm = self.generate_gamete(sperm_word)
 
         self.genome = egg + sperm
+        self.generation = 1
         self.divinity = god
 
 
@@ -75,6 +76,7 @@ class God:
         sperm = self.generate_gamete(sperm_word)
 
         self.genome = egg + sperm
+        self.generation = max(egg_donor.generation, sperm_donor.generation) + 1
         sum_ = egg_donor.divinity + sperm_donor.divinity
         self.divinity = npchoice(divinities, 1, p=p_divinity[sum_])[0]
 
@@ -87,8 +89,8 @@ class God:
 
 
     def set_gender(self):
-        """This model treats gender as independent from sex chromosomes.
-        Assign M, F, or NB according to the probabilities in p_gender.
+        """This model recognizes that sex chromosomes don't always line up with
+        gender. Assign M, F, or NB according to the probabilities in p_gender.
         """
         if not self.chromosomes: self.set_chromosomes
         self.gender = npchoice(genders, 1, p=p_gender[self.chromosomes])[0]
@@ -97,7 +99,7 @@ class God:
     def set_name(self):
         """Pick a random name from the lists loaded with the model. For Gods that
         identify as neither M nor F, the model attempts to retrieve an androgynous
-        name. Not all of the lists contain androgynous names.
+        name. Note: not all of the scraped name lists contain androgynous names.
         """
         if not self.gender: self.set_gender()
 
@@ -119,16 +121,17 @@ class God:
     def set_epithet(self):
         """Divine an appropriate epithet for this God. (See what I did there?)"""
         if self.divinity == human:
+            obsession = random.choice(self.genome)
             if self.gender == female:
-                self.epithet = 'an ordinary woman'
+                self.epithet = 'an ordinary woman who loves ' + obsession
             elif self.gender == male:
-                self.epithet = 'an ordinary man'
+                self.epithet = 'an ordinary man who loves ' + obsession
             else:
-                self.epithet = 'an ordinary human being'
-            return # Return early
+                self.epithet = 'an ordinary human being who loves ' + obsession
+            return # Return early. The rest is for gods.
 
         if self.gender == female:
-            title = 'Godess'
+            title = 'Goddess'
         elif self.gender == male:
             title = 'God'
         else:
@@ -136,8 +139,7 @@ class God:
         if self.divinity == demi_god:
             title = 'Semi-' + title if self.gender == non_binary else 'Demi-' + title
 
-        num_domains = npchoice([2,3,4], 1, p=[0.32, 0.64, 0.04])[0]
-
+        num_domains = npchoice([2,3,4], 1, p=[0.36, 0.6, 0.04])[0]
         if num_domains == 2:
             template = '%s of %s and %s'
         elif num_domains == 3:
@@ -153,15 +155,13 @@ class God:
 
     def generate_gamete(self, egg_or_sperm_word):
         """Extract 23 chromosomes (words) from the gene pool by searching for
-        words that closely match the <egg_or_sperm_word>. This model uses noun
-        tokens for its gene pool 95 percent of the time and verb tokens 5 percent
-        of the time. Verb tokens produce stranger results. We include them on
-        rare occasions to simulate genetic mutation.
+        words that closely match the <egg_or_sperm_word>. 95 percent of the time
+        this model draws from the standard gene pool: primary_tokens. The other
+        5 percent of the time it draws from the mutant pool: secondary_tokens.
+        The idea is to simulate genetic mutation.
         """
         mutate = (npchoice([0,1], 1, p=[0.95, 0.05]) == 1)
         if mutate:
-            gene_pool = get_overlapping_matches(egg_or_sperm_word, tokens.secondary_tokens, 23)
-        else:
-            gene_pool = get_overlapping_matches(egg_or_sperm_word, tokens.primary_tokens, 23)
+            return get_overlapping_matches(egg_or_sperm_word, tokens.secondary_tokens, 23)
 
-        return gene_pool
+        return get_overlapping_matches(egg_or_sperm_word, tokens.primary_tokens, 23)

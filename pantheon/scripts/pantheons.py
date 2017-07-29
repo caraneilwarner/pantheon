@@ -14,10 +14,11 @@ class Pantheon:
         sperm_donors = [god for god in self.gods if god.chromosomes == 'XY']
 
         for i in range(generations):
-            num_births = max(int(len(egg_donors)/1), 1)
             print("\nGENERATION %d\n" % (i+1))
+            gen_xx = []
+            gen_xy = []
 
-            for egg_donor in random.sample(egg_donors, num_births):
+            for egg_donor in egg_donors:
                 sperm_donor = random.choice(sperm_donors)
                 offspring = God(egg_donor, sperm_donor)
                 send_birth_announcement(egg_donor, sperm_donor, offspring)
@@ -27,9 +28,18 @@ class Pantheon:
                 if offspring.divinity > 1:
                     self.gods.append(offspring)
                     if offspring.chromosomes == 'XX':
-                        egg_donors.append(offspring)
+                        gen_xx.append(offspring)
                     else:
-                        sperm_donors.append(offspring)
+                        gen_xy.append(offspring)
+
+            # mature offspring join the breeding pool
+            egg_donors += gen_xx
+            sperm_donors += gen_xy
+
+            # elder gods leave the breeding pool
+            egg_donors = [ed for ed in egg_donors if ed.generation > (i-3)]
+            sperm_donors = [sd for sd in sperm_donors if sd.generation > (i-4)]
 
 def send_birth_announcement(parent_a, parent_b, offspring=None):
+    #print("%s (gen %d) - %s" % (offspring.name, offspring.generation, offspring.epithet))
     print("%s - %s" % (offspring.name, offspring.epithet))
