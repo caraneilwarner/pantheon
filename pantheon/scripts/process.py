@@ -9,37 +9,14 @@ from numpy.linalg import norm
 nlp = spacy.load('en_core_web_md')
 
 
-def get_texts():
-    """Read in source texts from corpora directory."""
-    corpora = [filename for filename in os.listdir('../src/corpora/')]
-    texts = {}
-    for filename in corpora:
-        texts[filename] = open('../src/corpora/' + filename).read()
-
-    return texts
-
-
-def get_tokens(texts, filters):
-    """Retrieve tokens that match the given part of speech (pos) filters. See:
-    https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
-    """
-    tokens = {}
-    for title,text in texts.items():
-        words = nltk.word_tokenize(text)
-        unique_words = list(set([w.lower() for w in words]))
-        tokens[title] = [w for w,p in nltk.pos_tag(unique_words) if p in filters]
-
-    return tokens
-
-
-def get_matches(word, tokens, limit=10, offset=0):
+def get_matches(word, tokens_lists, limit=10, offset=0):
     """Input <tokens> is a dictionary mapping filenames to tokens. Search each
     file's tokens for the words that are most closely related to <word>. Take
     all those matches, aggregate them, and return them in one big list.
     """
     results = []
-    for source, source_tokens in tokens.items():
-        results += closest(source_tokens, word_vec(word), limit, offset)
+    for tokens in tokens_lists:
+        results += closest(tokens, word_vec(word), limit, offset)
 
     return results
 

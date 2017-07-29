@@ -1,5 +1,5 @@
 """Exposes the json data files in the /src/names directory."""
-import jsons
+import json
 import os
 import random
 
@@ -13,6 +13,7 @@ names_dir = '../src/names/'
 def set_name_lists(ethnicity=None):
     """Set three globally available lists of names."""
     if not ethnicity: ethnicity = random.choice(get_ethnicities())
+    print("Loading names from: " + ethnicity)
     filename = names_dir + ethnicity + '.json'
 
     try:

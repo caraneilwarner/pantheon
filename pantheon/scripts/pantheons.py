@@ -1,6 +1,6 @@
 """Defines a class Pantheon."""
 import random
-from make_deity import *
+from gods import *
 
 class Pantheon:
     def __init__(self, mother_of_creation, father_of_creation):
@@ -14,7 +14,7 @@ class Pantheon:
         sperm_donors = [god for god in self.gods if god.chromosomes == 'XY']
 
         for i in range(generations):
-            num_births = max(int(len(egg_donors)/2), 1)
+            num_births = max(int(len(egg_donors)/1), 1)
             print("\nGENERATION %d\n" % (i+1))
 
             for egg_donor in random.sample(egg_donors, num_births):

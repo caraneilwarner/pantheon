@@ -1,12 +1,12 @@
 """Defines a class God."""
 import names
-import sources
+import tokens
 import random
 from numpy.random import choice as npchoice
 from process import *
 
 # Initialize
-if not len(tokens.noun_tokens) > 0 : sources.set_token_lists()
+if not len(tokens.primary_tokens) > 0 : tokens.set_tokens_lists()
 if not len(names.female_names) > 0 : names.set_name_lists()
 
 # Divinity constants
@@ -158,7 +158,10 @@ class God:
         of the time. Verb tokens produce stranger results. We include them on
         rare occasions to simulate genetic mutation.
         """
-        probabilities = [0.95,0.05]
-        gene_pool = npchoice([noun_tokens, verb_tokens], 1, p=probabilities)[0]
+        mutate = (npchoice([0,1], 1, p=[0.95, 0.05]) == 1)
+        if mutate:
+            gene_pool = get_overlapping_matches(egg_or_sperm_word, tokens.secondary_tokens, 23)
+        else:
+            gene_pool = get_overlapping_matches(egg_or_sperm_word, tokens.primary_tokens, 23)
 
-        return get_common_matches(egg_or_sperm_word, gene_pool, 23)
+        return gene_pool
