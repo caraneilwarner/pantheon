@@ -52,7 +52,7 @@ def tokenize_corpora():
 
     for text_fname in text_files:
         json_fname = text_fname.split('.')[0] + '.json'
-        if os.path.isfile(json_fname): continue
+        if os.path.isfile(corpora_dir + json_fname): continue
 
         print("Tokenizing " + text_fname)
 
