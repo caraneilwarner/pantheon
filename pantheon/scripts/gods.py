@@ -140,7 +140,9 @@ class God:
         if self.divinity == demi_god:
             title = 'Semi-' + title if self.gender == non_binary else 'Demi-' + title
 
-        num_domains = npchoice([2,3,4], 1, p=[0.36, 0.6, 0.04])[0]
+        num_domains = npchoice([1,2,3,4], 1, p=[0.05, 0.35, 0.55, 0.05])[0]
+        if num_domains == 1:
+            template = '%s of %s'
         if num_domains == 2:
             template = '%s of %s and %s'
         elif num_domains == 3:
