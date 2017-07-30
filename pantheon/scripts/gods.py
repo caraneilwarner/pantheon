@@ -30,8 +30,8 @@ non_binary = 'NB'
 genders = [male, female, non_binary]
 p_gender = {
      # chromosomes : male | female | non_binary
-    'XX': [0.05, 0.94, 0.01],
-    'XY': [0.94, 0.05, 0.01]
+    'XX': [0.07, 0.90, 0.03],
+    'XY': [0.90, 0.07, 0.03]
 }
 
 
@@ -60,7 +60,7 @@ class God:
         egg = self.generate_gamete(egg_word)
         sperm = self.generate_gamete(sperm_word)
 
-        self.genome = egg + sperm
+        self.genome = list(set(egg + sperm)) # Eliminate duplicates
         self.generation = 1
         self.divinity = god
 
@@ -124,12 +124,12 @@ class God:
         if self.divinity == human:
             obsession = random.choice(self.genome)
             if self.gender == female:
-                self.epithet = 'an ordinary woman who loves ' + obsession
+                self.epithet = 'an ordinary woman'
             elif self.gender == male:
-                self.epithet = 'an ordinary man who loves ' + obsession
+                self.epithet = 'an ordinary man'
             else:
                 self.epithet = 'an ordinary human being who loves ' + obsession
-            return # Return early. The rest is for gods.
+            return # Return early. The rest of the function deals with gods.
 
         if self.gender == female:
             title = 'Goddess'
@@ -157,14 +157,46 @@ class God:
 
 
     def generate_gamete(self, egg_or_sperm_word):
-        """Extract 23 chromosomes (words) from the gene pool by searching for
-        words that closely match the <egg_or_sperm_word>. 95 percent of the time
-        this model draws from the standard gene pool: primary_tokens. The other
-        5 percent of the time it draws from the mutant pool: secondary_tokens.
-        The idea is to simulate genetic mutation.
+        """Extract 23 chromosomes (words) from a gene pool by searching one of
+        the gene pools (tokens lists) for words closely related to a "seed".
+        The seed is egg_or_sperm_word 80 percent of the time so that offspring
+        will feel "related" to their parents. 20 percent of the time the seed is
+        a random word. This is intended to simulate genetic mutation.
         """
-        mutate = (npchoice([0,1], 1, p=[0.95, 0.05]) == 1)
-        if mutate:
-            return get_overlapping_matches(egg_or_sperm_word, tokens.secondary_tokens, 23)
+        p_mutation = [0.8, 0.2]
+        mutant_word = random.choice(random_list())
+        seed = str(npchoice([egg_or_sperm_word, mutant_word], 1, p=p_mutation)[0])
 
-        return get_overlapping_matches(egg_or_sperm_word, tokens.primary_tokens, 23)
+        p_gene_pool = [0.8, 0.2]
+        # Can't apply npchoice directly to tokens lists b/c they're multi-dimensional
+        use_secondary_pool = (npchoice([0,1], 1, p=p_gene_pool)[0] == 1)
+        pool = tokens.secondary_tokens if use_secondary_pool else tokens.primary_tokens
+
+        return get_overlapping_matches(seed, tokens.primary_tokens, 23)
+
+        return get_overlapping_matches(seed, pool, 23)
+
+
+    def print_parents(self):
+        """Print parents' names and epithets."""
+        if self.gender == female:
+            title = 'Daughter'
+        elif self.gender == male:
+            title = 'Son'
+        else:
+            title = 'Child'
+
+        p1 = self.parents[0]
+        p2 = self.parents[1]
+
+        template = '%s of %s, the %s, and %s, the %s.'
+
+        print(template % (title, p1.name, p1.epithet, p2.name, p2.epithet))
+
+
+def random_list():
+    """Tokens lists are multi-dimensional; they're lists of lists. Return one of
+    the lists from the primary_tokens list.
+    """
+    i = random.choice(range(len(tokens.primary_tokens)))
+    return tokens.primary_tokens[i]
