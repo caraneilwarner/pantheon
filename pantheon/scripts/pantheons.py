@@ -20,17 +20,16 @@ class Pantheon:
 
             for egg_donor in egg_donors:
                 sperm_donor = random.choice(sperm_donors)
-                offspring = God(egg_donor, sperm_donor)
-                send_birth_announcement(egg_donor, sperm_donor, offspring)
-                offspring.parents = [egg_donor, sperm_donor]
+                offspring = self.breed(egg_donor, sperm_donor)
 
-                # divine offspring joins pantheon
-                if offspring.divinity > 1:
-                    self.gods.append(offspring)
-                    if offspring.chromosomes == 'XX':
-                        gen_xx.append(offspring)
-                    else:
-                        gen_xy.append(offspring)
+                # divine offspring join pantheon
+                for child in offspring:
+                    if child.divinity > 1:
+                        self.gods.append(child)
+                        if child.chromosomes == 'XX':
+                            gen_xx.append(child)
+                        else:
+                            gen_xy.append(child)
 
             # mature offspring join the breeding pool
             egg_donors += gen_xx
@@ -40,6 +39,17 @@ class Pantheon:
             egg_donors = [ed for ed in egg_donors if ed.generation > (i-3)]
             sperm_donors = [sd for sd in sperm_donors if sd.generation > (i-4)]
 
-def send_birth_announcement(parent_a, parent_b, offspring=None):
-    #print("%s (gen %d) - %s" % (offspring.name, offspring.generation, offspring.epithet))
-    print("%s - %s" % (offspring.name, offspring.epithet))
+
+    def breed(self, egg_donor, sperm_donor):
+        offspring = []
+        num_children = npchoice([1,2], 1, p=[0.8, 0.2])[0] # 20% chance of twins
+        for _ in range(num_children):
+            child = God(egg_donor, sperm_donor)
+            offspring.append(child)
+            send_birth_announcement(egg_donor, sperm_donor, child)
+
+        return offspring
+
+
+def send_birth_announcement(parent_a, parent_b, child):
+    print("%s - %s" % (child.name, child.epithet))

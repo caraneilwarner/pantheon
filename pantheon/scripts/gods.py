@@ -16,10 +16,10 @@ human = 1
 divinities = [god, demi_god, human]
 p_divinity = {
     # sum : god | demi_god | human
-    6: [0.75, 0.25, 0.0],
+    6: [0.7, 0.3, 0.0],
     5: [0.5, 0.5, 0.0],
-    4: [0.0, 0.75, 0.25],
-    3: [0.0, 0.25, 0.75],
+    4: [0.0, 0.8, 0.2],
+    3: [0.0, 0.3, 0.7],
     2: [0.0, 0.0, 1.0]
 }
 
@@ -76,6 +76,7 @@ class God:
         sperm = self.generate_gamete(sperm_word)
 
         self.genome = egg + sperm
+        self.parents = [egg_donor, sperm_donor]
         self.generation = max(egg_donor.generation, sperm_donor.generation) + 1
         sum_ = egg_donor.divinity + sperm_donor.divinity
         self.divinity = npchoice(divinities, 1, p=p_divinity[sum_])[0]

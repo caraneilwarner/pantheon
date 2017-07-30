@@ -83,16 +83,20 @@ def make_tokens_dir(dir_, sources):
         json.dump(sources, outjson)
 
 
-#TODO: filter out stopwords
 def save_tokens_to_dir(dir_, filters):
     """Read tokens from the files in sources.json. Filter each list of tokens
     and append it to a list of tokens lists. Write that list of lists to disk.
     """
     tokens_lists = []
     sources = []
+    skipwords = []
+
     with open(tokens_dir + dir_ + '/sources.json', 'r') as injson:
         data = json.load(injson)
         sources = [corpora_dir + fname for fname in data]
+
+    with open('../src/skipwords.txt', 'r') as f:
+        skipwords = [line.rstrip() for line in f]
 
     for fname in sources:
         print("Incorporating tokens from " + fname)
@@ -100,7 +104,8 @@ def save_tokens_to_dir(dir_, filters):
             data = json.load(injson)
             words = list(set([w.lower() for w in data if not w == '']))
             filtered = [w for w,p in nltk.pos_tag(words) if p in filters]
-            tokens_lists.append(filtered)
+            cleaned = [w for w in filtered if not w in skipwords]
+            tokens_lists.append(cleaned)
 
     target = tokens_dir + dir_ + '/' + '-'.join(filters) + '.json'
     with open(target, 'w') as outjson:
