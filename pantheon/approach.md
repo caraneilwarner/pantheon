@@ -13,29 +13,43 @@ _Monthly Challenge 20 - July, 2017_
 
 # Strategy
 
-Write two python classes, `God` and `Pantheon`, whose functions are metaphors for **sexual reproduction** in order to generate gods with internally-coherent domains and Pantheons with diverse but related deities. 
+Write two python classes, `God` and `Pantheon`, whose functions are metaphors for sexual reproduction. The goal is to generate `Gods` with internally-coherent domains and `Pantheons` with diverse but related deities.
 
-### The Metaphor
 
-Words are **chromosomes**.
-A list of 46 words is a **genome** and a list of 23 words is a **gamete** (aka egg or sperm).
-A multi-dimensional list of tokens (words) is a **gene pool**.
+**chromosomes**: _words._
 
-### The Models
+**genome**: _a list of 46 words._
 
-A `God` has:
+**gamete**: _a list of 23 words._
 
-`chromosomes`: Either `XX` or `XY`.
-`gender`: Either `male`, `female`, or `non_binary`.
-`genome`: A list of up to 46 words.
-`generation`: An integer set during a `pantheon.spawn()`.
-`divinity`: Either `god`, `demi_god`, or `human`. 
-`name`: A string pulled at random from a list of `female_names`, `male_names`, or `nb_names`.
-`epithet`: A string that combines a title (God, Godess, Divine Being, ...) with between 1 and 4 domains. 
+**gene pool**: _a multi-dimensional list of tokens drawn from different texts._
 
-A `Pantheon` has:
+**sexual reproduction**: _the process that occurs when a new `God` is initialized with two parent `God`s._
 
-`gods`: A dictionary mapping names to `God`s. 
+**asexual reproduction**: _the process that occurs when a new `God` is initialized using just strings._
+
+# Models
+
+**Attributes of a `God`:**
+
+`chromosomes`: _Either `XX` or `XY`._
+
+`gender`: _Either `male`, `female`, or `non_binary`._
+
+`genome`: _A list of up to 46 words._
+
+`generation`: _An integer set during a `pantheon.spawn()`._
+
+`divinity`: _Either `god`, `demi_god`, or `human`._
+
+`name`: _A string pulled at random from a list of `female_names`, `male_names`, or `nb_names`._
+
+`epithet`: _A string that combines a title (God, Goddess, Divine Being, ...) with between 1 and 4 domains. A domain is a word randomly selected from the `God's` genome. Example: Goddess of hunting and war._
+
+
+**Attributes of a `Pantheon`:**
+
+`gods`: _A dictionary mapping names to `Gods`._
 
 ### Reproduction
 
