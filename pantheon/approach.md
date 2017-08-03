@@ -60,7 +60,7 @@ gods: A dictionary mapping names to `Gods`.
 
 # Reproduction
 
-### Spawning Gods
+### Spawning [Gods](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py)
 
 Given two `Gods`, one `XX` **egg donor** and one `XY` **sperm donor**...
 
@@ -72,7 +72,7 @@ Given two `Gods`, one `XX` **egg donor** and one `XY` **sperm donor**...
 
 _Note: because a `God's` genome is populated with words **related** to seeds from its parents' genomes, a `God` feels **genetically related** to its parents. But, because the seeds are selected at **random** from the parents' genomes, there's room for **genetic drift**._
 
-### Spawning Pantheons
+### Spawning [Pantheons](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/pantheons.py)
 
 Given two `Gods`, one `XX` **egg donor** and one `XY` **sperm donor**, and a number of generations **N**...
 
