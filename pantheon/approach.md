@@ -15,7 +15,6 @@ _Monthly Challenge 20 - July, 2017_
 
 Write two python classes, `God` and `Pantheon`, whose functions are metaphors for sexual reproduction. The goal is to generate `Gods` with internally-coherent domains and `Pantheons` with diverse but related deities.
 
-
 **chromosomes**: _words._
 
 **genome**: _a list of 46 words._
@@ -24,9 +23,10 @@ Write two python classes, `God` and `Pantheon`, whose functions are metaphors fo
 
 **gene pool**: _a multi-dimensional list of tokens drawn from different texts._
 
-**sexual reproduction**: _the process that occurs when a new `God` is initialized with two parent `God`s._
+**sexual reproduction**: _the process that occurs when a new `God` is initialized with two parent `Gods`._
 
 **asexual reproduction**: _the process that occurs when a new `God` is initialized using just strings._
+
 
 # Models
 
@@ -60,17 +60,24 @@ gods: A dictionary mapping names to `Gods`.
 
 # Reproduction
 
-### Producing a `God`
+### Spawning Gods
 
-Call `God(egg_donor, sperm_donor)` with arguments that are either both strings or both `Gods`. If the arguments are strings [asexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L56) will occur; if the arguments are `Gods` [sexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L68) will occur. 
+Given two `Gods`, one `XX` **egg donor** and one `XY` **sperm donor**...
 
-During sexual reproduction, we grab one **random** word from the `God.genome` of the `egg_donor` and one from the `God.genome` of the `sperm_donor`. Those randomly-selected words are used to [generate two gametes](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L159). Each gamete is a list of 23 **related** words that spaCy pulls from a globally-defined gene pool. The combination of those gametes is the new `God's` genome.
+1. Select a random word from the `God.genome` of the **egg donor**.
+1. Use spaCy to pull 23 related words from the **gene pool**. This is the **egg**.
+1. Select a random word from the `God.genome` of the **sperm donor**.
+1. Use spaCy to pull 23 related words from the **gene pool**. This is the **sperm**.
+1. Add the **egg** and **sperm** together. This list of 46 words is the *genome* for the new `God`.
 
-Because a `God's` genome is populated with words **related** to its parents' genomes, a `God` feels **genetically related** to its parents. But, because the seed is selected at **random** from the parents' genomes, there's room for **genetic drift**.
+_Note: because a `God's` genome is populated with words **related** to seeds from its parents' genomes, a `God` feels **genetically related** to its parents. But, because the seeds are selected at **random** from the parents' genomes, there's room for **genetic drift**._
 
+### Spawning Pantheons
 
-### Producing a `Pantheon`
+Given two `Gods`, one `XX` **egg donor** and one `XY` **sperm donor**, and a number of generations **N**...
 
-Call `Pantheon(mother_of_creation, father_of_creation)` with arguments that are `Gods`. One `God` must have `XX` chromosomes and one must have `XY` chromosomes, but their genders do not matter; the model just needs an egg donor and a sperm donor.
-
-With an initial egg donor and sperm donor, you can [spawn more `Gods`](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/pantheons.py#L15) by calling `Pantheon.spawn(num_generations)`. At the beginning of each generation most of the fertile `egg_donors` will breed; at the end their offspring will be added to the breeding pool and older `Gods` will be removed from the breeding pool (see [here](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/pantheons.py#L37-L43)).
+1. Declare a list of **egg donors** and a list of **sperm donors**.
+1. Iterate **N** times, once for each generation...
+1. At the start of each generation breed the **egg donors**.
+1. At the end of each generation, add mature offspring to the breeding pool.
+1. At the end of each generation, remove elder `Gods` from the breeding pool.
