@@ -13,22 +13,30 @@ _Monthly Challenge 20 - July, 2017_
 
 # Strategy
 
-Let's call words **chromosomes**. That makes a list of 46 words a **genome** and a list of 23 words a **gamete** (egg or sperm). A tokenized text is a **genetic individual** and a list of tokenized texts is a **gene pool**. 
+Write two python classes, `God` and `Pantheon`, whose functions are metaphors for **sexual reproduction** in order to generate gods with internally-coherent domains and Pantheons with diverse but related deities. 
 
-The generator in `gods.py` takes an `egg_word` and uses spaCy's word relatedness vectors to pull 23 related words from a series of tokenized texts (the gene pool). It then does the same with a `sperm_word`. It combines the two 23-word lists to produce the unique genome for a new god.
+### The Metaphor
 
-### Sex and Gender
+Words are **chromosomes**.
+A list of 46 words is a **genome** and a list of 23 words is a **gamete** (aka egg or sperm).
+A multi-dimensional list of tokens (words) is a **gene pool**.
 
-Because this model is based on sexual reproduction each god is assigned XX or XY *chromosomes*. This is done at random. The god's gender is then chosen according to the following probabilities: 90% of the time the god will be cisgendered, 5% of the time the god will be transgendered, and 5% of the time the god will identify as neither male nor female. The model prefers labels like `egg_donor` and `sperm_donor` over `mother` and `father` because it does not assume reproducing pairs will be cis-gendered. An egg could come from a father, and a sperm from a mother.
+### The Models
 
-Gender manifests in things like the god's epithet. A female god (whether XX or XY) will be called Godess or Demi-Godess; a male god (XX or XY) will be called God or Demi-God; and a non-binary god will be called Divine Being or Semi-Divine Being.
+A `God` has:
 
-### Mutation
+`chromosomes`: Either `XX` or `XY`.
+`gender`: Either `male`, `female`, or `non_binary`.
+`genome`: A list of up to 46 words.
+`generation`: An integer set during a `pantheon.spawn()`.
+`divinity`: Either `god`, `demi_god`, or `human`. 
+`name`: A string pulled at random from a list of `female_names`, `male_names`, or `nb_names`.
+`epithet`: A string that combines a title (God, Godess, Divine Being, ...) with between 1 and 4 domains. 
 
-Concrete nouns produce the best results when searching for related words. Here "best" means "most obviously related to the intended meaning of the input." Gerunds (verbs made nouns) produce some funky results. 80% of the time this model pulls related words from a list of nouns; the remaining 20% of the time it pulls related words from a list of gerunds. You might call these the *regular gene pool* and the *mutant gene pool*.
+A `Pantheon` has:
 
-### Dilution
+`gods`: A dictionary mapping names to `God`s. 
 
-Over time deity is diluted. When a pantheon spawns, its early generations will mostly be Gods, Godesses, and Divine Beings. Subsequent generations skew toward Demi-Gods, Demi-Godesses, and Semi-Divine Beings. 7+ generations in you will start seeing a few humans pop up.
+### Reproduction
 
-None of this is random. Probabilities are defined in `gods.py`. The union of two gods will likely produce a god but might produce a demi-god. The union of god and demi-god will likely produce a demi-god but might produce a god. The union of demi-god and demi-god will likely produce a demi-god but might produce a human. And so on.
+To generate a `God` call `God(egg_donor, sperm_donor)` with arguments that are either both strings or both `God`s. If the arguments are strings, **asexual reproduction** will occur; if the arguments are `God`s, **sexual reproduction** will occur.
