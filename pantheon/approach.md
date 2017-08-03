@@ -46,11 +46,22 @@ Write two python classes, `God` and `Pantheon`, whose functions are metaphors fo
 
 `epithet`: _A string that combines a title (God, Goddess, Divine Being, ...) with between 1 and 4 domains. A domain is a word randomly selected from the `God's` genome. Example: Goddess of hunting and war._
 
+`parents`: _The `Gods` whose egg and sperm combined to create this `God`.
+
 
 **Attributes of a `Pantheon`:**
 
 `gods`: _A dictionary mapping names to `Gods`._
 
-### Reproduction
+# Reproduction
 
-To generate a `God` call `God(egg_donor, sperm_donor)` with arguments that are either both strings or both `God`s. If the arguments are strings, **asexual reproduction** will occur; if the arguments are `God`s, **sexual reproduction** will occur.
+To generate a `God` call `God(egg_donor, sperm_donor)` with arguments that are either both strings or both `Gods`. If the arguments are strings [asexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L56) will occur; if the arguments are `Gods` [sexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L68) will occur. The processes are similar. Here's sexual reproduction.
+
+1. Grab a **random** word from the `God.genome` of the `egg_donor` and `sperm_donor`. 
+1. Use those random words to [generate two gametes](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L159). Each gamete is a list of 23 **related** words. The model uses spaCy to find related words in a gene pool.
+1. Combine the gametes. This is the new `God's` genome.
+
+Because a `God's` genome is populated with words **related** to its parents' genomes, a `God` feels **genetically related** to its parents. But, because the seed is selected at **random** from the parents' genomes, there's room for **genetic drift**.
+
+
+
