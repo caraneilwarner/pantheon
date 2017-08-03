@@ -60,7 +60,7 @@ gods: A dictionary mapping names to `Gods`.
 
 # Reproduction
 
-**Producing a `God`**
+### Producing a `God`
 
 Call `God(egg_donor, sperm_donor)` with arguments that are either both strings or both `Gods`. If the arguments are strings [asexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L56) will occur; if the arguments are `Gods` [sexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L68) will occur. 
 
@@ -69,7 +69,7 @@ During sexual reproduction, we grab one **random** word from the `God.genome` of
 Because a `God's` genome is populated with words **related** to its parents' genomes, a `God` feels **genetically related** to its parents. But, because the seed is selected at **random** from the parents' genomes, there's room for **genetic drift**.
 
 
-**Producing a `Pantheon`**
+### Producing a `Pantheon`
 
 Call `Pantheon(mother_of_creation, father_of_creation)` with arguments that are `Gods`. One `God` must have `XX` chromosomes and one must have `XY` chromosomes, but their genders do not matter; the model just needs an egg donor and a sperm donor.
 
