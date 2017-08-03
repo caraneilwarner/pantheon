@@ -62,15 +62,9 @@ gods: A dictionary mapping names to `Gods`.
 
 **Producing a `God`**
 
-Call `God(egg_donor, sperm_donor)` with arguments that are either both strings or both `Gods`. If the arguments are strings [asexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L56) will occur; if the arguments are `Gods` [sexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L68) will occur. The processes are similar. Here's sexual reproduction.
+Call `God(egg_donor, sperm_donor)` with arguments that are either both strings or both `Gods`. If the arguments are strings [asexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L56) will occur; if the arguments are `Gods` [sexual reproduction](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L68) will occur. 
 
-```
-1. Grab a **random** word from the `God.genome` of the `egg_donor` and `sperm_donor`. 
-
-2. Use those random words to [generate two gametes](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L159). Each gamete is a list of 23 **related** words. The model uses spaCy to find related words in a gene pool.
-
-3. Combine the gametes. This is the new `God's` genome.
-```
+During sexual reproduction, we grab one **random** word from the `God.genome` of the `egg_donor` and one from the `God.genome` of the `sperm_donor`. Those randomly-selected words are used to [generate two gametes](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L159). Each gamete is a list of 23 **related** words that spaCy pulls from a globally-defined gene pool. The combination of those gametes is the new `God's` genome.
 
 Because a `God's` genome is populated with words **related** to its parents' genomes, a `God` feels **genetically related** to its parents. But, because the seed is selected at **random** from the parents' genomes, there's room for **genetic drift**.
 
