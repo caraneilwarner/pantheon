@@ -81,3 +81,17 @@ Given two `Gods`, one `XX` **egg donor** and one `XY` **sperm donor**, and a num
 1. At the start of each generation breed the **egg donors**.
 1. At the end of each generation, add mature offspring to the breeding pool.
 1. At the end of each generation, remove elder `Gods` from the breeding pool.
+
+
+# Code Imitating Nature
+
+The model blends randomness and probability to echo the beauty of natural reproduction.
+
+### Probability
+
+**[Gender](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L26-L35)**: There's a 7% chance a `God` will be transgendered and a 3% chance a `God` will be non-gendered or gender-queer. For this reason the model refers to 'egg donors' and 'sperm donors' not 'mothers' and 'fathers'. Two male `Gods` can procreate, as can two female `Gods`, or a gender-queer `God` and another `God`, as long as one parent is `XX` and one is `XY`.
+
+**[Mutation](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L170-L172)**: The related words that spaCy finds in a list of plural nouns often feel "more related" than the ones it finds in a list of gerunds. This is just something I observed. 80% of the time this model pulls gametes from `primary_tokens`, which is a list of NNS; the other 20% of the time it pulls gametes from `secondary_tokens`, which is a list of VBG. The result is some children look a lot like their parents and some look very different; there's variety in how far the apple falls from the tree.
+
+**[Deity](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L26-L35)**: Many traditions describe old gods as more powerful than young gods. When two `Gods` procreate there's a 30% chance their offspring will be a 'demi-god' rather than a full blown god. That chance jumps to 50% when a 'god' and 'demi-god' procreate, and when two 'demi-gods' procreate there's a 25% chance their offspring will be a lowly human.
+
