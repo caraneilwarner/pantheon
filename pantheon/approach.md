@@ -95,3 +95,20 @@ The model blends randomness and probability to echo the beauty of natural reprod
 
 **[Deity](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L26-L35)**: Many traditions describe old gods as more powerful than young gods. When two `Gods` procreate there's a 30% chance their offspring will be a 'demi-god' rather than a full blown god. That chance jumps to 50% when a 'god' and 'demi-god' procreate, and when two 'demi-gods' procreate there's a 25% chance their offspring will be a lowly human.
 
+**[Twins](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/pantheons.py#L48)**: 20% of the time coupling produces twins; the other 80% of the time it produces a single child. 
+
+**[Epithet](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L143)**: Most gods (55%) represent 3 domains: God of X, Y, and Z. Slightly fewer gods (35%) represent two domains: God of X and Y. The remaining gods represent 1  or 4 domains.
+
+### Randomness
+
+**[Chromosomes](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L85)**: There's a 50% chance a new God will have `XX` sex chromosomes and a 50% chance it will have `XY` chromosomes. Because it's random, some Pantheons 
+
+
+# Future Enhancements
+
+- [ ] Tweak gene logic to differentiate between **identical** and **fraternal** twins and tripplets.
+- [ ] Add logic to de-duplicate domains represented within a `Panetheon`.
+- [ ] Find a visualization library to chart the relationships between `Gods` in a `Pantheon`. A family tree.
+- [ ] Add chance of tripplets.
+- [ ] Add chance of infertility.
+- [ ] Add a `God.siblings` attribute.
