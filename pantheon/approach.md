@@ -29,18 +29,18 @@ Write two python classes, `God` and `Pantheon`, whose functions are metaphors fo
 
 **Attributes of a `God`**
 
-* **chromosomes**: _Either `XX` or `XY`._
-* **gender**: _Either `male`, `female`, or `non_binary`._
-* **genome**: _A list of up to 46 words._
-* **generation**: _An integer set during a `pantheon.spawn()`._
-* **divinity**: _Either `god`, `demi_god`, or `human`._
-* **name**: _A string pulled at random from a list of `female_names`, `male_names`, or `nb_names`._
-* **epithet**: _A string that combines a title (God, Goddess, Divine Being, ...) with between 1 and 4 domains. A domain is a word randomly selected from the `God's` genome. Example: Goddess of hunting and war._
-* **parents**: _The `Gods` whose egg and sperm combined to create this `God`._
+* **chromosomes**: Either `XX` or `XY`.
+* **gender**: Either `male`, `female`, or `non_binary`.
+* **genome**: A list of up to 46 words.
+* **generation**: An integer set during a `pantheon.spawn()`.
+* **divinity**: Either `god`, `demi_god`, or `human`.
+* **name**: A string pulled at random from a list of `female_names`, `male_names`, or `nb_names`.
+* **epithet**: A string that combines a title (God, Goddess, Divine Being, ...) with between 1 and 4 domains. A domain is a word randomly selected from the `God's` genome. Example: Goddess of hunting and war.
+* **parents**: The `Gods` whose egg and sperm combined to create this `God`.
 
 **Attributes of a `Pantheon`**
 
-* **gods**: _A dictionary mapping names to `Gods`._
+* **gods**: A dictionary mapping names to `Gods`.
 
 # Reproduction
 
