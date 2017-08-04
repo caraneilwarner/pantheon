@@ -13,7 +13,7 @@ _Monthly Challenge 20 - July, 2017_
 
 # Strategy
 
-Write two python classes, `God` and `Pantheon`, whose functions are metaphors for sexual reproduction. The goal is to generate `Gods` with internally-coherent domains and `Pantheons` with diverse but related deities.
+Construct two models called `God` and `Pantheon` whose functions are metaphors for sexual reproduction. The goal: generate `Gods` with internally-coherent domains and `Pantheons` with diverse but related deities. 
 
 **Metaphors**
 
@@ -82,6 +82,8 @@ The model blends randomness and probability to echo the beauty of natural reprod
 **[Twinning](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/pantheons.py#L48)**: 20% of the time coupling produces twins; the other 80% of the time it produces a single child. 
 
 **[Epithets](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L143)**: Most gods (55%) represent 3 domains: God of X, Y, and Z. Slightly fewer gods (35%) represent two domains: God of X and Y. The remaining gods represent 1  or 4 domains.
+
+
 
 
 # Future Enhancements
