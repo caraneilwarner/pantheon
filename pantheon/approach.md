@@ -15,48 +15,32 @@ _Monthly Challenge 20 - July, 2017_
 
 Write two python classes, `God` and `Pantheon`, whose functions are metaphors for sexual reproduction. The goal is to generate `Gods` with internally-coherent domains and `Pantheons` with diverse but related deities.
 
-**chromosomes**: _words._
+**Metaphors**
 
-**genome**: _a list of 46 words._
-
-**gamete**: _a list of 23 words._
-
-**gene pool**: _a multi-dimensional list of tokens drawn from different texts._
-
-**sexual reproduction**: _the process that occurs when a new `God` is initialized with two parent `Gods`._
-
-**asexual reproduction**: _the process that occurs when a new `God` is initialized using just strings._
+* **chromosomes**: _words._
+* **genome**: _a list of 46 words._
+* **gamete**: _a list of 23 words._
+* **gene pool**: _a multi-dimensional list of tokens drawn from different texts._
+* **sexual reproduction**: _the process that occurs when a new `God` is initialized with two parent `Gods`._
+* **asexual reproduction**: _the process that occurs when a new `God` is initialized using just strings._
 
 
 # Models
 
-**Attributes of a `God`:**
+**Attributes of a `God`**
 
-```
-chromosomes: Either `XX` or `XY`.
+* `chromosomes`: Either `XX` or `XY`.
+* `gender`: Either `male`, `female`, or `non_binary`.
+* `genome`: A list of up to 46 words.
+* `generation`: An integer set during a `pantheon.spawn()`.
+* `divinity`: Either `god`, `demi_god`, or `human`.
+* `name`: A string pulled at random from a list of `female_names`, `male_names`, or `nb_names`.
+* `epithet`: A string that combines a title (God, Goddess, Divine Being, ...) with between 1 and 4 domains. A domain is a word randomly selected from the `God's` genome. Example: Goddess of hunting and war.
+* `parents`: The `Gods` whose egg and sperm combined to create this `God`.
 
-gender: Either `male`, `female`, or `non_binary`.
+**Attributes of a `Pantheon`**
 
-genome: A list of up to 46 words.
-
-generation: An integer set during a `pantheon.spawn()`.
-
-divinity: Either `god`, `demi_god`, or `human`.
-
-name: A string pulled at random from a list of `female_names`, `male_names`, or `nb_names`.
-
-epithet: A string that combines a title (God, Goddess, Divine Being, ...) with between 1 and 4 domains. A domain is a word 
-
-randomly selected from the `God's` genome. Example: Goddess of hunting and war.
-
-parents: The `Gods` whose egg and sperm combined to create this `God`.
-```
-
-**Attributes of a `Pantheon`:**
-
-```
-gods: A dictionary mapping names to `Gods`.
-```
+* `gods`: A dictionary mapping names to `Gods`.
 
 # Reproduction
 
@@ -87,21 +71,17 @@ Given two `Gods`, one `XX` **egg donor** and one `XY` **sperm donor**, and a num
 
 The model blends randomness and probability to echo the beauty of natural reproduction.
 
-### Probability
-
 **[Gender](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L26-L35)**: There's a 7% chance a `God` will be transgendered and a 3% chance a `God` will be non-gendered or gender-queer. For this reason the model refers to 'egg donors' and 'sperm donors' not 'mothers' and 'fathers'. Two male `Gods` can procreate, as can two female `Gods`, or a gender-queer `God` and another `God`, as long as one parent is `XX` and one is `XY`.
+
+**[Sex](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L85)**: When a new `God` spawns its sex chromosomes are chosen at random. It's possible for several `Gods` in a row to be `XX` or `XY`. An unexpected consequence of this: some Pantheons grow much faster than others. The rate of growth is determined by the number of `XX` gods born in each generation.
 
 **[Mutation](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L170-L172)**: The related words that spaCy finds in a list of plural nouns often feel "more related" than the ones it finds in a list of gerunds. This is just something I observed. 80% of the time this model pulls gametes from `primary_tokens`, which is a list of NNS; the other 20% of the time it pulls gametes from `secondary_tokens`, which is a list of VBG. The result is some children look a lot like their parents and some look very different; there's variety in how far the apple falls from the tree.
 
-**[Deity](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L26-L35)**: Many traditions describe old gods as more powerful than young gods. When two `Gods` procreate there's a 30% chance their offspring will be a 'demi-god' rather than a full blown god. That chance jumps to 50% when a 'god' and 'demi-god' procreate, and when two 'demi-gods' procreate there's a 25% chance their offspring will be a lowly human.
+**[Power Level](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L26-L35)**: Many traditions describe old gods as more powerful than young gods. When two `Gods` procreate there's a 30% chance their offspring will be a 'demi-god' rather than a full blown god. That chance jumps to 50% when a 'god' and 'demi-god' procreate, and when two 'demi-gods' procreate there's a 25% chance their offspring will be a lowly human.
 
-**[Twins](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/pantheons.py#L48)**: 20% of the time coupling produces twins; the other 80% of the time it produces a single child. 
+**[Twinning](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/pantheons.py#L48)**: 20% of the time coupling produces twins; the other 80% of the time it produces a single child. 
 
-**[Epithet](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L143)**: Most gods (55%) represent 3 domains: God of X, Y, and Z. Slightly fewer gods (35%) represent two domains: God of X and Y. The remaining gods represent 1  or 4 domains.
-
-### Randomness
-
-**[Chromosomes](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L85)**: There's a 50% chance a new God will have `XX` sex chromosomes and a 50% chance it will have `XY` chromosomes. Because it's random, some Pantheons 
+**[Epithets](https://github.com/carawarner/procgen/blob/master/pantheon/scripts/gods.py#L143)**: Most gods (55%) represent 3 domains: God of X, Y, and Z. Slightly fewer gods (35%) represent two domains: God of X and Y. The remaining gods represent 1  or 4 domains.
 
 
 # Future Enhancements
