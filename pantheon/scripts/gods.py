@@ -6,7 +6,7 @@ from numpy.random import choice as npchoice
 from process import *
 
 # Initialize
-if not len(tokens.primary_tokens) > 0 : tokens.set_tokens_lists()
+if not len(tokens.primary_tokens) > 0 : tokens.set_token_lists()
 if not len(names.female_names) > 0 : names.set_name_lists()
 
 # Divinity constants
@@ -28,6 +28,7 @@ male = 'M'
 female = 'F'
 non_binary = 'NB'
 genders = [male, female, non_binary]
+valid_chromoomes = ['XX','XY']
 p_gender = {
      # chromosomes : male | female | non_binary
     'XX': [0.07, 0.90, 0.03],
@@ -37,16 +38,35 @@ p_gender = {
 
 class God:
 
-    def __init__(self, egg_donor, sperm_donor):
-        self.set_chromosomes()
+    def __init__(self, egg_donor, sperm_donor, chromosomes=None):
+        self.set_chromosomes(chromosomes)
         self.set_gender()
         self.set_inherited_traits(egg_donor, sperm_donor)
         self.set_name()
         self.set_epithet()
 
 
+    def set_chromosomes(self, chromosomes=None):
+        """This model uses the XY sex-determination system. Sex != gender.
+        Assign either XX or XY randomly with a 50/50 chance of each, unless
+        <chromosomes> are passed as an argument.
+        """
+        if chromosomes and chromosomes in valid_chromoomes:
+            self.chromosomes = chromosomes
+        else:
+            self.chromosomes = random.choice(['XX','XY'])
+
+
+    def set_gender(self):
+        """This model recognizes that sex chromosomes don't always line up with
+        gender. Assign M, F, or NB according to the probabilities in p_gender.
+        """
+        if not self.chromosomes: self.set_chromosomes()
+        self.gender = npchoice(genders, 1, p=p_gender[self.chromosomes])[0]
+
+
     def set_inherited_traits(self, egg_donor, sperm_donor):
-        """Accepts either strings or Gods as inputs."""
+        """Accept either strings or Gods as inputs."""
         if type(egg_donor) == str:
             self.reproduce_asexually(egg_donor, sperm_donor)
         else:
@@ -62,39 +82,25 @@ class God:
 
         self.genome = list(set(egg + sperm)) # Eliminate duplicates
         self.generation = 1
-        self.divinity = god
+        self.divinity = god # If it springs out of the ether, it's a god
 
 
     def reproduce_sexually(self, egg_donor, sperm_donor):
         """Produce two gametes, an egg and a sperm, from input Gods. Combine
-        them to produce a genome a la sexual reproduction. Select offspring's
-        divinity based on parents' combined divinity.
+        them to produce a genome a la sexual reproduction. Assign divinity
+        according to probabilities in p_divinity. The more divine the parents,
+        the more divine their offspring.
         """
         egg_word = random.choice(egg_donor.genome)
         egg = self.generate_gamete(egg_word)
         sperm_word = random.choice(sperm_donor.genome)
         sperm = self.generate_gamete(sperm_word)
 
-        self.genome = egg + sperm
+        self.genome = list(set(egg + sperm)) # Eliminate duplicates
         self.parents = [egg_donor, sperm_donor]
         self.generation = max(egg_donor.generation, sperm_donor.generation) + 1
         sum_ = egg_donor.divinity + sperm_donor.divinity
         self.divinity = npchoice(divinities, 1, p=p_divinity[sum_])[0]
-
-
-    def set_chromosomes(self):
-        """This model uses the XY sex-determination system. Sex != gender.
-        Assign either XX or XY randomly with a 50/50 chance of each.
-        """
-        self.chromosomes = random.choice(['XX','XY'])
-
-
-    def set_gender(self):
-        """This model recognizes that sex chromosomes don't always line up with
-        gender. Assign M, F, or NB according to the probabilities in p_gender.
-        """
-        if not self.chromosomes: self.set_chromosomes
-        self.gender = npchoice(genders, 1, p=p_gender[self.chromosomes])[0]
 
 
     def set_name(self):
@@ -141,6 +147,7 @@ class God:
             title = 'Semi-' + title if self.gender == non_binary else 'Demi-' + title
 
         num_domains = npchoice([1,2,3,4], 1, p=[0.05, 0.35, 0.55, 0.05])[0]
+
         if num_domains == 1:
             template = '%s of %s'
         if num_domains == 2:
@@ -150,31 +157,25 @@ class God:
         elif num_domains == 4:
             template = '%s of %s, %s, %s, and %s'
 
-        domains = random.sample(self.genome, num_domains)
+        self.domains = random.sample(self.genome, num_domains)
 
         # Put it all together
-        self.epithet = template % (title, *domains)
+        self.epithet = template % (title, *self.domains)
 
 
     def generate_gamete(self, egg_or_sperm_word):
-        """Extract 23 chromosomes (words) from a gene pool by searching one of
-        the gene pools (tokens lists) for words closely related to a "seed".
-        The seed is egg_or_sperm_word 80 percent of the time so that offspring
-        will feel "related" to their parents. 20 percent of the time the seed is
-        a random word. This is intended to simulate genetic mutation.
+        """Extract 23 'chromosomes' aka words from 'gene pool' aka list of tokens
+        by searching the list of tokens for words that are related to the given
+        egg_or_sperm_word.
         """
-        p_mutation = [0.8, 0.2]
-        mutant_word = random.choice(random_list())
-        seed = str(npchoice([egg_or_sperm_word, mutant_word], 1, p=p_mutation)[0])
+        p_rate_of_mutation = [0.9, 0.1]
+        should_use_mutant_pool = (npchoice([0,1], 1, p=p_rate_of_mutation)[0] == 1)
+        if should_use_mutant_pool:
+            pool = tokens.secondary_tokens
+        else:
+            pool = tokens.primary_tokens
 
-        p_gene_pool = [0.8, 0.2]
-        # Can't apply npchoice directly to tokens lists b/c they're multi-dimensional
-        use_secondary_pool = (npchoice([0,1], 1, p=p_gene_pool)[0] == 1)
-        pool = tokens.secondary_tokens if use_secondary_pool else tokens.primary_tokens
-
-        return get_overlapping_matches(seed, tokens.primary_tokens, 23)
-
-        return get_overlapping_matches(seed, pool, 23)
+        return get_matches(egg_or_sperm_word, pool, 23)
 
 
     def print_parents(self):
@@ -192,11 +193,3 @@ class God:
         template = '%s of %s, the %s, and %s, the %s.'
 
         print(template % (title, p1.name, p1.epithet, p2.name, p2.epithet))
-
-
-def random_list():
-    """Tokens lists are multi-dimensional; they're lists of lists. Return one of
-    the lists from the primary_tokens list.
-    """
-    i = random.choice(range(len(tokens.primary_tokens)))
-    return tokens.primary_tokens[i]

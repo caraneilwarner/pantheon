@@ -5,14 +5,30 @@ from math import ceil
 
 class Pantheon:
     def __init__(self, mother_of_creation, father_of_creation):
-        self.mother_of_creation = mother_of_creation
-        self.father_of_creation = father_of_creation
+        if not mother_of_creation.chromosomes == "XX":
+            print('Invalid mother of creation. Must have XX chromosomes.')
+        if not father_of_creation.chromosomes == "XY":
+            print('Invalid father of creation. Must have XY chromosomes.')
         self.gods = {}
-        self.gods[mother_of_creation.name] = mother_of_creation
-        self.gods[father_of_creation.name] = father_of_creation
+        self.add_god(mother_of_creation)
+        self.add_god(father_of_creation)
+
+
+    def add_god(self, god):
+        """Add a god to this Pantheon's gods dictionary."""
+        self.gods[god.name] = god
+
+
+    def get_god(self, name_of_god):
+        """Retrieve a god from this Pantheon's gods dictionary."""
+        try:
+            return self.gods[name_of_god]
+        except:
+            print('No deity named %s in this pantheon.' % name_of_god)
 
 
     def spawn(self, generations):
+        """Grow this Pantheon by multiplying Gods."""
         egg_donors = [god for god in self.gods.values() if god.chromosomes == 'XX']
         sperm_donors = [god for god in self.gods.values() if god.chromosomes == 'XY']
 
@@ -21,29 +37,30 @@ class Pantheon:
             gen_xx = []
             gen_xy = []
 
-            for egg_donor in random.sample(egg_donors, ceil((len(egg_donors) / 1.25))):
+            for egg_donor in egg_donors:
                 sperm_donor = random.choice(sperm_donors)
-                offspring = self.breed(egg_donor, sperm_donor)
+                brood = self.breed(egg_donor, sperm_donor)
 
-                # divine offspring join pantheon
-                for child in offspring:
-                    if child.divinity > 1:
-                        self.gods[child.name] = child
-                        if child.chromosomes == 'XX':
-                            gen_xx.append(child)
-                        else:
-                            gen_xy.append(child)
-
-            # mature offspring join the breeding pool
-            egg_donors += gen_xx
-            sperm_donors += gen_xy
+                for child in brood:
+                    if child.divinity > human:
+                        # divine offspring join the Pantheon
+                        self.add_god(child)
+                    if child.chromosomes == 'XX':
+                        gen_xx.append(child)
+                    else:
+                        gen_xy.append(child)
 
             # elder gods leave the breeding pool
             egg_donors = [ed for ed in egg_donors if ed.generation > (i-2)]
             sperm_donors = [sd for sd in sperm_donors if sd.generation > (i-3)]
 
+            # mature offspring join the breeding pool
+            egg_donors += gen_xx
+            sperm_donors += gen_xy
+
 
     def breed(self, egg_donor, sperm_donor):
+        """Get it on."""
         offspring = []
         num_children = npchoice([1,2], 1, p=[0.8, 0.2])[0] # 20% chance of twins
         for _ in range(num_children):
@@ -54,12 +71,6 @@ class Pantheon:
         return offspring
 
 
-    def get_god(self, name):
-        try:
-            return self.gods[name]
-        except:
-            print('No deity named %s in this pantheon.' % name)
-
-
 def send_birth_announcement(parent_a, parent_b, child):
+    """Convenience method for presentations."""
     print("%s - %s" % (child.name, child.epithet))
