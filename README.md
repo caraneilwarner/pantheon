@@ -25,6 +25,10 @@ Construct two models called `God` and `Pantheon` whose functions are metaphors f
 * **asexual reproduction**: _the process that occurs when a new `God` is initialized using just strings._
 
 
+# How To Use This Code
+
+TODO (estimated post date September 24, 2017).
+
 # Models
 
 **Attributes of a `God`**
@@ -82,8 +86,6 @@ The model blends randomness and probability to echo the beauty of natural reprod
 **[Twinning](https://github.com/carawarner/pantheon/blob/master/scripts/pantheons.py#L65)**: 20% of the time coupling produces twins; the other 80% of the time it produces a single child. 
 
 **[Epithets](https://github.com/carawarner/pantheon/blob/master/scripts/gods.py#L149)**: Most gods (55%) represent 3 domains: God of X, Y, and Z. Slightly fewer gods (35%) represent two domains: God of X and Y. The remaining gods represent 1  or 4 domains.
-
-
 
 
 # Future Enhancements
