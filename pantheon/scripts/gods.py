@@ -6,7 +6,7 @@ from numpy.random import choice as npchoice
 from process import *
 
 # Initialize
-if not len(tokens.primary_tokens) > 0 : tokens.set_token_lists()
+if not len(tokens.primary_tokens) > 0 : tokens.set_tokens_lists()
 if not len(names.female_names) > 0 : names.set_name_lists()
 
 # Divinity constants
@@ -15,12 +15,12 @@ demi_god = 2
 human = 1
 divinities = [god, demi_god, human]
 p_divinity = {
-    # sum : god | demi_god | human
-    6: [0.7, 0.3, 0.0],
-    5: [0.5, 0.5, 0.0],
-    4: [0.0, 0.8, 0.2],
-    3: [0.0, 0.3, 0.7],
-    2: [0.0, 0.0, 1.0]
+    # sum : [p_god, p_demi, p_human]
+    6: [0.7, 0.3, 0.0], # god+god     = usually god, sometimes demi
+    5: [0.5, 0.5, 0.0], # god+demi    = either god or demi
+    4: [0.0, 0.8, 0.2], # d+d OR g+h  = usually demi, sometimes human
+    3: [0.0, 0.3, 0.7], # demi+human  = usually human, sometimes demi
+    2: [0.0, 0.0, 1.0]  # human+human = always human
 }
 
 # Gender constants
@@ -30,9 +30,9 @@ non_binary = 'NB'
 genders = [male, female, non_binary]
 valid_chromoomes = ['XX','XY']
 p_gender = {
-     # chromosomes : male | female | non_binary
-    'XX': [0.07, 0.90, 0.03],
-    'XY': [0.90, 0.07, 0.03]
+     # chromosomes : [p_male, p_female, p_nb]
+    'XX': [0.09, 0.85, 0.06], # usually female, sometimes trans, occasionally NB
+    'XY': [0.85, 0.09, 0.06]  # usually male, sometimes trans, occasionally NB
 }
 
 

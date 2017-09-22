@@ -101,7 +101,7 @@ def make_tokens_list(dir_, filters):
         json.dump(tokens_list, outjson)
 
 
-def set_token_lists(dir_=None):
+def set_tokens_lists(dir_=None):
     if not dir_: dir_ = random.choice(os.listdir(tokens_dir))
     print("Loading tokens from: " + dir_)
 

@@ -9,7 +9,7 @@ from numpy.linalg import norm
 nlp = spacy.load('en_core_web_md')
 
 
-def get_matches(word, tokens, limit=10, offset=0):
+def get_matches(word, tokens, limit, offset=0):
     """Return words from <tokens> that are most closely related to <word>."""
     return closest(tokens, word_vec(word), limit, offset)
 
@@ -27,7 +27,7 @@ def cosine(vec1, vec2):
         return 0.0
 
 
-def closest(tokens, search_vec, limit=10, offset=0):
+def closest(tokens, search_vec, limit, offset=0):
     """Return the <limit> words from <tokens> whose vectors most closely
     resemble the search_vec. Skip the first <offset> results.
     """
