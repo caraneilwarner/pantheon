@@ -1,7 +1,0 @@
-src/corpora/*
-procenv/*
-.DS_Store
-*.pyc
-*.py.swp
-__pycache__/
-scraper.py
