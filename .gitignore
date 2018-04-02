@@ -5,3 +5,10 @@ procenv/*
 *.py.swp
 __pycache__/
 scraper.py
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+*.so
+
