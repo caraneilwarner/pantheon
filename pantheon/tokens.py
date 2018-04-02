@@ -1,5 +1,5 @@
-"""Exposes the json data files in the /src/tokens directory. These files contain
-raw tokens lists pulled from texts in the /src/corpora directory.
+"""Exposes the json data files in the /data/tokens directory. These files contain
+raw tokens lists pulled from texts in the /data/corpora directory.
 """
 import json
 import nltk
@@ -9,8 +9,8 @@ import random
 primary_tokens = [] # tokens that represent "normal" genes
 secondary_tokens = [] # tokens that represent "mutant" genes
 
-corpora_dir = '../src/corpora/'
-tokens_dir = '../src/tokens/'
+corpora_dir = '../data/corpora/'
+tokens_dir = '../data/tokens/'
 
 
 def sequence_genes():
@@ -34,7 +34,7 @@ def select_gene_pool(dir_):
 
 
 def tokenize_texts():
-    """Generate a json file for each txt file in the /src/corpora directory."""
+    """Generate a json file for each txt file in the /data/corpora directory."""
     text_files = [fname for fname in os.listdir(corpora_dir) \
         if fname.split('.')[1] == 'txt']
 
@@ -51,7 +51,7 @@ def tokenize_texts():
 
 
 def list_tokenized_texts():
-    """Retrieve the filenames of all tokenized text files in /src/corpora.
+    """Retrieve the filenames of all tokenized text files in /data/corpora.
     Useful when you want to hand-pick <sources> for make_tokens_dir().
     """
     return [f for f in os.listdir(corpora_dir) if f.split('.')[1] == 'json']
@@ -82,7 +82,7 @@ def make_tokens_list(dir_, filters):
         data = json.load(injson)
         sources = [corpora_dir + fname for fname in data]
 
-    with open('../src/skipwords.txt', 'r') as f:
+    with open('../data/skipwords.txt', 'r') as f:
         skipwords = [line.rstrip() for line in f]
 
     tokens_list = []

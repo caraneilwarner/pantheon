@@ -1,4 +1,4 @@
-"""Exposes the json data files in the /src/names directory."""
+"""Exposes the json data files in the /data/names directory."""
 import json
 import os
 import random
@@ -7,7 +7,7 @@ female_names = []
 male_names = []
 nb_names = []
 
-names_dir = '../src/names/'
+names_dir = '../data/names/'
 
 
 def set_name_lists(ethnicity=None):

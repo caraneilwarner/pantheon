@@ -1,5 +1,5 @@
 env/
-src/corpora/*
+data/corpora/*
 procenv/*
 .DS_Store
 *.pyc
@@ -12,4 +12,3 @@ dist/
 *.egg
 *.py[cod]
 *.so
-
