@@ -1,3 +1,4 @@
+env/
 src/corpora/*
 procenv/*
 .DS_Store
