@@ -49,7 +49,7 @@ setup(
     # project.
     author='Cara Warner',  # Optional
 
-    license='MIT License',
+    license='Apache License 2.0',
 
     # This should be a valid email address corresponding to the author listed
     # above.
