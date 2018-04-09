@@ -14,6 +14,13 @@ metaphor of sexual reproduction:
 
 ### How to Use the Library
 
+```
+python3 -m venv env
+source env/bin/activate
+pip install pantheon-generator
+python -m spacy download en_core_web_md
+```
+
 The user selects two seed words and uses them to generate a `God`:
 
 > God("hunting", "art")

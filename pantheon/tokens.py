@@ -9,8 +9,8 @@ import random
 primary_tokens = [] # tokens that represent "normal" genes
 secondary_tokens = [] # tokens that represent "mutant" genes
 
-corpora_dir = '../data/corpora/'
-tokens_dir = '../data/tokens/'
+corpora_dir = 'data/corpora/'
+tokens_dir = 'data/tokens/'
 
 
 def sequence_genes():
@@ -82,7 +82,7 @@ def make_tokens_list(dir_, filters):
         data = json.load(injson)
         sources = [corpora_dir + fname for fname in data]
 
-    with open('../data/skipwords.txt', 'r') as f:
+    with open('data/skipwords.txt', 'r') as f:
         skipwords = [line.rstrip() for line in f]
 
     tokens_list = []

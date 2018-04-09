@@ -7,7 +7,7 @@ female_names = []
 male_names = []
 nb_names = []
 
-names_dir = '../data/names/'
+names_dir = 'data/names/'
 
 
 def set_name_lists(ethnicity=None):

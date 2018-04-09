@@ -6,7 +6,7 @@ from collections import Counter
 from numpy import dot
 from numpy.linalg import norm
 
-nlp = spacy.load('en_core_web_lg')
+nlp = spacy.load('en_core_web_md')
 
 
 def get_matches(word, tokens, limit, offset=0):
