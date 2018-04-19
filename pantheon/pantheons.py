@@ -1,6 +1,6 @@
 """Defines a class Pantheon."""
 import random
-from gods import *
+from pantheon.gods import *
 from math import ceil
 
 class Pantheon:

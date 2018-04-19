@@ -18,7 +18,7 @@ metaphor of sexual reproduction:
 How To Use
 ==========
 
-Installation
+**Installation**
 
 python3 -m venv env
 
@@ -27,7 +27,7 @@ pip install pantheon-generator
 python -m spacy download en_core_web_md
 
 
-Interaction
+**Interaction**
 
 Generate individual `Gods` with seeder words:
 

@@ -18,7 +18,7 @@ setup(
     # $ pip install pantheon-generator
     name='pantheon-generator',  # Required
 
-    version='1.1.1',  # Required
+    version='0.9.3',  # Required
 
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
@@ -97,7 +97,7 @@ setup(
     # If using Python 2.6 or earlier, then these have to be included in
     # MANIFEST.in as well.
     package_data={  # Optional
-        'pantheon': ['data/*', 'data/names/*.json', 'data/tokens/*/*.json'],
+        'pantheon': ['data/*.txt', 'data/names/*.json', 'data/tokens/*/*.json'],
     },
     # Although 'package_data' is the preferred approach, in some case you may
     # need to place data files outside of your packages. See:

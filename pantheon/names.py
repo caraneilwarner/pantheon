@@ -7,7 +7,8 @@ female_names = []
 male_names = []
 nb_names = []
 
-names_dir = 'data/names/'
+abs_path = os.path.abspath(os.path.dirname(__file__))
+names_dir = os.path.join(abs_path, 'data/names/')
 
 
 def set_name_lists(ethnicity=None):

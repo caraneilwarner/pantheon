@@ -9,9 +9,10 @@ import random
 primary_tokens = [] # tokens that represent "normal" genes
 secondary_tokens = [] # tokens that represent "mutant" genes
 
-corpora_dir = 'data/corpora/'
-tokens_dir = 'data/tokens/'
 
+abs_path = os.path.abspath(os.path.dirname(__file__))
+corpora_dir = os.path.join(abs_path, 'data/corpora/')
+tokens_dir = os.path.join(abs_path, 'data/tokens/')
 
 def sequence_genes():
     """An alias."""

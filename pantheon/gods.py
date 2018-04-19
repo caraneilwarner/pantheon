@@ -1,9 +1,9 @@
 """Defines a class God."""
-import names
-import tokens
+import pantheon.names as names
+import pantheon.tokens as tokens
 import random
 from numpy.random import choice as npchoice
-from process import *
+from pantheon.process import *
 
 # Initialize
 if not len(tokens.primary_tokens) > 0 : tokens.set_tokens_lists()
