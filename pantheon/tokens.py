@@ -33,6 +33,9 @@ def select_gene_pool(dir_):
     """An alias."""
     set_token_lists(dir_)
 
+def list_gene_pools():
+    """An alias."""
+    get_tokens_dirs()
 
 def tokenize_texts():
     """Generate a json file for each txt file in the /data/corpora directory."""
@@ -114,3 +117,8 @@ def set_tokens_lists(dir_=None):
 
     global secondary_tokens
     secondary_tokens = json.load(open(s_fname, 'r'))
+
+def get_tokens_dirs():
+    tokens_dirs = [ dirname for dirname in os.listdir(tokens_dir) ]
+
+    return tokens_dirs

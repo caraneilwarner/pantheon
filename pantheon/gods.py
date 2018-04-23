@@ -5,10 +5,6 @@ import random
 from numpy.random import choice as npchoice
 from pantheon.process import *
 
-# Initialize
-if not len(tokens.primary_tokens) > 0 : tokens.set_tokens_lists()
-if not len(names.female_names) > 0 : names.set_name_lists()
-
 # Divinity constants
 god = 3
 demi_god = 2
@@ -193,3 +189,7 @@ class God:
         template = '%s of %s, the %s, and %s, the %s.'
 
         print(template % (title, p1.name, p1.epithet, p2.name, p2.epithet))
+
+if __name__ == "__main__":
+    if not len(tokens.primary_tokens) > 0 : tokens.set_tokens_lists()
+    if not len(names.female_names) > 0 : names.set_name_lists()
