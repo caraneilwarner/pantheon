@@ -99,5 +99,5 @@ The model blends randomness and probability to echo the beauty of nature.
 
 # More Information
 
-Find more information in the [wiki](https://github.com/carawarner/pantheon/wiki).
+Find more information (including [example output](https://github.com/carawarner/pantheon/wiki/Example-Output) see the [wiki](https://github.com/carawarner/pantheon/wiki).
 
