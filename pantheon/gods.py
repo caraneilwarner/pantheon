@@ -96,10 +96,10 @@ class God:
         sperm = self.generate_gamete(sperm_word)
 
         self.genome = list(set(egg + sperm)) # Eliminate duplicates
-        self.parents = [egg_donor, sperm_donor]
+        self.parents = [egg_donor.name, sperm_donor.name]
         self.generation = max(egg_donor.generation, sperm_donor.generation) + 1
         sum_ = egg_donor.divinity + sperm_donor.divinity
-        self.divinity = npchoice(divinities, 1, p=p_divinity[sum_])[0]
+        self.divinity = int(npchoice(divinities, 1, p=p_divinity[sum_])[0])
 
 
     def set_name(self):
