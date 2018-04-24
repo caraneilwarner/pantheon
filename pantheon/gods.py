@@ -34,9 +34,9 @@ p_gender = {
 
 class God:
 
-    def __init__(self, egg_donor, sperm_donor, chromosomes=None):
+    def __init__(self, egg_donor, sperm_donor, chromosomes=None, gender=None):
         self.set_chromosomes(chromosomes)
-        self.set_gender()
+        self.set_gender(gender)
         self.set_inherited_traits(egg_donor, sperm_donor)
         self.set_name()
         self.set_epithet()
@@ -53,12 +53,15 @@ class God:
             self.chromosomes = random.choice(['XX','XY'])
 
 
-    def set_gender(self):
+    def set_gender(self, gender=None):
         """This model recognizes that sex chromosomes don't always line up with
         gender. Assign M, F, or NB according to the probabilities in p_gender.
         """
-        if not self.chromosomes: self.set_chromosomes()
-        self.gender = npchoice(genders, 1, p=p_gender[self.chromosomes])[0]
+        if gender and gender in genders:
+            self.gender = gender
+        else:
+            if not self.chromosomes: self.set_chromosomes()
+            self.gender = npchoice(genders, 1, p=p_gender[self.chromosomes])[0]
 
 
     def set_inherited_traits(self, egg_donor, sperm_donor):
