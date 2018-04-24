@@ -18,7 +18,7 @@ setup(
     # $ pip install pantheon-generator
     name='pantheon-generator',  # Required
 
-    version='0.9.3',  # Required
+    version='0.9.4',  # Required
 
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
