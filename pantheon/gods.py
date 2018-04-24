@@ -24,7 +24,7 @@ male = 'M'
 female = 'F'
 non_binary = 'NB'
 genders = [male, female, non_binary]
-valid_chromoomes = ['XX','XY']
+valid_chromosomes = ['XX','XY']
 p_gender = {
      # chromosomes : [p_male, p_female, p_nb]
     'XX': [0.09, 0.85, 0.06], # usually female, sometimes trans, occasionally NB
