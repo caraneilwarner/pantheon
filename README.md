@@ -39,8 +39,6 @@ The deities reproduce for several generations. The result in a `Pantheon` with a
 few dozen `Gods` in it. One of these is Ajit, Demi-God of Talents, Crafts, and
 Prancing.
 
-
-
 # Models
 
 ### Attributes of a `God`
@@ -98,3 +96,8 @@ The model blends randomness and probability to echo the beauty of nature.
 **[Twinning](https://github.com/carawarner/pantheon/blob/master/pantheon/pantheons.py#L65)**: 20% of the time coupling produces twins; the other 80% of the time it produces a single child.
 
 **[Epithets](https://github.com/carawarner/pantheon/blob/master/pantheon/gods.py#L149)**: Most gods (55%) represent 3 domains: God of X, Y, and Z. Slightly fewer gods (35%) represent two domains: God of X and Y. The remaining gods represent 1  or 4 domains.
+
+# More Information
+
+Find more information in the [wiki](https://github.com/carawarner/pantheon/wiki).
+
