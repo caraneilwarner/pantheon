@@ -1,3 +1,5 @@
+News: MVP demo is now live [here](http://pantheon.carawarner.com/).
+
 # Pantheon Generator
 
 This library procedurally generates `Gods` with internally-coherent domains,
