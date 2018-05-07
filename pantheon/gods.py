@@ -119,7 +119,7 @@ class God:
                 name = names.nb_names.pop()
             except:
                 # No androgynous names available
-                name = male_names.pop()
+                name = names.male_names.pop()
 
         self.name = name
 
