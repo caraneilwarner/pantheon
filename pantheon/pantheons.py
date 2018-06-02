@@ -74,6 +74,13 @@ class Pantheon:
         return offspring
 
 
+    def __repr__(self):
+        return "<Pantheon object: A dictionary containing %d gods: %s>" % (len(self.gods), ", ".join(self.gods))
+
+
+    def __str__(self):
+        return "%d gods: %s>" % (len(self.gods), ", ".join(self.gods))
+
 def send_birth_announcement(parent_a, parent_b, child):
     """Convenience method for presentations."""
     print("%s - %s" % (child.name, child.epithet))
