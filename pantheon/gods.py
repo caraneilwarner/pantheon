@@ -23,12 +23,16 @@ p_divinity = {
 male = 'M'
 female = 'F'
 non_binary = 'NB'
+
+XX = 'XX'
+XY = 'XY'
+
 genders = [male, female, non_binary]
-valid_chromosomes = ['XX','XY']
+valid_chromosomes = [XX, XY]
 p_gender = {
      # chromosomes : [p_male, p_female, p_nb]
-    'XX': [0.09, 0.85, 0.06], # usually female, sometimes trans, occasionally NB
-    'XY': [0.85, 0.09, 0.06]  # usually male, sometimes trans, occasionally NB
+    XX: [0.09, 0.85, 0.06], # usually female, sometimes trans, occasionally NB
+    XY: [0.85, 0.09, 0.06]  # usually male, sometimes trans, occasionally NB
 }
 
 
@@ -50,7 +54,7 @@ class God:
         if chromosomes and chromosomes in valid_chromosomes:
             self.chromosomes = chromosomes
         else:
-            self.chromosomes = random.choice(['XX','XY'])
+            self.chromosomes = random.choice([XX, XY])
 
 
     def set_gender(self, gender=None):
@@ -129,11 +133,12 @@ class God:
         if self.divinity == human:
             obsession = random.choice(self.genome)
             if self.gender == female:
-                self.epithet = 'an ordinary woman'
+                self.epithet = 'ordinary woman'
             elif self.gender == male:
-                self.epithet = 'an ordinary man'
+                self.epithet = 'ordinary man'
             else:
-                self.epithet = 'an ordinary human being who loves ' + obsession
+                self.epithet = 'ordinary human being'
+            self.epithet += ' who loves ' + obsession
             return # Return early. The rest of the function deals with gods.
 
         if self.gender == female:
@@ -156,7 +161,7 @@ class God:
         elif num_domains == 4:
             template = '%s of %s, %s, %s, and %s'
 
-        self.domains = random.sample(self.genome, num_domains)
+        self.domains = [d.title() for d in random.sample(self.genome, num_domains)]
 
         # Put it all together
         self.epithet = template % (title, *self.domains)
@@ -192,6 +197,28 @@ class God:
         template = '%s of %s, the %s, and %s, the %s.'
 
         print(template % (title, p1.name, p1.epithet, p2.name, p2.epithet))
+
+
+    def __repr__(self):
+        return "<God object: %s the %s>" % (self.name, self.epithet)
+
+
+    def __str__(self):
+        return "%s the %s." % (self.name, self.epithet)
+
+
+    def __add__(self, other):
+        if self.chromosomes == other.chromosomes:
+            # Err: missing either egg or sperm donor!
+            redundant_gamete = "egg" if self.chromosomes == XX else "sperm"
+            print("Sexual reproduction requires an egg donor and a sperm donor."
+            + "You supplied two %s donors" % (redundant_gamete))
+            return
+
+        egg_donor = self if self.chromosomes == XX else other
+        sperm_donor = self if self.chromosomes == XY else other
+        return God(egg_donor, sperm_donor)
+
 
 if __name__ == "__main__":
     if not len(tokens.primary_tokens) > 0 : tokens.set_tokens_lists()
