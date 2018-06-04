@@ -1,6 +1,8 @@
-News: MVP demo is now live [here](http://pantheon.carawarner.com/).
+[pantheon.carawarner.com](http://pantheon.carawarner.com/)
 
 # Pantheon Generator
+
+[![PyPI version](https://badge.fury.io/py/pantheon-generator.svg)](https://badge.fury.io/py/pantheon-generator)
 
 This library procedurally generates `Gods` with internally-coherent domains,
 and `Pantheons` comprising generations of `Gods` that feel related to one
